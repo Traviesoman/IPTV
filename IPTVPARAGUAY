@@ -183,3 +183,27 @@ http://tvpremiumhd.club/lista-gratuita/221424/chilevision.m3u8
 
 #EXTINF:-1 tvg-name="CHILE" tvg-logo="https://i.imgur.com/5WJjTY5.png" group-title="CHILE",T13 CHILE
 http://tvpremiumhd.club/lista-gratuita/221424/tvchile.m3u8
+
+#EXTINF:-1 tvg-name="DAZN SPORTS 1" group-title="DEPORTE" ,DAZN SPORTS 1 FHD ES
+http://megatv.me:5890/khaled/12345/67250
+
+#EXTINF:-1 tvg-name="DAZN SPORTS 1" group-title="DEPORTE" ,DAZN SPORTS 1 UHD ES
+http://megatv.me:5890/khaled/12345/89969
+
+#EXTINF:-1 tvg-name="DAZN SPORTS 2 FHD" group-title="DEPORTE" ,DAZN SPORTS 2 FHD
+http://megatv.me:5890/khaled/12345/862
+
+#EXTINF:-1 tvg-name="DAZN SPORTS 2 HD" group-title="DEPORTE" ,DAZN SPORTS 1 HD
+http://megatv.me:5890/khaled/12345/89970
+
+#EXTINF:-1 tvg-name="DAZN SPORTS 3 FHD" group-title="DEPORTE" ,DAZN SPORTS 3 FHD
+http://megatv.me:5890/khaled/12345/69660
+
+#EXTINF:-1 tvg-name="DAZN SPORTS 3 HD" group-title="DEPORTE" ,DAZN SPORTS 3 HD
+http://megatv.me:5890/khaled/12345/89971
+
+#EXTINF:-1 tvg-name="DAZN SPORTS 4 FHD" group-title="DEPORTE" ,DAZN SPORTS 4 FHD
+http://megatv.me:5890/khaled/12345/89972
+
+#EXTINF:-1 tvg-name="DAZN SPORTS 4 HD" group-title="DEPORTE" ,DAZN SPORTS 4 HD
+http://megatv.me:5890/khaled/12345/89973
