@@ -202,3 +202,6 @@ http://megatv.me:5890/khaled/12345/89972
 
 #EXTINF:-1 tvg-name="DAZN SPORTS 4 HD" group-title="DEPORTE",DAZN SPORTS 4 HD
 http://megatv.me:5890/khaled/12345/89973
+
+#EXTINF:-1 tvg-name="RPC" tvg-logo="https://th.bing.com/th/id/R.fe0a5edc916e48d30df3d15a1d62ad73?rik=5At91Wo0K4RcZw&pid=ImgRaw&r=0" group-title="PARAGUAY",RPC 13
+https://stream.rpc.com.py/live/trece.m3u8
