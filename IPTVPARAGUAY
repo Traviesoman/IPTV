@@ -45,10 +45,10 @@ http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41063.m3u
 #EXTINF:-1 tvg-name="FOXSPORTS3" tvg-logo="https://th.bing.com/th/id/R.bebda2531f4c8a85d6d8533ac4357c79?rik=2VWqo4%2fvMU7Skw&riu=http%3a%2f%2fvignette1.wikia.nocookie.net%2flogosfake%2fimages%2f4%2f4b%2fFox_Sports_3.png%2frevision%2flatest%3fcb%3d20141006141554&ehk=iVqAiLOT5SigiIuM%2fyym9qlBlFLJ107nkET5f5ZhRAQ%3d&risl=&pid=ImgRaw&r=0" group-title="DEPORTE",FOX SPORTS 3 HD (MX)
 http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41062.m3u
 
-#EXTINF:-1 tvg-name="Unicanal" tvg-logo="https://lh3.googleusercontent.com/-RjyvLZJ0ed4/YH44rJhzBEI/AAAAAAABBxA/BYT7vltKAgsulzaQkdoAg8KadCOWEXHZwCK8BGAsYHg/s512/2021-04-19.jpg", Unicanal
+#EXTINF:-1 tvg-name="Unicanal" tvg-logo="https://lh3.googleusercontent.com/-RjyvLZJ0ed4/YH44rJhzBEI/AAAAAAABBxA/BYT7vltKAgsulzaQkdoAg8KadCOWEXHZwCK8BGAsYHg/s512/2021-04-19.jpg" group-title="PARAGUAY",Unicanal
 http://45.55.127.106/live/unicanal.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-name="Farra Play" tvg-logo="https://lh3.googleusercontent.com/-Vmu2Cvi2Rj8/YH42aPZcKeI/AAAAAAABBw0/U3tG7jCKTvQKmyjFA8hrLnL8sp5SdghKgCK8BGAsYHg/s512/2021-04-19.jpg", Farra Play | PY
+#EXTINF:-1 tvg-name="Farra Play" tvg-logo="https://lh3.googleusercontent.com/-Vmu2Cvi2Rj8/YH42aPZcKeI/AAAAAAABBw0/U3tG7jCKTvQKmyjFA8hrLnL8sp5SdghKgCK8BGAsYHg/s512/2021-04-19.jpg" group-title="PARAGUAY",Farra Play | PY
 http://159.203.148.226/live/farra.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,BABY TV HD FR
@@ -68,5 +68,6 @@ https://rds3gen.desdeparaguay.net/gentv/gentv_int_baja/chunklist_w1047099187.m3u
 
 #EXTINF:-1 tvg-name="ESPN HD (MX)" tvg-logo="" group-title="DEPORTE",ESPN HD (MX)
 http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41077.m3u
+
 #EXTINF:-1 tvg-name="ESPN U HD (MX)" tvg-logo="" group-title="DEPORTE",ESPN U HD (MX)
 http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41072.m3u
