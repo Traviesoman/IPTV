@@ -62,7 +62,7 @@ http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41063.m3u
 http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41062.m3u
 
 #EXTINF:-1 tvg-name="Unicanal" tvg-logo="https://lh3.googleusercontent.com/-RjyvLZJ0ed4/YH44rJhzBEI/AAAAAAABBxA/BYT7vltKAgsulzaQkdoAg8KadCOWEXHZwCK8BGAsYHg/s512/2021-04-19.jpg" group-title="PARAGUAY",Unicanal
-http://45.55.127.106/live/unicanal.m3u8?PlaylistM3UCL
+http://45.55.127.106/live/unicanal_mid.m3u8
 
 #EXTINF:-1 tvg-name="Farra Play" tvg-logo="https://lh3.googleusercontent.com/-Vmu2Cvi2Rj8/YH42aPZcKeI/AAAAAAABBw0/U3tG7jCKTvQKmyjFA8hrLnL8sp5SdghKgCK8BGAsYHg/s512/2021-04-19.jpg" group-title="PARAGUAY",Farra Play | PY
 http://159.203.148.226/live/farra.m3u8?PlaylistM3UCL
