@@ -166,8 +166,8 @@ https://4gtvfreemobile-mozai.4gtv.tv/Jty3JFCs1u5gwENkgDaS47JgZw8-vbqd0Hsx0HDbU94
 #EXTINF:-1 tvg-name="NTD TV" tvg-logo="https://pbs.twimg.com/profile_images/2909695219/4e6ececbe5b24f006e5ceadff84f0a00_400x400.png" group-title="TAIWAN",NTD TV
 https://ntd02.akamaized.net/HD-NY/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="CDE PUENTE LIVE" tvg-logo="https://npy.com.py/wp-content/uploads/2022/01/Mirador.jpeg" group-title="PARAGUAY" CDE PUENTE LIVE
-https://cdn.jmvstream.com/w/IPC-7040/camera.stream/chunklist.m3u8
+#EXTINF:-1 tvg-name="CDE PUENTE LIVE" tvg-logo="https://npy.com.py/wp-content/uploads/2022/01/Mirador.jpeg" group-title="PARAGUAY", CDE PUENTE (LIVE)
+https://cdn.jmvstream.com/w/IPC-7041/camera.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-name="TVBS" tvg-logo="https://th.bing.com/th/id/R.01f31aebe46babd090da196a08017a26?rik=z5ZfBh9w9lEevg&riu=http%3a%2f%2fcn.itver.cc%2fwp-content%2fuploads%2f2015%2f03%2fTVBS-NEWS-670x300.jpg&ehk=oWeoPpQMwo1%2fHb0MUpLQFH38tOqThe2mw%2fRU1TAOba4%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1" group-title="TAIWAN",TVBS
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658543268/ei/RAjbYoLJCciI-LAPuviWgAc/ip/2803%3A7d80%3Aa004%3A8774%3A6d0f%3A44fb%3Af744%3Adf0a/id/WkHLFd0fjxU.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/lT-Khvt3t-xPDDbGdhaSTUynQvQifONAIR8eOVc3EifS/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgEdEXtvWdOKj2iQD9P6ry-EKURKIphNPgqkQtENfc9wkCIQCCGMdVMhjKLsZC_aMM8FTFMVqmkV7HH3XochLxXT5TnQ%3D%3D/file/index.m3u8
