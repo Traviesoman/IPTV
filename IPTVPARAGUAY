@@ -236,5 +236,8 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/24
 #EXTINF:-1 tvg-name="Gorgeous Space TV" tvg-logo="" group-title="TAIWAN",Gorgeous Space TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCoo-jAsJgM8z09ddlhcBlSA/live
 
+#EXTINF:-1 tvg-name="ADN" tvg-logo="https://www.adnradio.cl/_templates/desktop/includes/img/logo.png" group-title="CHILE",ADN
+https://unlimited6-cl.dps.live/adntv/adntv.smil/playlist.m3u8
 
-
+#EXTINF:-1 tvg-name="Televisa Puebla" tvg-logo="https://th.bing.com/th/id/OIP.Zch-G52rqDqX_brefubfzAHaHa?pid=ImgDet&rs=1" group-title="PREMIUM",Televisa
+http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
