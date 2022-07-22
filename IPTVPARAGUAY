@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="A24" tvg-logo="https://th.bing.com/th/id/R.7343b30656c21ad93ecb353ae5c4fcb7?rik=1epZryAOJlvmQA&pid=ImgRaw&r=0" group-title="ARGENTINA",A24
+https://dai.google.com/linear/hls/pa/event/Txk1vDlZR2CCfDuUZ0ylpw/stream/ea0149f8-7650-4c8d-8e4b-22160746c58a:SCL/variant/759c0948bdde7284ca08c528a7ee742f/bandwidth/250000.m3u8
+
 #EXTINF:-1 tvg-name="SNT" tvg-logo="https://th.bing.com/th/id/R.c9db81d27f6ee5cd3b06772587c92899?rik=kyyigrDllxUBSg&riu=http%3a%2f%2fwww.concepcionaldia.com%2fwp-content%2fuploads%2f2014%2f09%2fsnt_py-1024x477.png&ehk=xXBFNs3MkJ0hSu3GtJiP%2f9kIJR8Cd2gpHc9X16A7118%3d&risl=&pid=ImgRaw&r=0" group-title="PARAGUAY",SNT
 https://d4xunn272arip.cloudfront.net/hls/snt_270.m3u8
 
