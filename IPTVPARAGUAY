@@ -184,7 +184,7 @@ http://tvpremiumhd.club/lista-gratuita/221424/chilevision.m3u8
 #EXTINF:-1 tvg-name="CHILE" tvg-logo="https://i.imgur.com/5WJjTY5.png" group-title="CHILE",T13 CHILE
 http://tvpremiumhd.club/lista-gratuita/221424/tvchile.m3u8
 
-#EXTINF:-1 tvg-name="DAZN SPORTS 1" group-title="DEPORTE" ,DAZN SPORTS 1 FHD ES
+#EXTINF:-1 tvg-name="DAZN SPORTS 1" group-title="DEPORTE",DAZN SPORTS 1 FHD ES
 http://megatv.me:5890/khaled/12345/67250
 
 #EXTINF:-1 tvg-name="DAZN SPORTS 1" group-title="DEPORTE",DAZN SPORTS 1 UHD ES
