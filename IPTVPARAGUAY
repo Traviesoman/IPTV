@@ -1,6 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="TN" tvg-logo="" group-title="ARGENTINA", TN
+
+#EXTINF:-1 tvg-name="ELDOCE TV" tvg-logo="https://2.bp.blogspot.com/_YkZZPo1aKZU/SwX97Ofe7MI/AAAAAAAALdY/LRXKQaCUD5g/s400/canaldoce.gif" group-title="ARGENTINA", ELDOCE TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658535530/ei/CuraYt2QIamQ4dUPlcy4KA/ip/2803%3A7d80%3Aa004%3A8774%3A3806%3Afc4%3A7db7%3A5706/id/gBbMbqILzXU.284/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/lT-KhqMz1JU-mdYs4TvUBxNvJqrwUBvN1V5L5H53yLED/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgQwoJiU0zKvwv5PU0AtH8Lel6aTF4AJggLufxv8mVNoMCIEgglJde8F2fVN3UTt6uptFZMkZnuTfL844tBaNmEyk4/file/index.m3u8
+
+#EXTINF:-1 tvg-name="TN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1200px-TN_todo_noticias_logo.svg.png" group-title="ARGENTINA", TN
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658534958/ei/zufaYrfiJ4SowQS9mbqwAg/ip/2803%3A7d80%3Aa004%3A8774%3A3806%3Afc4%3A7db7%3A5706/id/wHn1_QVoXGM.12/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/lT-KhpqbApRpl83xpKkWBED-2VmPq4NHNtErTKduLC2h/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhALEvOpAcXxrwuyemyIR3aa0LOgJCxV9zpcGAXmLoiIVJAiEA_IbxNn_7TP3I7e9r1MNiRqGvG-6z_z9I1ovCuOBzBGQ%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-name="AMERICA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="ARGENTINA",America TV
