@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="SNT" tvg-logo="https://th.bing.com/th/id/R.c9db81d27f6ee5cd3b06772587c92899?rik=kyyigrDllxUBSg&riu=http%3a%2f%2fwww.concepcionaldia.com%2fwp-content%2fuploads%2f2014%2f09%2fsnt_py-1024x477.png&ehk=xXBFNs3MkJ0hSu3GtJiP%2f9kIJR8Cd2gpHc9X16A7118%3d&risl=&pid=ImgRaw&r=0" group-title="PARAGUAY",SNT
+https://d4xunn272arip.cloudfront.net/hls/snt_270.m3u8
+
 #EXTINF:-1 tvg-name="C9N" tvg-logo="https://th.bing.com/th/id/R.b24a26ae2507f109345069eb5a282ec1?rik=KyPTu8uGZts0Ag&pid=ImgRaw&r=0&sres=1&sresct=1" group-title="PARAGUAY",C9N
 https://d4xunn272arip.cloudfront.net/hls/c9n_360.m3u8
 
