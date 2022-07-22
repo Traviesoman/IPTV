@@ -96,20 +96,23 @@ http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41064.m3u
 #EXTINF:-1,FOX SPORTS 2 HD (MX)
 http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41063.m3u
 
-#EXTINF:-1,LA: FOX SPORTS 3 HD (MX)
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.bebda2531f4c8a85d6d8533ac4357c79?rik=2VWqo4%2fvMU7Skw&riu=http%3a%2f%2fvignette1.wikia.nocookie.net%2flogosfake%2fimages%2f4%2f4b%2fFox_Sports_3.png%2frevision%2flatest%3fcb%3d20141006141554&ehk=iVqAiLOT5SigiIuM%2fyym9qlBlFLJ107nkET5f5ZhRAQ%3d&risl=&pid=ImgRaw&r=0" group-title="DEPORTE",FOX SPORTS 3 HD (MX)
 http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41062.m3u
 
-#EXTINF:-1 tvg-id="817" tvg-name="Unicanal" tvg-logo="https://lh3.googleusercontent.com/-RjyvLZJ0ed4/YH44rJhzBEI/AAAAAAABBxA/BYT7vltKAgsulzaQkdoAg8KadCOWEXHZwCK8BGAsYHg/s512/2021-04-19.jpg", Unicanal
+#EXTINF:-1 tvg-id="817" tvg-name="Unicanal" tvg-logo="https://lh3.googleusercontent.com/-RjyvLZJ0ed4/YH44rJhzBEI/AAAAAAABBxA/BYT7vltKAgsulzaQkdoAg8KadCOWEXHZwCK8BGAsYHg/s512/2021-04-19.jpg" group-title="PARAGUAY", Unicanal
 http://45.55.127.106/live/unicanal.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="828" tvg-name="Somos Del Este TV" tvg-logo="https://lh3.googleusercontent.com/-y3QFWBQHE-I/YH9dccPTdGI/AAAAAAABBz0/R4xo5fq8-k8QhAujzC3p7vY5ksP7qcOQQCK8BGAsYHg/s512/2021-04-20.jpg", Somos Del Este TV | PY
+#EXTINF:-1 tvg-id="828" tvg-name="Somos Del Este TV" tvg-logo="https://lh3.googleusercontent.com/-y3QFWBQHE-I/YH9dccPTdGI/AAAAAAABBz0/R4xo5fq8-k8QhAujzC3p7vY5ksP7qcOQQCK8BGAsYHg/s512/2021-04-20.jpg" group-title="PARAGUAY", Somos Del Este TV
 https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="811" tvg-name="Paravision" tvg-logo="https://lh3.googleusercontent.com/-1fUjD2FTrlU/YH4xkxag6PI/AAAAAAABBwE/ESDwMnL4nlsKPWztFXz676S0xTg-ROj6wCK8BGAsYHg/s512/2021-04-19.jpg", Paravision | PY
+#EXTINF:-1 tvg-id="811" tvg-name="Paravision" tvg-logo="https://lh3.googleusercontent.com/-1fUjD2FTrlU/YH4xkxag6PI/AAAAAAABBwE/ESDwMnL4nlsKPWztFXz676S0xTg-ROj6wCK8BGAsYHg/s512/2021-04-19.jpg" group-title="PARAGUAY", Paravision
 http://edge-live14-hr.cvattv.com.ar/live/c5eds/PARAVISION_C4/verimatrix_rotating_FTA/PARAVISION_C4-audio_20000=144800-video=1480000.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="816" tvg-name="Farra Play" tvg-logo="https://lh3.googleusercontent.com/-Vmu2Cvi2Rj8/YH42aPZcKeI/AAAAAAABBw0/U3tG7jCKTvQKmyjFA8hrLnL8sp5SdghKgCK8BGAsYHg/s512/2021-04-19.jpg", Farra Play | PY
+#EXTINF:-1 tvg-id="816" tvg-name="Farra Play" tvg-logo="https://lh3.googleusercontent.com/-Vmu2Cvi2Rj8/YH42aPZcKeI/AAAAAAABBw0/U3tG7jCKTvQKmyjFA8hrLnL8sp5SdghKgCK8BGAsYHg/s512/2021-04-19.jpg" group-title="PARAGUAY", Farra Play | PY
 http://159.203.148.226/live/farra.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Telefuturo2017.png",TELEFUTURO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Telefuturo2017.png" group-title="PARAGUAY",TELEFUTURO
 https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_int_baja/chunklist_w2058045038.m3u8?k=4aaae1d2abdda3ca47ff70004100caf83aa3f4478d89821bcc72e1582c19dbfa&exp=1658500343http://192.168.100.36:8008/ssdp/device-desc.xml
+
+#EXTINF:-1 tvg-logo="https://www.television.com.py/wp-content/uploads/2020/10/LogoGENtvpy.jpg" group-title="PARAGUAY" ,GEN
+https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_int_baja/chunklist_w2058045038.m3u8?k=4aaae1d2abdda3ca47ff70004100caf83aa3f4478d89821bcc72e1582c19dbfa&exp=1658500343
