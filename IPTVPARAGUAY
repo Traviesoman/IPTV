@@ -72,3 +72,6 @@ http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41077.m3u
 #EXTINF:-1 tvg-name="TYC SPORTS HD (US)" tvg-logo="" group-title="DEPORTE",TYC SPORTS HD (US)
 http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41014.m3u
 
+#EXTINF:-1 tvg-name="BANDSPORT HD" tvg-logo="" group-title="DEPORTE",BANDSPORT HD
+http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41209.m3u
+
