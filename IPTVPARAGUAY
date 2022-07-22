@@ -1,118 +1,64 @@
 #EXTM3U
 
-#EXTINF:-1,ABC TV
+#EXTINF:-1 tvg-name="C9N" tvg-logo="https://th.bing.com/th/id/R.b24a26ae2507f109345069eb5a282ec1?rik=KyPTu8uGZts0Ag&pid=ImgRaw&r=0&sres=1&sresct=1" group-title="PARAGUAY",C9N
+https://d4xunn272arip.cloudfront.net/hls/c9n_360.m3u8
+
+#EXTINF:-1 tvg-name="ABCTV" tvg-logo="https://paraguaype.com/wp-content/uploads/2017/04/AbcTvenvivoonline.AbcTvdesdeParaguay.jpg" group-title="PARAGUAY",ABC TV
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
 
-#EXTINF:-1,RECORD NEWS
+#EXTINF:-1 tvg-name="RecordNews" tvgg-logo="https://th.bing.com/th/id/R.e2451069c948168bb7d2f679802dc6ce?rik=sL6RHLKbItNVDQ&riu=http%3a%2f%2fvignette4.wikia.nocookie.net%2flogopedia%2fimages%2f9%2f99%2fRecord-news.jpg%2frevision%2flatest%3fcb%3d20120916104700&ehk=FC%2brDs1Ls5R7DsFQZvJJeXBgTUIPSg%2bdtSPs3FmjMfI%3d&risl=&pid=ImgRaw&r=0" group-title="BRASIL",RECORD NEWS
 https://rede-muhler-recordnews-1-br.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1,Canal 26 ARGENTINA
+#EXTINF:-1 tvg-name="CANAL26" tvg-logo="https://th.bing.com/th/id/R.02bb5a2325c1e88d621f2ceb6dfa4124?rik=UIpRewPcwqSZIA&riu=http%3a%2f%2f2.bp.blogspot.com%2f-WSfdALECnGU%2fVcYmaM7yHTI%2fAAAAAAAAPg4%2fsCwv6OV78zY%2fs1600%2f1i3qjKB.png&ehk=gIPpqhYknPxE370rxd48V2X4%2fL%2b%2fJ8sZJBmCsWALqes%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1" group-title="ARGENTINA",Canal 26
 http://200.115.193.177/live/26hd-720/playlist.m3u8
 
-#EXTINF:-1,TV CARIOCA
+#EXTINF:-1 tvg-name="TvCarioca" tvg-logo="https://th.bing.com/th/id/R.2d28ab273f63d70ab019d49a0d1692e0?rik=Esvr7MLDS1QPzQ&riu=http%3a%2f%2ftvonlinehd.net%2fimg%2fcanais%2fa3e6306db7add956da4055de9da2e049.jpg&ehk=4bQm65wnKeagc%2fyFrxorL8DzYIDXmivB5gkkptlF01Y%3d&risl=&pid=ImgRaw&r=0" group-title="BRASIL",TV CARIOCA
 https://srv5.zcast.com.br/tvcarioca/tvcarioca/playlist.m3u8
 
-#EXTINF:-1,TV PUBLICA ARG
+#EXTINF:-1 tvg-name="TV PUBLICA" tvg-logo="https://th.bing.com/th/id/R.61ef1929ee29f6e6e9cfedd7538240bb?rik=AYWctedc4sJ7hA&riu=http%3a%2f%2fi.imgbox.com%2f8ba6r7H9.png&ehk=PAUda9CR4kTov%2fKEslCMhZY3Zx3XPXGrxyIA4kICmuM%3d&risl=&pid=ImgRaw&r=0" group-title="ARGENTINA",TV PUBLICA ARG
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/TVPublicaArgentina/live
+
+#EXTINF:-1 tvg-name="DiscoveryChannel" tvg-logo="https://th.bing.com/th/id/R.5314f1734242debd1c82d3faa8a70824?rik=qR3pp0JSLVtvdA&pid=ImgRaw&r=0" group-title="PREMIUM",Discovery Channel ES
+http://megatv.me:5890/khaled/12345/931
+
+#EXTINF:-1 tvg-name="History HD" tvg-logo="https://th.bing.com/th/id/R.14a1fd434053c9aa41642e02b71bab46?rik=YHnMDAQUlgCpnQ&pid=ImgRaw&r=0" group-title="PREMIUM",HISTORY HD (MX)
+http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41050.m3u
+
+#EXTINF:-1 tvg-name="SBT" tvgg-logo="https://th.bing.com/th/id/R.6af62b2878f2187654737049c81b3eff?rik=izUQPjX%2bGsGlXA&riu=http%3a%2f%2ftelinhadatv.files.wordpress.com%2f2012%2f07%2fsbt.jpg&ehk=Qg2b8PP%2f4bEMW8A0vehzB7IN7FI4zHturW5idZvd3uU%3d&risl=&pid=ImgRaw&r=0" group-title="BRASIL",SBT BRASIL
+http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41122.m3u
+
+#EXTINF:-1 tvg-name="CNNENESPANOL" tvg-logo="https://th.bing.com/th/id/R.c191b56a3ef6aaf3e613069b71ec5875?rik=hKi8nayVWlMQXg&riu=http%3a%2f%2fwww.maduradas.com%2fwp-content%2fuploads%2f2014%2f02%2fCNN-en-Espa%c3%b1ol-EN-VIVO-800x533.jpg&ehk=fVrniMmwo0NW5K733XgL7qINJ%2bPilwK1jOkpx0Vl%2b%2bA%3d&risl=&pid=ImgRaw&r=0" group-title="NOTICIAS",CNN EN ESPANOL
+http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41092.m3u
+
+#EXTINF:-1 tvg-name="Discovery H&H" tvg-logo="https://th.bing.com/th/id/R.2d32db4745607f18056cf959e1001113?rik=A%2f2cr3HLxbXJ%2bA&pid=ImgRaw&r=0" group-title="PREMIUM", DISCOVERY H&H HD (MX)
+http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41083.m3u
+
+#EXTINF:-1 tvg-name="FOXSPORTS" tvg-logo="https://th.bing.com/th/id/R.a3bfd48feb334ed2dfd70a7c48bb5e11?rik=TfxOJ27sok%2bbTg&riu=http%3a%2f%2fwww.studionetworksolutions.com%2fwp-content%2fuploads%2f2014%2f03%2fFOX-Sports-21.jpg&ehk=hA2KRBqvwTZGa%2fV3vxXmOy65GdDfCbsqY%2fIv5hcIOZk%3d&risl=&pid=ImgRaw&r=0" group-title="DEPORTE",FOX SPORTS HD (MX)
+http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41064.m3u
+
+#EXTINF:-1 tvg-name="FOXSPORTS2" tvg-logo="https://3.bp.blogspot.com/-B19vvLrXixY/XGv7otWHlfI/AAAAAAAAAds/_sqwxu_sdXwzUa4flfsnwTQPf3EF3aMQACLcBGAs/s1600/fox_sports2_N.png" group-title="DEPORTE",FOX SPORTS 2 HD (MX)
+http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41063.m3u
+
+#EXTINF:-1 tvg-name="FOXSPORTS3" tvg-logo="https://th.bing.com/th/id/R.bebda2531f4c8a85d6d8533ac4357c79?rik=2VWqo4%2fvMU7Skw&riu=http%3a%2f%2fvignette1.wikia.nocookie.net%2flogosfake%2fimages%2f4%2f4b%2fFox_Sports_3.png%2frevision%2flatest%3fcb%3d20141006141554&ehk=iVqAiLOT5SigiIuM%2fyym9qlBlFLJ107nkET5f5ZhRAQ%3d&risl=&pid=ImgRaw&r=0" group-title="DEPORTE",FOX SPORTS 3 HD (MX)
+http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41062.m3u
+
+#EXTINF:-1 tvg-name="Unicanal" tvg-logo="https://lh3.googleusercontent.com/-RjyvLZJ0ed4/YH44rJhzBEI/AAAAAAABBxA/BYT7vltKAgsulzaQkdoAg8KadCOWEXHZwCK8BGAsYHg/s512/2021-04-19.jpg", Unicanal
+http://45.55.127.106/live/unicanal.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-name="Farra Play" tvg-logo="https://lh3.googleusercontent.com/-Vmu2Cvi2Rj8/YH42aPZcKeI/AAAAAAABBw0/U3tG7jCKTvQKmyjFA8hrLnL8sp5SdghKgCK8BGAsYHg/s512/2021-04-19.jpg", Farra Play | PY
+http://159.203.148.226/live/farra.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,BABY TV HD FR
 http://megatv.me:5890/khaled/12345/83021
 
-#EXTINF:-1,Discovery Channel ES
-http://megatv.me:5890/khaled/12345/931
-
-#EXTINF:-1,HISTORY HD (MX)
-http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41050.m3u
-
-#EXTINF:-1,SBT BRASIL
-http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41122.m3u
-
-#EXTINF:-1,CNN EN ESPANOL
-http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41092.m3u
-
-#EXTINF:-1,DISCOVERY H&H HD (MX)
-http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41083.m3u
-
-#EXTINF:-1,FOX SPORTS HD (MX)
-http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41064.m3u
-
-#EXTINF:-1,FOX SPORTS 2 HD (MX)
-http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41063.m3u
-
-#EXTINF:-1,LA: FOX SPORTS 3 HD (MX)
-http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41062.m3u
-
-#EXTINF:-1 tvg-id="817" tvg-name="Unicanal" tvg-logo="https://lh3.googleusercontent.com/-RjyvLZJ0ed4/YH44rJhzBEI/AAAAAAABBxA/BYT7vltKAgsulzaQkdoAg8KadCOWEXHZwCK8BGAsYHg/s512/2021-04-19.jpg", Unicanal
-http://45.55.127.106/live/unicanal.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="828" tvg-name="Somos Del Este TV" tvg-logo="https://lh3.googleusercontent.com/-y3QFWBQHE-I/YH9dccPTdGI/AAAAAAABBz0/R4xo5fq8-k8QhAujzC3p7vY5ksP7qcOQQCK8BGAsYHg/s512/2021-04-20.jpg", Somos Del Este TV | PY
+#EXTINF:-1 tvg-name="Somos Del Este TV" tvg-logo="https://lh3.googleusercontent.com/-y3QFWBQHE-I/YH9dccPTdGI/AAAAAAABBz0/R4xo5fq8-k8QhAujzC3p7vY5ksP7qcOQQCK8BGAsYHg/s512/2021-04-20.jpg" group-title="PARAGUAY", Somos Del Este TV
 https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="811" tvg-name="Paravision" tvg-logo="https://lh3.googleusercontent.com/-1fUjD2FTrlU/YH4xkxag6PI/AAAAAAABBwE/ESDwMnL4nlsKPWztFXz676S0xTg-ROj6wCK8BGAsYHg/s512/2021-04-19.jpg", Paravision | PY
+#EXTINF:-1 tvg-name="Paravision" tvg-logo="https://lh3.googleusercontent.com/-1fUjD2FTrlU/YH4xkxag6PI/AAAAAAABBwE/ESDwMnL4nlsKPWztFXz676S0xTg-ROj6wCK8BGAsYHg/s512/2021-04-19.jpg" group-title="PARAGUAY",Paravision
 http://edge-live14-hr.cvattv.com.ar/live/c5eds/PARAVISION_C4/verimatrix_rotating_FTA/PARAVISION_C4-audio_20000=144800-video=1480000.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="816" tvg-name="Farra Play" tvg-logo="https://lh3.googleusercontent.com/-Vmu2Cvi2Rj8/YH42aPZcKeI/AAAAAAABBw0/U3tG7jCKTvQKmyjFA8hrLnL8sp5SdghKgCK8BGAsYHg/s512/2021-04-19.jpg", Farra Play | PY
-http://159.203.148.226/live/farra.m3u8?PlaylistM3UCL
-
-#EXTINF:-1,TELEFUTURO
-#EXTM3U
-
-#EXTINF:-1,ABC TV
-https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
-
-#EXTINF:-1,RECORD NEWS
-https://rede-muhler-recordnews-1-br.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1,Canal 26 ARGENTINA
-http://200.115.193.177/live/26hd-720/playlist.m3u8
-
-#EXTINF:-1,TV CARIOCA
-https://srv5.zcast.com.br/tvcarioca/tvcarioca/playlist.m3u8
-
-#EXTINF:-1,TV PUBLICA ARG
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/TVPublicaArgentina/live
-
-#EXTINF:-1,BABY TV HD FR
-http://megatv.me:5890/khaled/12345/83021
-
-#EXTINF:-1,Discovery Channel ES
-http://megatv.me:5890/khaled/12345/931
-
-#EXTINF:-1,HISTORY HD (MX)
-http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41050.m3u
-
-#EXTINF:-1,SBT BRASIL
-http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41122.m3u
-
-#EXTINF:-1,CNN EN ESPANOL
-http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41092.m3u
-
-#EXTINF:-1,DISCOVERY H&H HD (MX)
-http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41083.m3u
-
-#EXTINF:-1,FOX SPORTS HD (MX)
-http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41064.m3u
-
-#EXTINF:-1,FOX SPORTS 2 HD (MX)
-http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41063.m3u
-
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.bebda2531f4c8a85d6d8533ac4357c79?rik=2VWqo4%2fvMU7Skw&riu=http%3a%2f%2fvignette1.wikia.nocookie.net%2flogosfake%2fimages%2f4%2f4b%2fFox_Sports_3.png%2frevision%2flatest%3fcb%3d20141006141554&ehk=iVqAiLOT5SigiIuM%2fyym9qlBlFLJ107nkET5f5ZhRAQ%3d&risl=&pid=ImgRaw&r=0" group-title="DEPORTE",FOX SPORTS 3 HD (MX)
-http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41062.m3u
-
-#EXTINF:-1 tvg-id="817" tvg-name="Unicanal" tvg-logo="https://lh3.googleusercontent.com/-RjyvLZJ0ed4/YH44rJhzBEI/AAAAAAABBxA/BYT7vltKAgsulzaQkdoAg8KadCOWEXHZwCK8BGAsYHg/s512/2021-04-19.jpg" group-title="PARAGUAY",Unicanal
-http://45.55.127.106/live/unicanal.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="828" tvg-name="Somos Del Este TV" tvg-logo="https://lh3.googleusercontent.com/-y3QFWBQHE-I/YH9dccPTdGI/AAAAAAABBz0/R4xo5fq8-k8QhAujzC3p7vY5ksP7qcOQQCK8BGAsYHg/s512/2021-04-20.jpg" group-title="PARAGUAY", Somos Del Este TV
-https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="811" tvg-name="Paravision" tvg-logo="https://lh3.googleusercontent.com/-1fUjD2FTrlU/YH4xkxag6PI/AAAAAAABBwE/ESDwMnL4nlsKPWztFXz676S0xTg-ROj6wCK8BGAsYHg/s512/2021-04-19.jpg" group-title="PARAGUAY",Paravision
-http://edge-live14-hr.cvattv.com.ar/live/c5eds/PARAVISION_C4/verimatrix_rotating_FTA/PARAVISION_C4-audio_20000=144800-video=1480000.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="816" tvg-name="Farra Play" tvg-logo="https://lh3.googleusercontent.com/-Vmu2Cvi2Rj8/YH42aPZcKeI/AAAAAAABBw0/U3tG7jCKTvQKmyjFA8hrLnL8sp5SdghKgCK8BGAsYHg/s512/2021-04-19.jpg" group-title="PARAGUAY",Farra Play
-http://159.203.148.226/live/farra.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Telefuturo2017.png" group-title="PARAGUAY",TELEFUTURO
+#EXTINF:-1 tvg-name="Telefuturo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Telefuturo2017.png" group-title="PARAGUAY",Telefuturo
 https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_int_baja/chunklist_w2058045038.m3u8?k=4aaae1d2abdda3ca47ff70004100caf83aa3f4478d89821bcc72e1582c19dbfa&exp=1658500343http://192.168.100.36:8008/ssdp/device-desc.xml
 
-#EXTINF:-1 tvg-logo="https://www.television.com.py/wp-content/uploads/2020/10/LogoGENtvpy.jpg" group-title="PARAGUAY",GEN
+#EXTINF:-1 tvg-name="GenTV" tvg-logo="https://www.television.com.py/wp-content/uploads/2020/10/LogoGENtvpy.jpg" group-title="PARAGUAY",GEN
 https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_int_baja/chunklist_w2058045038.m3u8?k=4aaae1d2abdda3ca47ff70004100caf83aa3f4478d89821bcc72e1582c19dbfa&exp=1658500343
