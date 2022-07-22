@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="EL DOCE TV" tvg-logo="" group-title="ARGENTINA", EL DOCE TV
-https://www.youtube.com/watch?v=gBbMbqILzXU
+#EXTINF:-1 tvg-name="TN" tvg-logo="" group-title="ARGENTINA", TN
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658534958/ei/zufaYrfiJ4SowQS9mbqwAg/ip/2803%3A7d80%3Aa004%3A8774%3A3806%3Afc4%3A7db7%3A5706/id/wHn1_QVoXGM.12/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/lT-KhpqbApRpl83xpKkWBED-2VmPq4NHNtErTKduLC2h/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhALEvOpAcXxrwuyemyIR3aa0LOgJCxV9zpcGAXmLoiIVJAiEA_IbxNn_7TP3I7e9r1MNiRqGvG-6z_z9I1ovCuOBzBGQ%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-name="AMERICA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="ARGENTINA",America TV
 hthttps://www.youtube.com/watch?v=gBbMbqILzXUtps://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/721e21e2-bffb-4fd0-8b41-d865d445e799:SCL/variant/ac6a0eb54fb7504b47e9fcfcfad19375/bandwidth/371000.m3u8
@@ -90,11 +90,23 @@ http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41209.m3u
 #EXTINF:-1 tvg-name="DW EN ESPAÑOL" tvg-logo="https://www.ipuntotv.com/IMAGES/DW-espanol.jpg" group-title="NOTICIAS",DW EN ESPAÑOL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-name="SP: DAZN F1 HD" tvg-logo="" group-title="DEPORTE",DAZN F1 HD
+#EXTINF:-1 tvg-name="DAZN F1 HD" tvg-logo="" group-title="DEPORTE",DAZN F1 HD
 http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/109190.m3u
 
 #EXTINF:-1 tvg-name="Movistar F1" tvg-logo="http://51.255.35.36/icons1/sp/movistar_es_formula_1.png" group-title="DEPORTE",Movistar F1
 http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/5963.m3u
 
-#EXTINF:-1 tvg-name="SP: Movistar F1 opc2" tvg-logo="http://51.255.35.36/icons1/sp/movistar_es_formula_1.png" group-title="DEPORTE",Movsitar F1 Opc2
+#EXTINF:-1 tvg-name="Movistar F1 opc2" tvg-logo="http://51.255.35.36/icons1/sp/movistar_es_formula_1.png" group-title="DEPORTE",Movsitar F1 Opc2
 http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/5963.m3u
+
+#EXTINF:-1 tvg-name="ESPN 2 HD (MX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1200px-ESPN2_logo.svg.png" group-title="DEPORTE",ESPN 2 HD (MX)
+http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41076.m3u
+
+#EXTINF:-1 tvg-name="ESPN 3 HD (MX)" tvg-logo="https://th.bing.com/th/id/OIP.ZxRyK_PVcyMSI42HJFuN4wHaBh?pid=ImgDet&rs=1" group-title="DEPORTE",ESPN 3 HD (MX)
+http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41073.m3u
+
+#EXTINF:-1 tvg-name="ESPN 3 HD (MX)" tvg-logo="https://th.bing.com/th/id/OIP.ZxRyK_PVcyMSI42HJFuN4wHaBh?pid=ImgDet&rs=1" group-title="DEPORTE",ESPN 3 HD (MX)
+http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41075.m3u
+
+#EXTINF:-1 tvg-name="ESPN U HD (MX)" tvg-logo="" group-title="DEPORTE",ESPN U HD (MX)
+http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41072.m3u
