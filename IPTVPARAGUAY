@@ -67,7 +67,7 @@ http://45.55.127.106/live/unicanal.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="Farra Play" tvg-logo="https://lh3.googleusercontent.com/-Vmu2Cvi2Rj8/YH42aPZcKeI/AAAAAAABBw0/U3tG7jCKTvQKmyjFA8hrLnL8sp5SdghKgCK8BGAsYHg/s512/2021-04-19.jpg" group-title="PARAGUAY",Farra Play | PY
 http://159.203.148.226/live/farra.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-name="BABY TV HD" tvg-logo="" group-title="KIDS",BABY TV HD
+#EXTINF:-1 tvg-name="BABY TV HD" tvg-logo="https://th.bing.com/th/id/R.e4c8ab12fe20739d3790c20d00a242df?rik=gjTxHfugzpzQlw&riu=http%3a%2f%2fcdn.kidscreen.com%2fwp%2fwp-content%2fuploads%2f2011%2f02%2fBabyTV_Logo_TM.png%3f97ea13&ehk=AmSvr9FJ%2bbdpYIEAgDk9LufT2mZPqIoxtESdg5gXGJ0%3d&risl=&pid=ImgRaw&r=0" group-title="KIDS",BABY TV HD
 http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41108.m3u
 
 #EXTINF:-1 tvg-name="Somos Del Este TV" tvg-logo="https://lh3.googleusercontent.com/-y3QFWBQHE-I/YH9dccPTdGI/AAAAAAABBz0/R4xo5fq8-k8QhAujzC3p7vY5ksP7qcOQQCK8BGAsYHg/s512/2021-04-20.jpg" group-title="PARAGUAY", Somos Del Este TV
@@ -123,3 +123,18 @@ http://megatv.me:5890/khaled/12345/55867
 
 #EXTINF:-1 tvg-name="Sky Soports F1" tvg-logo="https://1.bp.blogspot.com/-nKEfeY-j50g/XrqC68G4fMI/AAAAAAAAC1w/gqKydF3a-J4b_3xmPELKFa5A21eQwXkTQCLcBGAsYHQ/w1200-h630-p-k-no-nu/Sky%2BSports%2BF1%2BHD.jpg" group-title="DEPORTE",Sky Sports F1 UK
 http://megatv.me:5890/khaled/12345/55868
+
+#EXTINF:-1 tvg-name="Nickelodeon ES" tvg-logo="https://th.bing.com/th/id/R.281a68ffbbd2b3023016f4ab797ce61c?rik=A7cPSHrdkV7Mug&riu=http%3a%2f%2fvignette3.wikia.nocookie.net%2flogopedia%2fimages%2f6%2f62%2fNICKELODEON_Logo.png%2frevision%2flatest%3fcb%3d20111106061132&ehk=18%2bKv8x3gcEa4w%2fc8QadjX5jtxxz7s0HV0oTmnjwcsM%3d&risl=&pid=ImgRaw&r=0" group-title="KIDS",NICKELODEON
+http://megatv.me:5890/khaled/12345/943
+
+#EXTINF:-1 tvg-name="NATGEO HD " tvg-logo="https://th.bing.com/th/id/R.7d549ccf6fd5c5026e4122f01af50d53?rik=phi8tTY%2btN%2fexA&pid=ImgRaw&r=0" group-title="PREMIUM",NAT GEO HD
+http://megatv.me:5890/khaled/12345/923
+
+#EXTINF:-1 tvg-name="NATGEO" tvg-logo="https://th.bing.com/th/id/R.7d549ccf6fd5c5026e4122f01af50d53?rik=phi8tTY%2btN%2fexA&pid=ImgRaw&r=0" group-title="PREMIUM",NAT GEO 
+http://megatv.me:5890/khaled/12345/924
+
+#EXTINF:-1 tvg-name="NATGEO WILD HD" tvg-logo="https://th.bing.com/th/id/R.aaf53c63a7aad845c10785a24aefb0b5?rik=F6xE3zKpDm5ybA&pid=ImgRaw&r=0" group-title="PREMIUM",NAT GEO WILD HD
+http://megatv.me:5890/khaled/12345/925
+
+#EXTINF:-1 tvg-name="NATGEO WILD" tvg-logo="https://th.bing.com/th/id/R.aaf53c63a7aad845c10785a24aefb0b5?rik=F6xE3zKpDm5ybA&pid=ImgRaw&r=0" group-title="PREMIUM",NAT GEO WILD
+http://megatv.me:5890/khaled/12345/926
