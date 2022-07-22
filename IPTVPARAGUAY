@@ -30,8 +30,11 @@ http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41050.m3u
 #EXTINF:-1 tvg-name="SBT" tvgg-logo="https://th.bing.com/th/id/R.ef3dfccc7a2cfe308ef7257ae2c39b87?rik=RDY0jo%2f7GN7ayw&riu=http%3a%2f%2fcolunadatv.com%2fwp-content%2fuploads%2f2017%2f03%2flogo-sbt.png&ehk=ctfZUF8OWtJL5U4zNlwEplwoxtgFV64C%2bgc8NyeGjCE%3d&risl=&pid=ImgRaw&r=0" group-title="BRASIL",SBT BRASIL
 http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41122.m3u
 
-#EXTINF:-1 tvg-name="CNNENESPANOL" tvg-logo="https://th.bing.com/th/id/R.c191b56a3ef6aaf3e613069b71ec5875?rik=hKi8nayVWlMQXg&riu=http%3a%2f%2fwww.maduradas.com%2fwp-content%2fuploads%2f2014%2f02%2fCNN-en-Espa%c3%b1ol-EN-VIVO-800x533.jpg&ehk=fVrniMmwo0NW5K733XgL7qINJ%2bPilwK1jOkpx0Vl%2b%2bA%3d&risl=&pid=ImgRaw&r=0" group-title="NOTICIAS",CNN EN ESPANOL
-https://edge-aws.aovivotv.xyz/hls/s:51.15.40.23/bandsports_f53eac2e_49253245906a9af14594694da8e149a9c42d5b46/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwMzo3ZDgwOmEwMDQ6ODc3NDozODA2OmZjNDo3ZGI3OjU3MDYiO2k6MTtzOjExMToiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwMy4wLjAuMCBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjU4NTA3MTMyO30%3D
+#EXTINF:-1 tvg-name="CNN CHILE" tvg-logo="https://vignette.wikia.nocookie.net/althistory/images/f/f9/CNN_Chile.png/revision/latest?cb=20131210072704&path-prefix=es" group-title="NOTICIAS",CNN CHILE
+http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41100.m3u
+
+#EXTINF:-1 tvg-name="CNN EN ESPANOL" tvg-logo="https://th.bing.com/th/id/R.c191b56a3ef6aaf3e613069b71ec5875?rik=hKi8nayVWlMQXg&riu=http%3a%2f%2fwww.maduradas.com%2fwp-content%2fuploads%2f2014%2f02%2fCNN-en-Espa%c3%b1ol-EN-VIVO-800x533.jpg&ehk=fVrniMmwo0NW5K733XgL7qINJ%2bPilwK1jOkpx0Vl%2b%2bA%3d&risl=&pid=ImgRaw&r=0" group-title="NOTICIAS",CNN EN ESPANOL
+http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41092.m3u
 
 #EXTINF:-1 tvg-name="Discovery H&H" tvg-logo="https://th.bing.com/th/id/R.2d32db4745607f18056cf959e1001113?rik=A%2f2cr3HLxbXJ%2bA&pid=ImgRaw&r=0" group-title="PREMIUM", DISCOVERY H&H HD (MX)
 http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41083.m3u
