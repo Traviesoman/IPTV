@@ -77,7 +77,7 @@ https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8?Pla
 http://edge-live14-hr.cvattv.com.ar/live/c5eds/PARAVISION_C4/verimatrix_rotating_FTA/PARAVISION_C4-audio_20000=144800-video=1480000.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-name="Telefuturo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Telefuturo2017.png" group-title="PARAGUAY",Telefuturo
-https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_int_baja/chunklist_w2058045038.m3u8?k=4aaae1d2abdda3ca47ff70004100caf83aa3f4478d89821bcc72e1582c19dbfa&exp=1658500343http://192.168.100.36:8008/ssdp/device-desc.xml
+http://192.168.100.36:8008/ssdp/device-desc.xml
 
 #EXTINF:-1 tvg-name="GenTV" tvg-logo="https://www.television.com.py/wp-content/uploads/2020/10/LogoGENtvpy.jpg" group-title="PARAGUAY",GEN
 https://rds3gen.desdeparaguay.net/gentv/gentv_int_baja/chunklist_w2106577837.m3u8
