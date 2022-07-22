@@ -138,3 +138,20 @@ http://megatv.me:5890/khaled/12345/925
 
 #EXTINF:-1 tvg-name="NATGEO WILD" tvg-logo="https://th.bing.com/th/id/R.aaf53c63a7aad845c10785a24aefb0b5?rik=F6xE3zKpDm5ybA&pid=ImgRaw&r=0" group-title="PREMIUM",NAT GEO WILD
 http://megatv.me:5890/khaled/12345/926
+
+#EXTINF:-1 tvg-name="Globo News" tvg-logo="https://www.coolstreaming.us/img/ch/image27522380231.jpg" group-title="BRASIL",BR:Globo News
+http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41162.m3u
+
+#EXTINF:-1 tvg-name="Globo RJ HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/globorj.png" group-title="BRASIL",Globo RJ HD
+http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41166.m3u
+
+#EXTINF:-1 tvg-name="Globo SP HD" tvg-logo="https://acordeemny.com.br/wp-content/uploads/2020/02/WhatsApp-da-Globo-SP.jpg" group-title="BRASIL",Globo SP HD
+http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41165.m3u
+
+#EXTINF:-1 tvg-name="Globosat HD" tvg-logo="https://www.tvyvideo.com/images/stories/TVV/users/rsanta/Globosat_transmitio_el_Mundial_de_Rusia_en_vivo_en_UHD.jpg" group-title="BRASIL",Globosat   HD
+http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41164.m3u
+
+#EXTINF:-1 tvg-name="Gloob HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Globo_logotipo_2008.png/revision/latest?cb=20160114163932&path-prefix=es" group-title="BRASIL",Gloob HD
+http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41161.m3u
+
+
