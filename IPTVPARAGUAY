@@ -111,5 +111,5 @@ http://edge-live14-hr.cvattv.com.ar/live/c5eds/PARAVISION_C4/verimatrix_rotating
 #EXTINF:-1 tvg-id="816" tvg-name="Farra Play" tvg-logo="https://lh3.googleusercontent.com/-Vmu2Cvi2Rj8/YH42aPZcKeI/AAAAAAABBw0/U3tG7jCKTvQKmyjFA8hrLnL8sp5SdghKgCK8BGAsYHg/s512/2021-04-19.jpg", Farra Play | PY
 http://159.203.148.226/live/farra.m3u8?PlaylistM3UCL
 
-#EXTINF:-1,TELEFUTURO
-http://192.168.100.36:8008/ssdp/device-desc.xml
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Telefuturo2017.png",TELEFUTURO
+https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_int_baja/chunklist_w2058045038.m3u8?k=4aaae1d2abdda3ca47ff70004100caf83aa3f4478d89821bcc72e1582c19dbfa&exp=1658500343http://192.168.100.36:8008/ssdp/device-desc.xml
