@@ -10,7 +10,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658534958/ei/z
 #EXTINF:-1 tvg-name="AMERICA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="ARGENTINA",America TV
 hthttps://www.youtube.com/watch?v=gBbMbqILzXUtps://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/721e21e2-bffb-4fd0-8b41-d865d445e799:SCL/variant/ac6a0eb54fb7504b47e9fcfcfad19375/bandwidth/371000.m3u8
 
-#EXTINF:-1 tvg-name="A24" tvg-logo="https://th.bing.com/th/id/R.7343b30656c21ad93ecb353ae5c4fcb7?rik=1epZryAOJlvmQA&pid=ImgRaw&r=0" group-title="ARGENTINA",A24
+#EXTINF:-1 tvg-name="A24" tvg-logo="https://th.bing.com/th/id/R.75178f2a4833cafb1965d59b197e5ef6?rik=OWyDK7u%2bNqVoNw&riu=http%3a%2f%2ftvabierta.weebly.com%2fuploads%2f5%2f1%2f3%2f4%2f51344345%2fa24.png&ehk=pnR4rJ0Fbda0LViOf2QITpQ%2fcwNGLC1Kw0Rug5w93mw%3d&risl=&pid=ImgRaw&r=0" group-title="ARGENTINA",A24
 https://dai.google.com/linear/hls/pa/event/Txk1vDlZR2CCfDuUZ0ylpw/stream/ea0149f8-7650-4c8d-8e4b-22160746c58a:SCL/variant/759c0948bdde7284ca08c528a7ee742f/bandwidth/250000.m3u8
 
 #EXTINF:-1 tvg-name="SNT" tvg-logo="https://th.bing.com/th/id/R.c9db81d27f6ee5cd3b06772587c92899?rik=kyyigrDllxUBSg&riu=http%3a%2f%2fwww.concepcionaldia.com%2fwp-content%2fuploads%2f2014%2f09%2fsnt_py-1024x477.png&ehk=xXBFNs3MkJ0hSu3GtJiP%2f9kIJR8Cd2gpHc9X16A7118%3d&risl=&pid=ImgRaw&r=0" group-title="PARAGUAY",SNT
