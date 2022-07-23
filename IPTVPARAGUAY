@@ -242,7 +242,7 @@ https://unlimited6-cl.dps.live/adntv/adntv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Televisa Puebla" tvg-logo="https://th.bing.com/th/id/OIP.Zch-G52rqDqX_brefubfzAHaHa?pid=ImgDet&rs=1" group-title="PREMIUM",Televisa
 http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
 
-#EXTINF:-1 group-title="PREMIUM",HBO
+#EXTINF:-1 group-title="PREMIUM",HBO LATINO
 http://megatv.me:5890/khaled/12345/142362
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/NPY_%28Noticias_Paraguay%29.png"group-title="PARAGUAY",NPY HD
