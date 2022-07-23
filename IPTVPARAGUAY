@@ -245,7 +245,7 @@ http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
 #EXTINF:-1 group-title="PREMIUM",HBO LATINO
 http://megatv.me:5890/khaled/12345/142362
 
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.81eca33267592ce5931b2ff082d69356?rik=7iHYSu6wXK6Ivw&pid=ImgRaw&r=0&sres=1&sresct=1"group-title="PARAGUAY",NPY HD
+#EXTINF:-1 tvg-name="Noticias Paraguay" tvg-logo="https://npy.com.py/wp-content/uploads/2019/07/cropped-logodos-1.png"group-title="PARAGUAY",NPY HD
 https://rds3tf.desdeparaguay.net/npy/npy_int_baja/chunklist_w932021371.m3u8?k=7db5db844fd32dfb6e06539e4fb52e0d4f36aab086aec60e63b87c2660e9bfc5&exp=1658541935
 
 #EXTINF:-1 tvg-name="Paraguay TV" tvg-logo="https://th.bing.com/th/id/OIP.mb8TiDQrwCQkfiaEyTKpFwHaHa?pid=ImgDet&rs=1"group-title="PARAGUAY",PARAGUAY TV
