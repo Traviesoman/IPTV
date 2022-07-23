@@ -80,7 +80,7 @@ http://edge-live14-hr.cvattv.com.ar/live/c5eds/PARAVISION_C4/verimatrix_rotating
 http://edge02-fdo-py.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_SAGEMCOM/TELEFUTURO_C4.m3u8
 
 #EXTINF:-1 tvg-name="GenTV" tvg-logo="https://www.television.com.py/wp-content/uploads/2020/10/LogoGENtvpy.jpg" group-title="PARAGUAY",GEN
-https://rds3gen.desdeparaguay.net/gentv/gentv_int_baja/chunklist_w2106577837.m3u8
+https://rds3gen.desdeparaguay.net/gentv/chunklist_w1180170916.m3u8
 
 #EXTINF:-1 tvg-name="ESPN HD (MX)" tvg-logo="https://th.bing.com/th/id/OIP.8dVZ43qE919z8R0byDiRjQHaHa?pid=ImgDet&w=480&h=480&rs=1" group-title="DEPORTE",ESPN HD (MX)
 http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41077.m3u
