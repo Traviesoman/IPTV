@@ -79,15 +79,10 @@ https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8?Pla
 http://edge-live14-hr.cvattv.com.ar/live/c5eds/PARAVISION_C4/verimatrix_rotating_FTA/PARAVISION_C4-audio_20000=144800-video=1480000.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-name="Telefuturo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Telefuturo2017.png" group-title="PARAGUAY",Telefuturo
-http://edge02-fdo-py.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_SAGEMCOM/TELEFUTURO_C4.m3u8
-https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_int_baja/playlist.m3u8?k=826ba9b523488e2afbd1435c97adaca86d94496c0e68b0a123a77b9e0728eb24&exp=1658330117
-http://svtv.xyz:8080/Apoyemos/HVUMW/124560
 http://edge-live15-hr.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_SAGEMCOM/TELEFUTURO_C4.m3u8
 http://edge1-sl.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_SAGEMCOM/TELEFUTURO_C4.m3u8
 
 #EXTINF:-1 tvg-name="GenTV" tvg-logo="https://www.television.com.py/wp-content/uploads/2020/10/LogoGENtvpy.jpg" group-title="PARAGUAY",GEN
-https://rds3gen.desdeparaguay.net/gentv/gentv_int_baja/chunklist_w1180170916.m3u8?k=9cc253bf4d26ff8c23c357c0b9b1329a5448b8ab166f4b7d1ae49ea91915650a&exp=9999999999
-https://rds3gen.desdeparaguay.net:443/gentv/gentv_int_alta/chunklist_w1726674394.m3u8?k=3b9bf8cbc53d3800853e5ae0becdca865541cf0b767ff58248333138738b8497&exp=1658330411
 http://svtv.xyz:8080/Apoyemos/HVUMW/124582
 http://edge10-sl.cvattv.com.ar/live/c7eds/GEN_TV/SA_SAGEMCOM/GEN_TV.m3u8
 
