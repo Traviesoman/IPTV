@@ -242,5 +242,8 @@ https://unlimited6-cl.dps.live/adntv/adntv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Televisa Puebla" tvg-logo="https://th.bing.com/th/id/OIP.Zch-G52rqDqX_brefubfzAHaHa?pid=ImgDet&rs=1" group-title="PREMIUM",Televisa
 http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Animal Planet" tvg-logo="" group-title="PREMIUM",Animal Planet
-http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
+#EXTINF:-1,USA: HBO Latin
+http://megatv.me:5890/khaled/12345/142362
+
+#EXTINF:-1 tvg-name="Tigo Sports (720)" tvg-logo="https://1.bp.blogspot.com/-Qq6NeQfQhPA/X3O4qcNIfWI/AAAAAAAABrM/VvZtFKBO_SwfQ8olMUI4i7xkVFKk74wrACLcBGAsYHQ/w200-h200/Canal%2Btigo%2Bsport%2BParaguay.png" group-title="PARAGUAY",Tigo Sports (720)
+http://tvpremiumhd.club/lista-gratuita/185525/tv/live.php?id=53750
