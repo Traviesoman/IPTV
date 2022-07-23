@@ -14,8 +14,6 @@ https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658545891/ei/gxLbYvbHMMGExgS4xJbQCw/ip/2803%3A7d80%3Aa004%3A8774%3A6d0f%3A44fb%3Af744%3Adf0a/id/WIPjYtR2N6s.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/lT-Khs_HjxBhGduD8XDVoUibjvZC32KaK9ZdN5PJmfNz/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgaoL4mPL6Sx6TqqOM87TF2pWY60OGtA_AtpEj7EXWhQMCICJm4N_EU4VyPE_6dWlUlp98UegUGbdBQ6hn1wHSi5Rt/file/index.m3u8
 
 #EXTINF:-1 tvg-name="SNT" tvg-logo="https://th.bing.com/th/id/R.c9db81d27f6ee5cd3b06772587c92899?rik=kyyigrDllxUBSg&riu=http%3a%2f%2fwww.concepcionaldia.com%2fwp-content%2fuploads%2f2014%2f09%2fsnt_py-1024x477.png&ehk=xXBFNs3MkJ0hSu3GtJiP%2f9kIJR8Cd2gpHc9X16A7118%3d&risl=&pid=ImgRaw&r=0" group-title="PARAGUAY",SNT
-http://svtv.xyz:8080/Apoyemos/HVUMW/124562
-http://edge-live14-sl.cvattv.com.ar/live/c4eds/SNT_C4/SA_SAGEMCOM/SNT_C4.m3u8
 http://edge3-sl.cvattv.com.ar/live/c4eds/SNT_C4/SA_SAGEMCOM/SNT_C4.m3u8
 
 #EXTINF:-1 tvg-name="C9N" tvg-logo="https://th.bing.com/th/id/R.b24a26ae2507f109345069eb5a282ec1?rik=KyPTu8uGZts0Ag&pid=ImgRaw&r=0&sres=1&sresct=1" group-title="PARAGUAY",C9N
@@ -246,12 +244,6 @@ http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
 
 #EXTINF:-1 group-title="PREMIUM",HBO
 http://megatv.me:5890/khaled/12345/142362
-
-#EXTINF:-1,Telefuturo 23 (720p)
-http://ss8.domint.net:2118/tf_str/futu/playlist.m3u8
-
-#EXTINF:-1,Telefuturo Canal 23 (720p)
-http://ss8.domint.net:2118/tf_str/futu/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/NPY_%28Noticias_Paraguay%29.png"group-title="PARAGUAY",NPY HD
 http://edge8-ccast-hr.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_SAGEMCOM/NOTICIAS_PY_C4.m3u8
