@@ -79,7 +79,6 @@ https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8?Pla
 http://edge-live14-hr.cvattv.com.ar/live/c5eds/PARAVISION_C4/verimatrix_rotating_FTA/PARAVISION_C4-audio_20000=144800-video=1480000.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-name="Telefuturo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Telefuturo2017.png" group-title="PARAGUAY",Telefuturo
-http://edge-live15-hr.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_SAGEMCOM/TELEFUTURO_C4.m3u8
 http://edge1-sl.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_SAGEMCOM/TELEFUTURO_C4.m3u8
 
 #EXTINF:-1 tvg-name="GenTV" tvg-logo="https://www.television.com.py/wp-content/uploads/2020/10/LogoGENtvpy.jpg" group-title="PARAGUAY",GEN
@@ -255,5 +254,7 @@ http://ss8.domint.net:2118/tf_str/futu/playlist.m3u8
 http://ss8.domint.net:2118/tf_str/futu/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/NPY_%28Noticias_Paraguay%29.png"group-title="PARAGUAY",NPY HD
-http://edge-live14-sl.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_SAGEMCOM/NOTICIAS_PY_C4.m3u8
 http://edge8-ccast-hr.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_SAGEMCOM/NOTICIAS_PY_C4.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4wcyRNZMLhuCQM7AXHvZN_sNW0lHXdVCMyA&usqp=CAU"group-title="PARAGUAY",5DIAS HD
+http://edge5-hr.cvattv.com.ar/live/c4eds/5_Dias_PY/SA_SAGEMCOM/5_Dias_PY.m3u8
