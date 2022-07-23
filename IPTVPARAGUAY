@@ -244,4 +244,8 @@ http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
 #EXTINF:-1 group-title="PREMIUM",HBO
 http://megatv.me:5890/khaled/12345/142362
 
+#EXTINF:-1,Telefuturo 23 (720p)
+http://ss8.domint.net:2118/tf_str/futu/playlist.m3u8
 
+#EXTINF:-1,Telefuturo Canal 23 (720p)
+http://ss8.domint.net:2118/tf_str/futu/master.m3u8
