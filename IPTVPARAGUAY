@@ -245,8 +245,8 @@ http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
 #EXTINF:-1 group-title="PREMIUM",HBO LATINO
 http://megatv.me:5890/khaled/12345/142362
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/NPY_%28Noticias_Paraguay%29.png"group-title="PARAGUAY",NPY HD
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.81eca33267592ce5931b2ff082d69356?rik=7iHYSu6wXK6Ivw&pid=ImgRaw&r=0&sres=1&sresct=1"group-title="PARAGUAY",NPY HD
 https://rds3tf.desdeparaguay.net/npy/npy_int_baja/chunklist_w932021371.m3u8?k=7db5db844fd32dfb6e06539e4fb52e0d4f36aab086aec60e63b87c2660e9bfc5&exp=1658541935
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4wcyRNZMLhuCQM7AXHvZN_sNW0lHXdVCMyA&usqp=CAU"group-title="PARAGUAY",5DIAS HD
-http://edge5-hr.cvattv.com.ar/live/c4eds/5_Dias_PY/SA_SAGEMCOM/5_Dias_PY.m3u8
+#EXTINF:-1 tvg-name="Paraguay TV" tvg-logo="https://th.bing.com/th/id/OIP.mb8TiDQrwCQkfiaEyTKpFwHaHa?pid=ImgDet&rs=1"group-title="PARAGUAY",PARAGUAY TV
+https://live-ak.vimeocdn.com/exp=1658546500~acl=%2F23351984-2b81-4294-888c-bb8b38663b83%2F%2A~hmac=49a93733072dc66a470719722b906f7165dc39dabc462d3066ebf5a7bb4fd4f4/23351984-2b81-4294-888c-bb8b38663b83/chunklist_b416000.m3u8?max_segments=10
