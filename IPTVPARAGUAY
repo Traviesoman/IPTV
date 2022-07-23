@@ -14,7 +14,9 @@ https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658545891/ei/gxLbYvbHMMGExgS4xJbQCw/ip/2803%3A7d80%3Aa004%3A8774%3A6d0f%3A44fb%3Af744%3Adf0a/id/WIPjYtR2N6s.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/lT-Khs_HjxBhGduD8XDVoUibjvZC32KaK9ZdN5PJmfNz/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgaoL4mPL6Sx6TqqOM87TF2pWY60OGtA_AtpEj7EXWhQMCICJm4N_EU4VyPE_6dWlUlp98UegUGbdBQ6hn1wHSi5Rt/file/index.m3u8
 
 #EXTINF:-1 tvg-name="SNT" tvg-logo="https://th.bing.com/th/id/R.c9db81d27f6ee5cd3b06772587c92899?rik=kyyigrDllxUBSg&riu=http%3a%2f%2fwww.concepcionaldia.com%2fwp-content%2fuploads%2f2014%2f09%2fsnt_py-1024x477.png&ehk=xXBFNs3MkJ0hSu3GtJiP%2f9kIJR8Cd2gpHc9X16A7118%3d&risl=&pid=ImgRaw&r=0" group-title="PARAGUAY",SNT
-https://d4xunn272arip.cloudfront.net/hls/snt_270.m3u8
+http://svtv.xyz:8080/Apoyemos/HVUMW/124562
+http://edge-live14-sl.cvattv.com.ar/live/c4eds/SNT_C4/SA_SAGEMCOM/SNT_C4.m3u8
+http://edge3-sl.cvattv.com.ar/live/c4eds/SNT_C4/SA_SAGEMCOM/SNT_C4.m3u8
 
 #EXTINF:-1 tvg-name="C9N" tvg-logo="https://th.bing.com/th/id/R.b24a26ae2507f109345069eb5a282ec1?rik=KyPTu8uGZts0Ag&pid=ImgRaw&r=0&sres=1&sresct=1" group-title="PARAGUAY",C9N
 https://d4xunn272arip.cloudfront.net/hls/c9n_360.m3u8
@@ -78,9 +80,16 @@ http://edge-live14-hr.cvattv.com.ar/live/c5eds/PARAVISION_C4/verimatrix_rotating
 
 #EXTINF:-1 tvg-name="Telefuturo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Telefuturo2017.png" group-title="PARAGUAY",Telefuturo
 http://edge02-fdo-py.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_SAGEMCOM/TELEFUTURO_C4.m3u8
+https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_int_baja/playlist.m3u8?k=826ba9b523488e2afbd1435c97adaca86d94496c0e68b0a123a77b9e0728eb24&exp=1658330117
+http://svtv.xyz:8080/Apoyemos/HVUMW/124560
+http://edge-live15-hr.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_SAGEMCOM/TELEFUTURO_C4.m3u8
+http://edge1-sl.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_SAGEMCOM/TELEFUTURO_C4.m3u8
 
 #EXTINF:-1 tvg-name="GenTV" tvg-logo="https://www.television.com.py/wp-content/uploads/2020/10/LogoGENtvpy.jpg" group-title="PARAGUAY",GEN
 https://rds3gen.desdeparaguay.net/gentv/gentv_int_baja/chunklist_w1180170916.m3u8?k=9cc253bf4d26ff8c23c357c0b9b1329a5448b8ab166f4b7d1ae49ea91915650a&exp=9999999999
+https://rds3gen.desdeparaguay.net:443/gentv/gentv_int_alta/chunklist_w1726674394.m3u8?k=3b9bf8cbc53d3800853e5ae0becdca865541cf0b767ff58248333138738b8497&exp=1658330411
+http://svtv.xyz:8080/Apoyemos/HVUMW/124582
+http://edge10-sl.cvattv.com.ar/live/c7eds/GEN_TV/SA_SAGEMCOM/GEN_TV.m3u8
 
 #EXTINF:-1 tvg-name="ESPN HD (MX)" tvg-logo="https://th.bing.com/th/id/OIP.8dVZ43qE919z8R0byDiRjQHaHa?pid=ImgDet&w=480&h=480&rs=1" group-title="DEPORTE",ESPN HD (MX)
 http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41077.m3u
@@ -249,3 +258,8 @@ http://ss8.domint.net:2118/tf_str/futu/playlist.m3u8
 
 #EXTINF:-1,Telefuturo Canal 23 (720p)
 http://ss8.domint.net:2118/tf_str/futu/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/NPY_%28Noticias_Paraguay%29.png"group-title="PARAGUAY",NPY HD
+https://rds3tf.desdeparaguay.net/npy/npy_int_baja/playlist.m3u8?k=734dd8e1f2ec000a0fe685976b7ca9570e97ee91364e3d4ba540c5f38d63447b&exp=1658330501
+http://edge-live14-sl.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_SAGEMCOM/NOTICIAS_PY_C4.m3u8
+http://edge8-ccast-hr.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_SAGEMCOM/NOTICIAS_PY_C4.m3u8
