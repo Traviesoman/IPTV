@@ -241,14 +241,6 @@ https://unlimited6-cl.dps.live/adntv/adntv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Televisa Puebla" tvg-logo="https://th.bing.com/th/id/OIP.Zch-G52rqDqX_brefubfzAHaHa?pid=ImgDet&rs=1" group-title="PREMIUM",Televisa
 http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
 
-#EXTINF:-1 group-title="PREMIUM",USA: HBO Latin
+#EXTINF:-1 group-title="PREMIUM",HBO
 http://megatv.me:5890/khaled/12345/142362
 
-#EXTINF:-1 tvg-name="Telefuturo " tvg-logo="https://1.bp.blogspot.com/-uqXbbS3at5I/X3O4pwNY8PI/AAAAAAAABrI/1UcKlG4GxPk_IIKc5cx3w_QP2YQE5eBTwCLcBGAsYHQ/w200-h200/Canal%2Btelefuturo%2BParaguay.png" group-title="PARAGUAY",Telefuturo 
-http://tvpremiumhd.club/lista-gratuita/185525/tv/live.php?id=60131
-
-#EXTINF:-1 tvg-name="Telefuturo" tvg-logo="https://1.bp.blogspot.com/-uqXbbS3at5I/X3O4pwNY8PI/AAAAAAAABrI/1UcKlG4GxPk_IIKc5cx3w_QP2YQE5eBTwCLcBGAsYHQ/w200-h200/Canal%2Btelefuturo%2BParaguay.png" group-title="PARAGUAY",Telefuturo
-http://tvpremiumhd.club/lista-gratuita/185525/tv/live.php?id=1235
-
-#EXTINF:-1 tvg-name="Tigo Sport 2 (720)" tvg-logo="https://1.bp.blogspot.com/-Qq6NeQfQhPA/X3O4qcNIfWI/AAAAAAAABrM/VvZtFKBO_SwfQ8olMUI4i7xkVFKk74wrACLcBGAsYHQ/w200-h200/Canal%2Btigo%2Bsport%2BParaguay.png" group-title="PARAGUAY",Tigo Sport 2 (720)
-http://tvpremiumhd.club/lista-gratuita/185525/tv/live.php?id=3753
