@@ -88,9 +88,6 @@ http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41077.m3u
 #EXTINF:-1 tvg-name="TYC SPORTS HD (US)" tvg-logo="" group-title="DEPORTE",TYC SPORTS HD (US)
 http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41014.m3u
 
-#EXTINF:-1 tvg-name="BANDSPORT HD" tvg-logo="https://th.bing.com/th/id/OIP.JRCHnKNGs9lprDNCWSYUwAHaEc?pid=ImgDet&rs=1" group-title="DEPORTE",BANDSPORT HD
-http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41209.m3u
-
 #EXTINF:-1 tvg-name="DW EN ESPAÑOL" tvg-logo="https://www.ipuntotv.com/IMAGES/DW-espanol.jpg" group-title="NOTICIAS",DW EN ESPAÑOL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8
 
@@ -292,19 +289,19 @@ http://ccdn.so:80/vsabG/499AKVptc/72597.ts
 #EXTINF:-1 tvg-name="Band" tvg-logo="https://th.bing.com/th/id/R.c2ff8dce4f0d458c1ed7a2fe6c917074?rik=XTYmOqWTv8ZdJA&pid=ImgRaw&r=0" group-title="BRASIL",Band SP
 http://ccdn.so:80/vsabG/499AKVptc/79312.ts
 
-#EXTINF:-1 tvg-name="Bandsports 4k FHD" tvg-logo="https://4.bp.blogspot.com/-xxnQe1WqFN8/Uz2bssvGGjI/AAAAAAAAh8M/XgjA9pr7oAQ/s1600/BandSports+HD_Logotipo.png" group-title="BRASIL",Band Sports 4K FHD
+#EXTINF:-1 tvg-name="Bandsports 4k FHD" tvg-logo="https://4.bp.blogspot.com/-xxnQe1WqFN8/Uz2bssvGGjI/AAAAAAAAh8M/XgjA9pr7oAQ/s1600/BandSports+HD_Logotipo.png" group-title="DEPORTE",Band Sports 4K FHD
 http://ccdn.so:80/vsabG/499AKVptc/103525.ts
 
-#EXTINF:-1 tvg-name="Bandsports 4k" tvg-logo="https://4.bp.blogspot.com/-xxnQe1WqFN8/Uz2bssvGGjI/AAAAAAAAh8M/XgjA9pr7oAQ/s1600/BandSports+HD_Logotipo.png" group-title="BRASIL",Band Sports 4k
+#EXTINF:-1 tvg-name="Bandsports 4k" tvg-logo="https://4.bp.blogspot.com/-xxnQe1WqFN8/Uz2bssvGGjI/AAAAAAAAh8M/XgjA9pr7oAQ/s1600/BandSports+HD_Logotipo.png" group-title="DEPORTE",Band Sports 4k
 http://ccdn.so:80/vsabG/499AKVptc/71801.ts
 
-#EXTINF:-1 tvg-name="Bandsports FHD" tvg-logo="https://4.bp.blogspot.com/-xxnQe1WqFN8/Uz2bssvGGjI/AAAAAAAAh8M/XgjA9pr7oAQ/s1600/BandSports+HD_Logotipo.png" group-title="BRASIL",Band Sports FHD
+#EXTINF:-1 tvg-name="Bandsports FHD" tvg-logo="https://4.bp.blogspot.com/-xxnQe1WqFN8/Uz2bssvGGjI/AAAAAAAAh8M/XgjA9pr7oAQ/s1600/BandSports+HD_Logotipo.png" group-title="DEPORTE",Band Sports FHD
 http://ccdn.so:80/vsabG/499AKVptc/71802.ts
 
-#EXTINF:-1 tvg-name="Bandsports HD" tvg-logo="https://4.bp.blogspot.com/-xxnQe1WqFN8/Uz2bssvGGjI/AAAAAAAAh8M/XgjA9pr7oAQ/s1600/BandSports+HD_Logotipo.png" group-title="BRASIL",Band Sports HD
+#EXTINF:-1 tvg-name="Bandsports HD" tvg-logo="https://4.bp.blogspot.com/-xxnQe1WqFN8/Uz2bssvGGjI/AAAAAAAAh8M/XgjA9pr7oAQ/s1600/BandSports+HD_Logotipo.png" group-title="DEPORTE",Band Sports HD
 http://ccdn.so:80/vsabG/499AKVptc/71803.ts
 
-#EXTINF:-1 tvg-name="Bandsports" tvg-logo="https://assets.website-files.com/56a8f71796f7e474512210ca/5d69a0952927f621d24a9bfc_Bandsports.png" group-title="BRASIL",Band Sports
+#EXTINF:-1 tvg-name="Bandsports" tvg-logo="https://assets.website-files.com/56a8f71796f7e474512210ca/5d69a0952927f621d24a9bfc_Bandsports.png" group-title="DEPORTE",Band Sports
 http://ccdn.so:80/vsabG/499AKVptc/71804.ts
 
 
