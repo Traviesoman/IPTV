@@ -280,31 +280,31 @@ http://media.neuquen.gov.ar/rtn/television/playlist.m3u8
 #EXTINF:-1 tvg-name="CBN Rio" tvg-logo="https://th.bing.com/th/id/R.5b7ded8f6a38445c7eb1acbd3f3a6ae4?rik=OYZdTjIulMZNSQ&pid=ImgRaw&r=0" group-title="BRASIL",CBN Rio
 https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 
-#EXTINF:-1 group-title="BRASIL",Band SP FHD
+#EXTINF:-1 tvg-name="Band HD" tvg-logo="https://th.bing.com/th/id/R.41f586db0813858afa3018c105453332?rik=H5aDsMXNxMq2qQ&riu=http%3a%2f%2fwww.globalhub.com.br%2fwp-content%2fuploads%2f2015%2f03%2fLogo-TV-BAND-HD.png&ehk=SWJtHvtwGqy4GQSa3p5a17nylIPisOxqciKbW2%2f8wFU%3d&risl=&pid=ImgRaw&r=0 group-title="BRASIL",Band SP UHD
 http://ccdn.so:80/vsabG/499AKVptc/79311.ts
 
-#EXTINF:-1 group-title="BRASIL",Band SP FHD [H265]
+#EXTINF:-1 tvg-name="Band FHD" tvg-logo="https://th.bing.com/th/id/R.41f586db0813858afa3018c105453332?rik=H5aDsMXNxMq2qQ&riu=http%3a%2f%2fwww.globalhub.com.br%2fwp-content%2fuploads%2f2015%2f03%2fLogo-TV-BAND-HD.png&ehk=SWJtHvtwGqy4GQSa3p5a17nylIPisOxqciKbW2%2f8wFU%3d&risl=&pid=ImgRaw&r=0group-title="BRASIL",Band SP FHD
 http://ccdn.so:80/vsabG/499AKVptc/104943.ts
 
-#EXTINF:-1 group-title="BRASIL",Band SP HD
+#EXTINF:-1 tvg-name="Band HD" tvg-logo="https://th.bing.com/th/id/R.41f586db0813858afa3018c105453332?rik=H5aDsMXNxMq2qQ&riu=http%3a%2f%2fwww.globalhub.com.br%2fwp-content%2fuploads%2f2015%2f03%2fLogo-TV-BAND-HD.png&ehk=SWJtHvtwGqy4GQSa3p5a17nylIPisOxqciKbW2%2f8wFU%3d&risl=&pid=ImgRaw&r=0"group-title="BRASIL",Band SP HD
 http://ccdn.so:80/vsabG/499AKVptc/72597.ts
 
-#EXTINF:-1 group-title="BRASIL",Band SP SD
+#EXTINF:-1 tvg-name="Band" tvg-logo="https://th.bing.com/th/id/R.c2ff8dce4f0d458c1ed7a2fe6c917074?rik=XTYmOqWTv8ZdJA&pid=ImgRaw&r=0" group-title="BRASIL",Band SP
 http://ccdn.so:80/vsabG/499AKVptc/79312.ts
 
-#EXTINF:-1 group-title="BRASIL",Band Sports 4K FHDR
+#EXTINF:-1 tvg-name="Bandsports 4k FHD" tvg-logo="https://4.bp.blogspot.com/-xxnQe1WqFN8/Uz2bssvGGjI/AAAAAAAAh8M/XgjA9pr7oAQ/s1600/BandSports+HD_Logotipo.png" group-title="BRASIL",Band Sports 4K FHD
 http://ccdn.so:80/vsabG/499AKVptc/103525.ts
 
-#EXTINF:-1 group-title="BRASIL",Band Sports FHD
+#EXTINF:-1 tvg-name="Bandsports 4k" tvg-logo="https://4.bp.blogspot.com/-xxnQe1WqFN8/Uz2bssvGGjI/AAAAAAAAh8M/XgjA9pr7oAQ/s1600/BandSports+HD_Logotipo.png" group-title="BRASIL",Band Sports 4k
 http://ccdn.so:80/vsabG/499AKVptc/71801.ts
 
-#EXTINF:-1 group-title="BRASIL",Band Sports FHD [H265]
+#EXTINF:-1 tvg-name="Bandsports FHD" tvg-logo="https://4.bp.blogspot.com/-xxnQe1WqFN8/Uz2bssvGGjI/AAAAAAAAh8M/XgjA9pr7oAQ/s1600/BandSports+HD_Logotipo.png" group-title="BRASIL",Band Sports FHD
 http://ccdn.so:80/vsabG/499AKVptc/71802.ts
 
-#EXTINF:-1 group-title="BRASIL",Band Sports HD
+#EXTINF:-1 tvg-name="Bandsports HD" tvg-logo="https://4.bp.blogspot.com/-xxnQe1WqFN8/Uz2bssvGGjI/AAAAAAAAh8M/XgjA9pr7oAQ/s1600/BandSports+HD_Logotipo.png" group-title="BRASIL",Band Sports HD
 http://ccdn.so:80/vsabG/499AKVptc/71803.ts
 
-#EXTINF:-1 group-title="BRASIL",Band Sports SD
+#EXTINF:-1 tvg-name="Bandsports" tvg-logo="https://assets.website-files.com/56a8f71796f7e474512210ca/5d69a0952927f621d24a9bfc_Bandsports.png" group-title="BRASIL",Band Sports
 http://ccdn.so:80/vsabG/499AKVptc/71804.ts
 
 
