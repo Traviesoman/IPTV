@@ -148,7 +148,7 @@ http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41165.m3u
 #EXTINF:-1 tvg-name="Globosat HD" tvg-logo="https://www.tvyvideo.com/images/stories/TVV/users/rsanta/Globosat_transmitio_el_Mundial_de_Rusia_en_vivo_en_UHD.jpg" group-title="BRASIL",Globosat   HD
 http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41164.m3u
 
-#EXTINF:-1 tvg-name="Gloob HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Globo_logotipo_2008.png/revision/latest?cb=20160114163932&path-prefix=es" group-title="BRASIL",Gloob HD
+#EXTINF:-1 tvg-name="Gloob HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Globo_logotipo_2008.png/revision/latest?cb=20160114163932&path-prefix=es" group-title="BRASIL",GloBO HD
 http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41161.m3u
 
 #EXTINF:-1 tvg-name="CTI TV" tvg-logo="https://th.bing.com/th/id/OIP.HkiOsNzmpQd0-pDOM3akKwHaDq?pid=ImgDet&rs=1" group-title="TAIWAN",CTI TV
