@@ -175,10 +175,10 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658542844/ei/n
 #EXTINF:-1 tvg-name="TAIPEI LIVE CAM" tvg-logo="https://th.bing.com/th/id/R.7c856cd4e3f834d8bd899063579e6cf7?rik=YRS51tkTcfe6Cg&riu=http%3a%2f%2ffile.wikipediam.org%2fwikipedia%2fcommons%2fthumb%2f3%2f3d%2fTaipei_Landscape_(cropped).jpg%2f1200px-Taipei_Landscape_(cropped).jpg&ehk=JBNUcO38v7Hym2aDxX9T39q9rNLNGX6un5xx%2b%2bSnnc8%3d&risl=&pid=ImgRaw&r=0" group-title="TAIWAN",TAIPEI LIVE CAM
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658543756/ei/LArbYrTWHaKf4dUP_Z2acA/ip/2803%3A7d80%3Aa004%3A8774%3A6d0f%3A44fb%3Af744%3Adf0a/id/z_fY1pj1VBw.8/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/lT-KhrDJoVgGElx4OMdDkBd5yBK5TPrDkfdSbXJ0xXJn/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgGs6WadedbIjODQ46SRLWaR-izmf6X5wdK6Nj49tbr6QCIQD_DITt2DfHnnzE0reGHT50HOS1IhSuaFeFXr2mx-jF5w%3D%3D/file/index.m3u8
 
-#EXTINF:-1 tvg-name="DAZN SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="DEPORTE",DAZN SPORTS 1 FHD ES
+#EXTINF:-1 tvg-name="DAZN SPORTS 1" tvg-logo="https://comunidad.movistar.es/t5/image/serverpage/image-id/194777i34F6AD8D12C8D5F9/image-size/large?v=v2&px=999" group-title="DEPORTE",DAZN SPORTS 1 FHD ES
 http://megatv.me:5890/khaled/12345/67250
 
-#EXTINF:-1 tvg-name="DAZN SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="DEPORTE",DAZN SPORTS 1 UHD ES
+#EXTINF:-1 tvg-name="DAZN SPORTS 1" tvg-logo="https://comunidad.movistar.es/t5/image/serverpage/image-id/194777i34F6AD8D12C8D5F9/image-size/large?v=v2&px=999" group-title="DEPORTE",DAZN SPORTS 1 UHD ES
 http://megatv.me:5890/khaled/12345/89969
 
 #EXTINF:-1 tvg-name="DAZN SPORTS 2 FHD" group-title="DEPORTE",DAZN SPORTS 2 FHD
