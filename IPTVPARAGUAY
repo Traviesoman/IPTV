@@ -97,10 +97,10 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/strea
 #EXTINF:-1 tvg-name="DAZN F1 HD" tvg-logo="" group-title="DEPORTE",DAZN F1 HD
 http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/109190.m3u
 
-#EXTINF:-1 tvg-name="Movistar F1" tvg-logo="http://51.255.35.36/icons1/sp/movistar_es_formula_1.png" group-title="DEPORTE",Movistar F1
+#EXTINF:-1 tvg-name="Movistar F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Movistar_Formula_1.svg/1921px-Movistar_Formula_1.svg.png" group-title="DEPORTE",Movistar F1
 http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/5963.m3u
 
-#EXTINF:-1 tvg-name="Movistar F1 opc2" tvg-logo="http://51.255.35.36/icons1/sp/movistar_es_formula_1.png" group-title="DEPORTE",Movsitar F1 Opc2
+#EXTINF:-1 tvg-name="Movistar F1 opc2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Movistar_Formula_1.svg/1921px-Movistar_Formula_1.svg.png" group-title="DEPORTE",Movsitar F1 Opc2
 http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/5963.m3u
 
 #EXTINF:-1 tvg-name="ESPN 2 HD (MX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1200px-ESPN2_logo.svg.png" group-title="DEPORTE",ESPN 2 HD (MX)
