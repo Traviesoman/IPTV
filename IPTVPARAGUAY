@@ -206,7 +206,7 @@ http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/c5n/live
 
 #EXTINF:-1 tvg-name="CNN BRASIL" tvg-logo="https://th.bing.com/th/id/R.e443d82b77028805612b7c7694a825f9?rik=aVPDLay%2bFFhS8Q&pid=ImgRaw&r=0" group-title="BRASIL",CNN BRASIL
-http://ccdn.so:80/vsabG/499AKVptc/74843.ts
+http://ccdn.so:80/vsabG/499AKVptc/71840.ts
 
 #EXTINF:-1 tvg-name="Jovem Pan" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/69673434b607b4db5fb14633654a0ced.webp" group-title="BRASIL",Jovem Pan News
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
