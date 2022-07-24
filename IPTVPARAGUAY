@@ -274,6 +274,8 @@ https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/playlist.m3u8
 #EXTINF:-1 tvg-name="MusicTOP" tvg-logo="https://th.bing.com/th/id/OIP.DCxGrsmxI0HehYAhiHEFpwHaFj?pid=ImgDet&rs=1" group-title="ARGENTINA",MusicTOP
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-name="RTV NEUQUEN" tvg-logo="https://th.bing.com/th/id/OIP._8k9tI1Q1qGOV4J2iJJsSQAAAA?pid=ImgDet&w=282&h=211&rs=1" group-title="ARGENTINA",RTV Neuquen
+http://media.neuquen.gov.ar/rtn/television/playlist.m3u8
 
 
 
