@@ -268,6 +268,8 @@ http://arcast.net:1935/mp/mp/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 4 Jujuy" tvg-logo="https://media.todojujuy.com/adjuntos/227/imagenes/000/329/0000329310.jpg" group-title="ARGENTINA",Canal 4 Jujuy
 https://5cd577a3dd8ec.streamlock.net/canal4/smil:manifest.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Chaco TV" tvg-logo="https://th.bing.com/th/id/OIP.lkNNi03AkL7Px_aN4JsLkQHaHa?pid=ImgDet&rs=1" group-title="ARGENTINA",Chaco TV
+https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/playlist.m3u8
 
 
 
