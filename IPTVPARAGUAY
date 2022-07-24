@@ -262,6 +262,9 @@ https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/p
 #EXTINF:-1 tvg-name="AVC HD" tvg-logo="https://th.bing.com/th/id/OIP.nv0_MKmg4oQpjd5Q3xok7QHaEK?pid=ImgDet&rs=1" group-title="ARGENTINA",AVC HD
 https://tna5.bozztv.com/AVCHD/index.m3u8
 
+#EXTINF:-1 tvg-name="13 La Rioja" tvg-logo="https://lh3.googleusercontent.com/-f20l_uEV2Mo/X1THHvcl76I/AAAAAAAA5Sk/7MhDM9q__hMsWcD2yyk27u_7VU9k9MA9wCK8BGAsYHg/s0/2020-09-06.jpg" group-title="ARGENTINA",13 La Rioja
+http://arcast.net:1935/mp/mp/playlist.m3u8
+
 
 
 
