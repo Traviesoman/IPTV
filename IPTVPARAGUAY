@@ -11,7 +11,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658534958/ei/z
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
 
 #EXTINF:-1 tvg-name="A24" tvg-logo="https://th.bing.com/th/id/R.75178f2a4833cafb1965d59b197e5ef6?rik=OWyDK7u%2bNqVoNw&riu=http%3a%2f%2ftvabierta.weebly.com%2fuploads%2f5%2f1%2f3%2f4%2f51344345%2fa24.png&ehk=pnR4rJ0Fbda0LViOf2QITpQ%2fcwNGLC1Kw0Rug5w93mw%3d&risl=&pid=ImgRaw&r=0" group-title="ARGENTINA",A24
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658545891/ei/gxLbYvbHMMGExgS4xJbQCw/ip/2803%3A7d80%3Aa004%3A8774%3A6d0f%3A44fb%3Af744%3Adf0a/id/WIPjYtR2N6s.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/lT-Khs_HjxBhGduD8XDVoUibjvZC32KaK9ZdN5PJmfNz/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgaoL4mPL6Sx6TqqOM87TF2pWY60OGtA_AtpEj7EXWhQMCICJm4N_EU4VyPE_6dWlUlp98UegUGbdBQ6hn1wHSi5Rt/file/index.m3u8
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
 
 #EXTINF:-1 tvg-name="SNT" tvg-logo="https://th.bing.com/th/id/R.c9db81d27f6ee5cd3b06772587c92899?rik=kyyigrDllxUBSg&riu=http%3a%2f%2fwww.concepcionaldia.com%2fwp-content%2fuploads%2f2014%2f09%2fsnt_py-1024x477.png&ehk=xXBFNs3MkJ0hSu3GtJiP%2f9kIJR8Cd2gpHc9X16A7118%3d&risl=&pid=ImgRaw&r=0" group-title="PARAGUAY",SNT
 https://d4xunn272arip.cloudfront.net/hls/snt_360.m3u8
@@ -250,8 +250,13 @@ https://live-ak.vimeocdn.com/exp=1658546500~acl=%2F23351984-2b81-4294-888c-bb8b3
 #EXTINF:-1 tvg-name="Russia Today" tvg-logo="https://th.bing.com/th/id/R.46a86a56befb1ce6d43c3c4bda88f5f8?rik=SodzfQe92TpvbQ&pid=ImgRaw&r=0" group-title="NOTICIAS",Russia Today Español
 https://rt-esp.rttv.com/live/rtesp/playlist_2500Kb.m3u8
 
-#EXTINF:-1 tvg-name="TeleSUR" tvg-logo="https://npy.com.py/wp-content/uploads/2019/07/cropped-logodos-1.png" group-title="NOTICIAS",teleSUR
+#EXTINF:-1 tvg-name="TeleSUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/TeleSUR.jpg" group-title="NOTICIAS",teleSUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/audio/chunklist.m3u8
 
 #EXTINF:-1 tvg-name=LIVE ISS" tvg-logo="http://static-cdn1.ustream.tv/i/channel/picture/9/4/0/8/9408562/9408562_iss_hr_1330361780.192x192.r:1.jpg" group-title="SPACE",LIVE ISS STREAM HD
 http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Canal 3 Rosario" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Eltres_RGB-grad_%28positivo%29.png" group-title="NOTICIAS",Canal 3 Rosario
+https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
+
+
