@@ -256,7 +256,13 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/audio/chunklist.m3u8
 #EXTINF:-1 tvg-name=LIVE ISS" tvg-logo="http://static-cdn1.ustream.tv/i/channel/picture/9/4/0/8/9408562/9408562_iss_hr_1330361780.192x192.r:1.jpg" group-title="SPACE",LIVE ISS STREAM HD
 http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Canal 3 Rosario" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Eltres_RGB-grad_%28positivo%29.png" group-title="NOTICIAS",Canal 3 Rosario
+#EXTINF:-1 tvg-name="Canal 3 Rosario" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Eltres_RGB-grad_%28positivo%29.png" group-title="ARGENTINA",Canal 3 Rosario
 https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
+
+#EXTINF:-1 tvg-name="AVC HD" tvg-logo="https://th.bing.com/th/id/OIP.nv0_MKmg4oQpjd5Q3xok7QHaEK?pid=ImgDet&rs=1" group-title="ARGENTINA",AVC HD
+https://tna5.bozztv.com/AVCHD/index.m3u8
+
+
+
 
 
