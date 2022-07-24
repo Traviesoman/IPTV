@@ -277,5 +277,36 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="RTV NEUQUEN" tvg-logo="https://th.bing.com/th/id/OIP._8k9tI1Q1qGOV4J2iJJsSQAAAA?pid=ImgDet&w=282&h=211&rs=1" group-title="ARGENTINA",RTV Neuquen
 http://media.neuquen.gov.ar/rtn/television/playlist.m3u8
 
+#EXTINF:-1 tvg-name="CBN Rio" tvg-logo="https://th.bing.com/th/id/R.5b7ded8f6a38445c7eb1acbd3f3a6ae4?rik=OYZdTjIulMZNSQ&pid=ImgRaw&r=0" group-title="BRASIL",CBN Rio
+https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
+
+#EXTINF:-1 group-title="BRASIL",Band SP FHD
+http://ccdn.so:80/vsabG/499AKVptc/79311.ts
+
+#EXTINF:-1 group-title="BRASIL",Band SP FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/104943.ts
+
+#EXTINF:-1 group-title="BRASIL",Band SP HD
+http://ccdn.so:80/vsabG/499AKVptc/72597.ts
+
+#EXTINF:-1 group-title="BRASIL",Band SP SD
+http://ccdn.so:80/vsabG/499AKVptc/79312.ts
+
+#EXTINF:-1 group-title="BRASIL",Band Sports 4K FHDR
+http://ccdn.so:80/vsabG/499AKVptc/103525.ts
+
+#EXTINF:-1 group-title="BRASIL",Band Sports FHD
+http://ccdn.so:80/vsabG/499AKVptc/71801.ts
+
+#EXTINF:-1 group-title="BRASIL",Band Sports FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/71802.ts
+
+#EXTINF:-1 group-title="BRASIL",Band Sports HD
+http://ccdn.so:80/vsabG/499AKVptc/71803.ts
+
+#EXTINF:-1 group-title="BRASIL",Band Sports SD
+http://ccdn.so:80/vsabG/499AKVptc/71804.ts
+
+
 
 
