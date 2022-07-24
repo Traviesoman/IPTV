@@ -307,5 +307,51 @@ http://ccdn.so:80/vsabG/499AKVptc/71804.ts
 #EXTINF:-1 tvg-name="CNBC" tvg-logo="https://th.bing.com/th/id/R.c109374a911897def6691cbcf90a76fd?rik=bJTxrqxDFPqi6Q&pid=ImgRaw&r=0" group-title="BRASIL",CNBC
 http://ccdn.so:80/vsabG/499AKVptc/74842.ts
 
+#EXTINF:-1 group-title="DEPORTE",PT: Sport TV 1
+http://ccdn.so:80/vsabG/499AKVptc/74958.ts
+
+#EXTINF:-1 group-title="DEPORTE",PT: Sport TV 1 FHD
+http://ccdn.so:80/vsabG/499AKVptc/74960.ts
+#EXTINF:-1 group-title="DEPORTE",PT: Sport TV 1 FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/74961.ts
+#EXTINF:-1 group-title="DEPORTE",PT: Sport TV 1 HD
+http://ccdn.so:80/vsabG/499AKVptc/74962.ts
+#EXTINF:-1 group-title="DEPORTE",PT: Sport TV 1 SD
+http://ccdn.so:80/vsabG/499AKVptc/74959.ts
+#EXTINF:-1 group-title="DEPORTE",PT: Sport TV 2 FHD
+http://ccdn.so:80/vsabG/499AKVptc/74965.ts
+#EXTINF:-1 group-title="DEPORTE",PT: Sport TV 2 FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/74966.ts
+#EXTINF:-1 group-title="DEPORTE",PT: Sport TV 2 HD
+http://ccdn.so:80/vsabG/499AKVptc/74967.ts
+#EXTINF:-1 group-title="DEPORTE",PT: Sport TV 2 SD
+http://ccdn.so:80/vsabG/499AKVptc/74964.ts
+#EXTINF:-1 group-title="DEPORTE",PT: Sport TV 3
+http://ccdn.so:80/vsabG/499AKVptc/74968.ts
+#EXTINF:-1 group-title="DEPORTE",PT: Sport TV 3 FHD
+http://ccdn.so:80/vsabG/499AKVptc/74969.ts
+#EXTINF:-1 group-title="DEPORTE",PT: Sport TV 3 FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/74970.ts
+#EXTINF:-1 group-title="DEPORTE",PT: Sport TV 3 HD
+http://ccdn.so:80/vsabG/499AKVptc/74971.ts
+#EXTINF:-1 group-title="DEPORTE",PT: Sport TV 4
+http://ccdn.so:80/vsabG/499AKVptc/74972.ts
+#EXTINF:-1 group-title="DEPORTE",PT: Sport TV 4 FHD
+http://ccdn.so:80/vsabG/499AKVptc/74973.ts
+#EXTINF:-1 group-title="DEPORTE",PT: Sport TV 4 HD
+http://ccdn.so:80/vsabG/499AKVptc/74974.ts
+#EXTINF:-1 group-title="DEPORTE",PT: Sport TV 5
+http://ccdn.so:80/vsabG/499AKVptc/74975.ts
+#EXTINF:-1 group-title="DEPORTE",PT: Sport TV 5 FHD
+http://ccdn.so:80/vsabG/499AKVptc/74976.ts
+#EXTINF:-1 group-title="DEPORTE",PT: Sport TV 5 HD
+http://ccdn.so:80/vsabG/499AKVptc/74977.ts
+#EXTINF:-1 group-title="DEPORTE",PT: Sport TV NBA FHD [H265]
+http://ccdn.so:80/vsabG/499AKVptc/74978.ts
+#EXTINF:-1 group-title="DEPORTE",PT: Sport TV+
+http://ccdn.so:80/vsabG/499AKVptc/74979.ts
+#EXTINF:-1 group-title="DEPORTE",PT: Sport TV+ FHD
+http://ccdn.so:80/vsabG/499AKVptc/74980.ts
+
 
 
