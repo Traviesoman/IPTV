@@ -307,8 +307,11 @@ http://ccdn.so:80/vsabG/499AKVptc/71804.ts
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports.png" group-title="DEPORTE",DirectTV Sports
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/deportv.png" group-title="Deportes",DeporTV
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/deportv.png" group-title="DEPORTE",DeporTV
 https://v3.playerlatino.live/stream/m3u8/139
+
+#EXTINF:-1 tvg-logo="http://www.bltv.tv/images/blogo.ico" group-title="TAIWAN", BLTV
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 
 
 
