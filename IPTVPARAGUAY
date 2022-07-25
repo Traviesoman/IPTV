@@ -304,11 +304,8 @@ http://ccdn.so:80/vsabG/499AKVptc/71803.ts
 #EXTINF:-1 tvg-name="Bandsports" tvg-logo="https://assets.website-files.com/56a8f71796f7e474512210ca/5d69a0952927f621d24a9bfc_Bandsports.png" group-title="DEPORTE",Band Sports
 http://ccdn.so:80/vsabG/499AKVptc/71804.ts
 
-#EXTINF:-1 group-title="DEPORTE",Formula 1 TV HD
-http://ccdn.so:80/vsabG/499AKVptc/98395.ts
-
-#EXTINF:-1 group-title="NOTICIAS",BBC World
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/65053
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports.png" group-title="DEPORTE",DirectTV Sports
+http-user-agent=Lavf/57.71.001
 
 
 
