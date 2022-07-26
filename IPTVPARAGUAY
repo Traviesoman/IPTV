@@ -64,7 +64,7 @@ http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41062.m3u
 #EXTINF:-1 tvg-name="Unicanal" tvg-logo="https://lh3.googleusercontent.com/-RjyvLZJ0ed4/YH44rJhzBEI/AAAAAAABBxA/BYT7vltKAgsulzaQkdoAg8KadCOWEXHZwCK8BGAsYHg/s512/2021-04-19.jpg" group-title="PARAGUAY",Unicanal
 http://45.55.127.106/live/unicanal_mid.m3u8
 
-#EXTINF:-1 tvg-name="Farra Play" tvg-logo="https://lh3.googleusercontent.com/-Vmu2Cvi2Rj8/YH42aPZcKeI/AAAAAAABBw0/U3tG7jCKTvQKmyjFA8hrLnL8sp5SdghKgCK8BGAsYHg/s512/2021-04-19.jpg" group-title="PARAGUAY",Farra Play | PY
+#EXTINF:-1 tvg-name="Farra Play" tvg-logo="https://lh3.googleusercontent.com/-Vmu2Cvi2Rj8/YH42aPZcKeI/AAAAAAABBw0/U3tG7jCKTvQKmyjFA8hrLnL8sp5SdghKgCK8BGAsYHg/s512/2021-04-19.jpg" group-title="PARAGUAY",Farra Play
 http://159.203.148.226/live/farra.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-name="BABY TV HD" tvg-logo="https://th.bing.com/th/id/R.e4c8ab12fe20739d3790c20d00a242df?rik=gjTxHfugzpzQlw&riu=http%3a%2f%2fcdn.kidscreen.com%2fwp%2fwp-content%2fuploads%2f2011%2f02%2fBabyTV_Logo_TM.png%3f97ea13&ehk=AmSvr9FJ%2bbdpYIEAgDk9LufT2mZPqIoxtESdg5gXGJ0%3d&risl=&pid=ImgRaw&r=0" group-title="KIDS",BABY TV HD
@@ -306,6 +306,18 @@ https://tvdatta.com:3839/live/nandutitvlive.m3u8
 
 #EXTINF:-1 tvg-name="RCC TV" tvg-logo="https://cdn.rcc.com.py/2017/12/logo-retina-544x180.png" group-title="PARAGUAY",RCC TV
 https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/chunklist_w584696906.m3u8
+
+#EXTINF:-1 tvg-name="Uniradio TV" tvg-logo="https://lh3.googleusercontent.com/-34FgWqzMBDg/YH9cw6_T2TI/AAAAAAABBzs/kBRRqFmgxqoFDZbfXOnL4wj8E58LW9jkQCK8BGAsYHg/s512/2021-04-20.png" group-title="PARAGUAY", Uniradio TV
+https://59ce1298bfb98.streamlock.net/uniradiotv/uniradiotv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-name="Suceso TV" tvg-logo="https://lh3.googleusercontent.com/-bcd9_hX8ZuE/YH4ynd4hdII/AAAAAAABBwM/uJ-axhhpjBMWcze2sO9PgWgyVw80-1d1gCK8BGAsYHg/s512/2021-04-19.png" group-title="PARAGUAY", Suceso TV
+https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-name="Mi TV" tvg-logo="https://lh3.googleusercontent.com/-EvztcqftXgc/YH47C8J3ByI/AAAAAAABBxg/wV8hmM0M5MMPL9Im4r1eQRejLGb9wUIkQCK8BGAsYHg/s512/2021-04-19.png" group-title="PARAGUAY", Mi TV
+https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-name="Estacion Cristal" tvg-logo="https://lh3.googleusercontent.com/-OVKm6WJqsOE/YH9lkO3dBoI/AAAAAAABB04/rL_BJgKt2Hw7UJjK0PN4Gl0lbNEW9ZK4wCK8BGAsYHg/s512/2021-04-20.jpg" group-title="PARAGUAY", Estacion Cristal
+https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8?PlaylistM3UCL
 
 EXTINF:-1 tvg-name="Paravision" tvg-logo="https://lh3.googleusercontent.com/-1fUjD2FTrlU/YH4xkxag6PI/AAAAAAABBwE/ESDwMnL4nlsKPWztFXz676S0xTg-ROj6wCK8BGAsYHg/s512/2021-04-19.jpg" group-title="PARAGUAY",Paravision
 http://edge2-ccast-sl.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_SAGEMCOM/PARAVISION_C4.m3u8
