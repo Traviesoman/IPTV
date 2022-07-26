@@ -229,9 +229,6 @@ http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
 #EXTINF:-1 group-title="PREMIUM",HBO LATINO
 http://megatv.me:5890/khaled/12345/142362
 
-#EXTINF:-1 tvg-name="Noticias Paraguay" tvg-logo="https://npy.com.py/wp-content/uploads/2019/07/cropped-logodos-1.png" group-title="PARAGUAY",NPY HD
-https://rds3tf.desdeparaguay.net/npy/npy_int_baja/chunklist_w932021371.m3u8?k=7db5db844fd32dfb6e06539e4fb52e0d4f36aab086aec60e63b87c2660e9bfc5&exp=1658541935
-
 #EXTINF:-1 tvg-name="Paraguay TV" tvg-logo="https://th.bing.com/th/id/OIP.mb8TiDQrwCQkfiaEyTKpFwHaHa?pid=ImgDet&rs=1" group-title="PARAGUAY",PARAGUAY TV
 https://live-ak.vimeocdn.com/exp=1658546500~acl=%2F23351984-2b81-4294-888c-bb8b38663b83%2F%2A~hmac=49a93733072dc66a470719722b906f7165dc39dabc462d3066ebf5a7bb4fd4f4/23351984-2b81-4294-888c-bb8b38663b83/chunklist_b416000.m3u8?max_segments=10
 
@@ -295,7 +292,7 @@ http://ccdn.so:80/vsabG/499AKVptc/71803.ts
 #EXTINF:-1 tvg-name="Bandsports" tvg-logo="https://assets.website-files.com/56a8f71796f7e474512210ca/5d69a0952927f621d24a9bfc_Bandsports.png" group-title="DEPORTE",Band Sports
 http://ccdn.so:80/vsabG/499AKVptc/71804.ts
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports.png" group-title="DEPORTE",DirectTV Sports
+#EXTINF:-1 tvg-name="DirecTV Sports" tvg-logo="http://x.playerlatino.live/directvsports.png" group-title="DEPORTE",DirectTV Sports
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/deportv.png" group-title="DEPORTE",DeporTV
@@ -318,4 +315,7 @@ https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_int_baja/chunklist_w49798
 
 EXTINF:-1 tvg-name="GenTV" tvg-logo="https://www.television.com.py/wp-content/uploads/2020/10/LogoGENtvpy.jpg" group-title="PARAGUAY",GEN
 https://rds3gen.desdeparaguay.net/gentv/gentv_int_baja/chunklist_w1317888328.m3u8?k=7124ea7f6a55367e4c0ac4ed723c1e6303ca2ea3fbe211ed6d0f9c4a3f331de0&exp=1658746403
+
+EXTINF:-1 tvg-name="Noticias Paraguay" tvg-logo="https://npy.com.py/wp-content/uploads/2019/07/cropped-logodos-1.png" group-title="PARAGUAY",NPY HD
+https://rds3tf.desdeparaguay.net/npy/npy_int_baja/chunklist_w932021371.m3u8?k=7db5db844fd32dfb6e06539e4fb52e0d4f36aab086aec60e63b87c2660e9bfc5&exp=1658541935
 
