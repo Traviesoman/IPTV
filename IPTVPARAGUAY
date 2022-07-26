@@ -379,6 +379,9 @@ https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8?PlaylistM3UC
 #EXTINF:-1 tvg-name="Kids90" tvg-logo="https://i2.paste.pics/4a39976590ab0bd4fe7a0bbbd4411822.png" group-title="KIDS",Kids90
 https://videostreaming.cloudserverlatam.com:443/Kids90/Kids90/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-name="NickJR" tvg-logo="https://th.bing.com/th/id/R.8efc6e78b87106551472368380b2127d?rik=hCzzDwmrAZOH6g&riu=http%3a%2f%2flogonoid.com%2fimages%2fnick-jr-logo.png&ehk=P4aEmO%2fvIGDWzWaNQW42Sl%2bSCxXiNVhPg%2bLrHSuvl6I%3d&risl=&pid=ImgRaw&r=0" group-title="KIDS",NickJR
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0ec7b0f7015fbe0a3bf7/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d0ec7b0f7015fbe0a3bf7&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=998&terminate=false&userId=
+
 EXTINF:-1 tvg-name="Paravision" tvg-logo="https://lh3.googleusercontent.com/-1fUjD2FTrlU/YH4xkxag6PI/AAAAAAABBwE/ESDwMnL4nlsKPWztFXz676S0xTg-ROj6wCK8BGAsYHg/s512/2021-04-19.jpg" group-title="PARAGUAY",Paravision
 http://edge2-ccast-sl.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_SAGEMCOM/PARAVISION_C4.m3u8
 
