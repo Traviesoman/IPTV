@@ -307,6 +307,9 @@ https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 #EXTINF:-1 tvg-name="Ñanduti TV" tvg-logo="https://yt3.ggpht.com/a/AATXAJz9GywZOdBhuAIWmQK_mOembKT-MYaL8JH2SHqW=s900-c-k-c0xffffffff-no-rj-mo" group-title="PARAGUAY",Ñanduti TV
 https://tvdatta.com:3839/live/nandutitvlive.m3u8
 
+#EXTINF:-1 tvg-name="RCC TV" tvg-logo="https://cdn.rcc.com.py/2017/12/logo-retina-544x180.png" group-title="PARAGUAY",RCC TV
+https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/chunklist_w584696906.m3u8
+
 EXTINF:-1 tvg-name="Paravision" tvg-logo="https://lh3.googleusercontent.com/-1fUjD2FTrlU/YH4xkxag6PI/AAAAAAABBwE/ESDwMnL4nlsKPWztFXz676S0xTg-ROj6wCK8BGAsYHg/s512/2021-04-19.jpg" group-title="PARAGUAY",Paravision
 http://edge2-ccast-sl.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_SAGEMCOM/PARAVISION_C4.m3u8
 
