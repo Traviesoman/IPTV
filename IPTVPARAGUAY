@@ -35,10 +35,10 @@ https://srv5.zcast.com.br/tvcarioca/tvcarioca/playlist.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/TVPublicaArgentina/live
 
 #EXTINF:-1 tvg-name="DiscoveryChannel" tvg-logo="https://th.bing.com/th/id/R.5314f1734242debd1c82d3faa8a70824?rik=qR3pp0JSLVtvdA&pid=ImgRaw&r=0" group-title="PREMIUM",Discovery Channel ES
-http://megatv.me:5890/khaled/12345/931
+http://live.iristv.xyz:8080/marcial/123456/5886
 
 #EXTINF:-1 tvg-name="History HD" tvg-logo="https://th.bing.com/th/id/R.14a1fd434053c9aa41642e02b71bab46?rik=YHnMDAQUlgCpnQ&pid=ImgRaw&r=0" group-title="PREMIUM",HISTORY HD (MX)
-http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41050.m3u
+http://live.iristv.xyz:8080/marcial/123456/5860
 
 #EXTINF:-1 tvg-name="SBT" tvgg-logo="https://th.bing.com/th/id/R.aac172d7b694a9b0453031c450f63d64?rik=kJyRThBz7pDnqA&riu=http%3a%2f%2fvignette3.wikia.nocookie.net%2flogopedia%2fimages%2fe%2fee%2fLogo_SBT_2001.png%2frevision%2flatest%3fcb%3d20150629174647&ehk=Nua0%2bIw1ioG%2bRGTNl1irH%2b1bt10F%2bPHOA0AWYEKIhPk%3d&risl=&pid=ImgRaw&r=0" group-title="BRASIL",SBT BRASIL
 http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41122.m3u
@@ -116,16 +116,16 @@ http://megatv.me:5890/khaled/12345/55868
 http://live.iristv.xyz:8080/marcial/123456/5878
 
 #EXTINF:-1 tvg-name="NATGEO HD " tvg-logo="https://th.bing.com/th/id/R.7d549ccf6fd5c5026e4122f01af50d53?rik=phi8tTY%2btN%2fexA&pid=ImgRaw&r=0" group-title="PREMIUM",NAT GEO HD
-http://megatv.me:5890/khaled/12345/923
+http://live.iristv.xyz:8080/marcial/123456/5876
 
 #EXTINF:-1 tvg-name="NATGEO" tvg-logo="https://th.bing.com/th/id/R.7d549ccf6fd5c5026e4122f01af50d53?rik=phi8tTY%2btN%2fexA&pid=ImgRaw&r=0" group-title="PREMIUM",NAT GEO 
-http://megatv.me:5890/khaled/12345/924
+http://live.iristv.xyz:8080/marcial/123456/5876
 
 #EXTINF:-1 tvg-name="NATGEO WILD HD" tvg-logo="https://th.bing.com/th/id/R.aaf53c63a7aad845c10785a24aefb0b5?rik=F6xE3zKpDm5ybA&pid=ImgRaw&r=0" group-title="PREMIUM",NAT GEO WILD HD
-http://megatv.me:5890/khaled/12345/925
+http://live.iristv.xyz:8080/marcial/123456/5877
 
 #EXTINF:-1 tvg-name="NATGEO WILD" tvg-logo="https://th.bing.com/th/id/R.aaf53c63a7aad845c10785a24aefb0b5?rik=F6xE3zKpDm5ybA&pid=ImgRaw&r=0" group-title="PREMIUM",NAT GEO WILD
-http://megatv.me:5890/khaled/12345/926
+http://live.iristv.xyz:8080/marcial/123456/5877
 
 #EXTINF:-1 tvg-name="Globo News" tvg-logo="https://www.coolstreaming.us/img/ch/image27522380231.jpg" group-title="BRASIL",BR:Globo News
 http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41162.m3u
