@@ -67,6 +67,9 @@ http://45.55.127.106/live/unicanal_mid.m3u8
 #EXTINF:-1 tvg-name="Farra Play" tvg-logo="https://lh3.googleusercontent.com/-Vmu2Cvi2Rj8/YH42aPZcKeI/AAAAAAABBw0/U3tG7jCKTvQKmyjFA8hrLnL8sp5SdghKgCK8BGAsYHg/s512/2021-04-19.jpg" group-title="PARAGUAY",Farra Play
 http://159.203.148.226/live/farra.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-name="Farra Play" tvg-logo="https://lh3.googleusercontent.com/-Vmu2Cvi2Rj8/YH42aPZcKeI/AAAAAAABBw0/U3tG7jCKTvQKmyjFA8hrLnL8sp5SdghKgCK8BGAsYHg/s512/2021-04-19.jpg" group-title="MUSICA",Farra Play
+http://159.203.148.226/live/farra.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-name="BABY TV HD" tvg-logo="https://th.bing.com/th/id/R.e4c8ab12fe20739d3790c20d00a242df?rik=gjTxHfugzpzQlw&riu=http%3a%2f%2fcdn.kidscreen.com%2fwp%2fwp-content%2fuploads%2f2011%2f02%2fBabyTV_Logo_TM.png%3f97ea13&ehk=AmSvr9FJ%2bbdpYIEAgDk9LufT2mZPqIoxtESdg5gXGJ0%3d&risl=&pid=ImgRaw&r=0" group-title="KIDS",BABY TV HD
 http://live.iristv.xyz:8080/marcial/123456/5840
 
