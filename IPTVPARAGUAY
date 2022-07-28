@@ -382,6 +382,9 @@ https://videostreaming.cloudserverlatam.com:443/Kids90/Kids90/playlist.m3u8?Play
 #EXTINF:-1 tvg-name="France 24 Español" tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="NOTICIAS",France 24 Español
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
 
+#EXTINF:-1 tvg-name="Claro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/861px-Claro_Sports_logo.svg.png" group-title="DEPORTE",Claro Sports 
+http://45.179.140.242:8000/play/a0ht
+
 #EXTINF:-1 tvg-name="NickJR" tvg-logo="https://th.bing.com/th/id/R.8efc6e78b87106551472368380b2127d?rik=hCzzDwmrAZOH6g&riu=http%3a%2f%2flogonoid.com%2fimages%2fnick-jr-logo.png&ehk=P4aEmO%2fvIGDWzWaNQW42Sl%2bSCxXiNVhPg%2bLrHSuvl6I%3d&risl=&pid=ImgRaw&r=0" group-title="KIDS",NickJR
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0ec7b0f7015fbe0a3bf7/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d0ec7b0f7015fbe0a3bf7&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=998&terminate=false&userId=
 
