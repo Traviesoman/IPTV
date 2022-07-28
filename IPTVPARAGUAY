@@ -47,7 +47,7 @@ http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41122.m3u
 http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41100.m3u
 
 #EXTINF:-1 tvg-name="CNN EN ESPANOL" tvg-logo="https://th.bing.com/th/id/R.c191b56a3ef6aaf3e613069b71ec5875?rik=hKi8nayVWlMQXg&riu=http%3a%2f%2fwww.maduradas.com%2fwp-content%2fuploads%2f2014%2f02%2fCNN-en-Espa%c3%b1ol-EN-VIVO-800x533.jpg&ehk=fVrniMmwo0NW5K733XgL7qINJ%2bPilwK1jOkpx0Vl%2b%2bA%3d&risl=&pid=ImgRaw&r=0" group-title="NOTICIAS",CNN EN ESPANOL
-https://v3.playerlatino.live/stream/m3u8/136
+http://gbox.goldeniptv.com:25461/123321/123321/87942
 
 #EXTINF:-1 tvg-name="Discovery H&H" tvg-logo="https://th.bing.com/th/id/R.2d32db4745607f18056cf959e1001113?rik=A%2f2cr3HLxbXJ%2bA&pid=ImgRaw&r=0" group-title="PREMIUM", DISCOVERY H&H HD (MX)
 http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41083.m3u
@@ -83,7 +83,7 @@ http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41014.m3u
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-name="DAZN F1 HD" tvg-logo="https://comunidad.movistar.es/t5/image/serverpage/image-id/194777i34F6AD8D12C8D5F9/image-size/large?v=v2&px=999" group-title="DEPORTE",DAZN F1 HD
-https://ed3.zorrohd2.nl/live/ST2a8168489293552.m3u8
+http://gbox.goldeniptv.com:25461/123321/123321/134108
 
 #EXTINF:-1 tvg-name="Movistar F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Movistar_Formula_1.svg/1921px-Movistar_Formula_1.svg.png" group-title="DEPORTE",Movistar F1
 http://mega.131221.net:1716/285f2d1a-1a65-4481-8121-1151ef55f178/jqR8Rvq0ka/323625
