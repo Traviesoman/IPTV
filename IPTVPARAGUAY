@@ -47,7 +47,7 @@ http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41122.m3u
 http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41100.m3u
 
 #EXTINF:-1 tvg-name="CNN EN ESPANOL" tvg-logo="https://th.bing.com/th/id/R.c191b56a3ef6aaf3e613069b71ec5875?rik=hKi8nayVWlMQXg&riu=http%3a%2f%2fwww.maduradas.com%2fwp-content%2fuploads%2f2014%2f02%2fCNN-en-Espa%c3%b1ol-EN-VIVO-800x533.jpg&ehk=fVrniMmwo0NW5K733XgL7qINJ%2bPilwK1jOkpx0Vl%2b%2bA%3d&risl=&pid=ImgRaw&r=0" group-title="NOTICIAS",CNN EN ESPANOL
-http://live.iristv.xyz:8080/marcial/123456/6277
+http://m1.webvps.de:25443/MAG0l2pYzuUFa/DEjEvYU3m5/64375
 
 #EXTINF:-1 tvg-name="Discovery H&H" tvg-logo="https://th.bing.com/th/id/R.2d32db4745607f18056cf959e1001113?rik=A%2f2cr3HLxbXJ%2bA&pid=ImgRaw&r=0" group-title="PREMIUM", DISCOVERY H&H HD (MX)
 http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41083.m3u
@@ -77,7 +77,7 @@ https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8?Pla
 hhttp://189.91.128.146:4444/udp/227.10.20.81:1234 
 
 #EXTINF:-1 tvg-name="TYC SPORTS HD (US)" tvg-logo="" group-title="DEPORTE",TYC SPORTS HD (US)
-http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41014.m3u
+http://m1.webvps.de:25443/MAG0l2pYzuUFa/DEjEvYU3m5/64469
 
 #EXTINF:-1 tvg-name="DW EN ESPAÑOL" tvg-logo="https://www.ipuntotv.com/IMAGES/DW-espanol.jpg" group-title="NOTICIAS",DW EN ESPAÑOL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8
@@ -101,16 +101,16 @@ http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41073.m3u
 http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41075.m3u
 
 #EXTINF:-1 tvg-name="Telefe Cordoba" tvg-logo="https://th.bing.com/th/id/OIP.Y2eQzpxsK7j6yTzyXXGZRAAAAA?pid=ImgDet&rs=1" group-title="ARGENTINA",Telefe Cordoba
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658536167/ei/huzaYuOUN5iE5gSNpoTABw/ip/2803%3A7d80%3Aa004%3A8774%3A3806%3Afc4%3A7db7%3A5706/id/eOyz4z70uzg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/lT-KhkQ-KihBWowI5ImPIDA3pYr9zzk0XpAh5jo6lnqf/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgPVhwYeGS_jvz7o7nImUsAc8VTJQ1MmD9QbtXKdxDiyICIGD4r92mCpMJSMxfT9QMJcFFjorfrFcyeJ2j0StQaXoG/file/index.m3u8
+http://m1.webvps.de:25443/MAG0l2pYzuUFa/DEjEvYU3m5/64455
 
 #EXTINF:-1 tvg-name="LN+" tvg-logo="https://www.dossiernet.com.ar/assets/scripts/load.php?src=https://dmdqet87i5rod.cloudfront.net/estoesmedia/606f073500866_lnmaslogo.jpg&w=1200&h=800&zc=1&q=80" group-title="ARGENTINA",LN+
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658715831/ei/V6rdYvqJLPvS1sQPr72imAc/ip/2803%3A7d80%3Aa004%3A8774%3Ac541%3Ab1b5%3Af7a8%3Aa63c/id/HYxWurJ3ejE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/lT-Khmd0hIYTSlSpb7l6HRTU9HWl487ptIbFC4rSG9rZ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgHeWTr7dPQHwYyqn4BPqk0abAZu-rcdp4fJR754rkYLcCIQDbPzWufDGhDOLrQzegbAfwnTEJOCTO5Yba-o7C5yTPQg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-name="Sky Soports F1 HD" tvg-logo="https://1.bp.blogspot.com/-nKEfeY-j50g/XrqC68G4fMI/AAAAAAAAC1w/gqKydF3a-J4b_3xmPELKFa5A21eQwXkTQCLcBGAsYHQ/w1200-h630-p-k-no-nu/Sky%2BSports%2BF1%2BHD.jpg" group-title="DEPORTE",Sky Sports F1 HD UK
-http://megatv.me:5890/khaled/12345/55867
+http://m1.webvps.de:25443/MAG0l2pYzuUFa/DEjEvYU3m5/131004
 
 #EXTINF:-1 tvg-name="Sky Soports F1" tvg-logo="https://1.bp.blogspot.com/-nKEfeY-j50g/XrqC68G4fMI/AAAAAAAAC1w/gqKydF3a-J4b_3xmPELKFa5A21eQwXkTQCLcBGAsYHQ/w1200-h630-p-k-no-nu/Sky%2BSports%2BF1%2BHD.jpg" group-title="DEPORTE",Sky Sports F1 UK
-http://megatv.me:5890/khaled/12345/55868
+http://m1.webvps.de:25443/MAG0l2pYzuUFa/DEjEvYU3m5/131004
 
 #EXTINF:-1 tvg-name="Nickelodeon ES" tvg-logo="https://th.bing.com/th/id/R.281a68ffbbd2b3023016f4ab797ce61c?rik=A7cPSHrdkV7Mug&riu=http%3a%2f%2fvignette3.wikia.nocookie.net%2flogopedia%2fimages%2f6%2f62%2fNICKELODEON_Logo.png%2frevision%2flatest%3fcb%3d20111106061132&ehk=18%2bKv8x3gcEa4w%2fc8QadjX5jtxxz7s0HV0oTmnjwcsM%3d&risl=&pid=ImgRaw&r=0" group-title="KIDS",NICKELODEON
 http://live.iristv.xyz:8080/marcial/123456/5878
@@ -164,25 +164,25 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658542844/ei/n
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658543756/ei/LArbYrTWHaKf4dUP_Z2acA/ip/2803%3A7d80%3Aa004%3A8774%3A6d0f%3A44fb%3Af744%3Adf0a/id/z_fY1pj1VBw.8/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/lT-KhrDJoVgGElx4OMdDkBd5yBK5TPrDkfdSbXJ0xXJn/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgGs6WadedbIjODQ46SRLWaR-izmf6X5wdK6Nj49tbr6QCIQD_DITt2DfHnnzE0reGHT50HOS1IhSuaFeFXr2mx-jF5w%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-name="DAZN SPORTS 1" tvg-logo="" group-title="DEPORTE",DAZN SPORTS 1 FHD ES
-http://megatv.me:5890/khaled/12345/67250
+http://m1.webvps.de:25443/MAG0l2pYzuUFa/DEjEvYU3m5/66046
 
 #EXTINF:-1 tvg-name="DAZN SPORTS 1" tvg-logo="" group-title="DEPORTE",DAZN SPORTS 1 UHD ES
-http://live.iristv.xyz:8080/marcial/123456/5849
+http://m1.webvps.de:25443/MAG0l2pYzuUFa/DEjEvYU3m5/66053
 
 #EXTINF:-1 tvg-name="DAZN SPORTS 2 FHD" tvg-logo="https://yt3.ggpht.com/a/AATXAJwtzVpdKEXwYQcITMjr6I3zdxYQhGH-liaLVw=s900-c-k-c0xffffffff-no-rj-mo" group-title="DEPORTE",DAZN SPORTS 2 FHD
-http://mega.131221.net:1716/285f2d1a-1a65-4481-8121-1151ef55f178/jqR8Rvq0ka/3575727
+http://m1.webvps.de:25443/MAG0l2pYzuUFa/DEjEvYU3m5/66054
 
 #EXTINF:-1 tvg-name="DAZN SPORTS 2 HD" tvg-logo="https://yt3.ggpht.com/a/AATXAJwtzVpdKEXwYQcITMjr6I3zdxYQhGH-liaLVw=s900-c-k-c0xffffffff-no-rj-mo" group-title="DEPORTE",DAZN SPORTS 1 HD
-http://live.iristv.xyz:8080/marcial/123456/5850
+http://m1.webvps.de:25443/MAG0l2pYzuUFa/DEjEvYU3m5/66047
 
 #EXTINF:-1 tvg-name="DAZN SPORTS 3 FHD" group-title="DEPORTE",DAZN SPORTS 3 FHD
-http://megatv.me:5890/khaled/12345/69660
+http://m1.webvps.de:25443/MAG0l2pYzuUFa/DEjEvYU3m5/66048
 
 #EXTINF:-1 tvg-name="DAZN SPORTS 3 HD" group-title="DEPORTE",DAZN SPORTS 3 HD
-http://live.iristv.xyz:8080/marcial/123456/5851
+http://m1.webvps.de:25443/MAG0l2pYzuUFa/DEjEvYU3m5/66048
 
 #EXTINF:-1 tvg-name="DAZN SPORTS 4 FHD" group-title="DEPORTE",DAZN SPORTS 4 FHD
-http://live.iristv.xyz:8080/marcial/123456/5852
+http://m1.webvps.de:25443/MAG0l2pYzuUFa/DEjEvYU3m5/66049
 
 #EXTINF:-1 tvg-name="DAZN SPORTS 4 HD" group-title="DEPORTE",DAZN SPORTS 4 HD
 http://megatv.me:5890/khaled/12345/89973
@@ -227,7 +227,7 @@ https://unlimited6-cl.dps.live/adntv/adntv.smil/playlist.m3u8
 http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
 
 #EXTINF:-1 group-title="PREMIUM",HBO LATINO
-http://megatv.me:5890/khaled/12345/142362
+http://m1.webvps.de:25443/MAG0l2pYzuUFa/DEjEvYU3m5/64417
 
 #EXTINF:-1 tvg-name="Paraguay TV" tvg-logo="https://th.bing.com/th/id/OIP.mb8TiDQrwCQkfiaEyTKpFwHaHa?pid=ImgDet&rs=1" group-title="PARAGUAY",PARAGUAY TV
 https://live-ak.vimeocdn.com/exp=1658546500~acl=%2F23351984-2b81-4294-888c-bb8b38663b83%2F%2A~hmac=49a93733072dc66a470719722b906f7165dc39dabc462d3066ebf5a7bb4fd4f4/23351984-2b81-4294-888c-bb8b38663b83/chunklist_b416000.m3u8?max_segments=10
@@ -378,9 +378,6 @@ https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8?PlaylistM3UC
 
 #EXTINF:-1 tvg-name="Kids90" tvg-logo="https://i2.paste.pics/4a39976590ab0bd4fe7a0bbbd4411822.png" group-title="KIDS",Kids90
 https://videostreaming.cloudserverlatam.com:443/Kids90/Kids90/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-name="France 24 Español" tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="NOTICIAS",France 24 Español
-http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
 
 #EXTINF:-1 tvg-name="Claro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/861px-Claro_Sports_logo.svg.png" group-title="DEPORTE",Claro Sports 
 http://45.179.140.242:8000/play/a0ht
