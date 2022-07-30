@@ -107,7 +107,7 @@ http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41075.m3u
 http://m1.webvps.de:25443/MAG0l2pYzuUFa/DEjEvYU3m5/64455
 
 #EXTINF:-1 tvg-name="LN+" tvg-logo="https://www.dossiernet.com.ar/assets/scripts/load.php?src=https://dmdqet87i5rod.cloudfront.net/estoesmedia/606f073500866_lnmaslogo.jpg&w=1200&h=800&zc=1&q=80" group-title="ARGENTINA",LN+
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1659070909/ei/XRXjYpDTBNSdwQTFvLPgDQ/ip/2803%3A7d80%3Aa004%3A8774%3Ae8dd%3A41e7%3A117c%3Acde1/id/HYxWurJ3ejE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/lT-KhgzuM2dzxDcJons4BP_2BTZROVdv2Teppqphx72a/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgZN966CAsg8lTUBAZORkrOrSzC05Jlbkao3r1O_YTnn8CIQCP1rj13SmrOmrnU4W0f2rWJz4fvIRPd3or6vn-6vIVGw%3D%3D/file/index.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCba3hpU7EFBSk817y9qZkiA/live
 
 #EXTINF:-1 tvg-name="Sky Soports F1 HD" tvg-logo="https://1.bp.blogspot.com/-nKEfeY-j50g/XrqC68G4fMI/AAAAAAAAC1w/gqKydF3a-J4b_3xmPELKFa5A21eQwXkTQCLcBGAsYHQ/w1200-h630-p-k-no-nu/Sky%2BSports%2BF1%2BHD.jpg" group-title="DEPORTE",Sky Sports F1 HD UK
 http://m1.webvps.de:25443/MAG0l2pYzuUFa/DEjEvYU3m5/131004
@@ -241,9 +241,6 @@ https://rt-esp.rttv.com/live/rtesp/playlist_2500Kb.m3u8
 #EXTINF:-1 tvg-name="TeleSUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/TeleSUR.jpg" group-title="NOTICIAS",teleSUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-name=LIVE ISS" tvg-logo="http://static-cdn1.ustream.tv/i/channel/picture/9/4/0/8/9408562/9408562_iss_hr_1330361780.192x192.r:1.jpg" group-title="SPACE",LIVE ISS STREAM HD
-http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Canal 3 Rosario" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Eltres_RGB-grad_%28positivo%29.png" group-title="ARGENTINA",Canal 3 Rosario
 https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
 
@@ -331,16 +328,16 @@ http://arcast.net:1935/cadena103/cadena103/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="5TV" tvg-logo="https://lh3.googleusercontent.com/-CJRkMoy5oyo/XjtJ68jQGdI/AAAAAAAAvrU/Ne82ABVOrlAcpwkEeXNP64zTND_8D2h5QCK8BGAsYHg/s0/2020-02-05.png" group-title="ARGENTINA",5TV
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-name="5R TV Santa Fe" tvg-logo="https://i2.paste.pics/2154f26cfec10ed6642020dad09849b3.png" group-title="ARGENTINA", 5R TV Santa Fe
+#EXTINF:-1 tvg-name="5R TV Santa Fe" tvg-logo="https://i2.paste.pics/2154f26cfec10ed6642020dad09849b3.png" group-title="ARGENTINA",5R TV Santa Fe
 http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="767" tvg-name="N24TV" tvg-logo="https://i2.paste.pics/a3fc887e8997841278ea29e8e37e7385.png" group-title="ARGENTINA", N24TV
+#EXTINF:-1 tvg-name="N24TV" tvg-logo="https://i2.paste.pics/a3fc887e8997841278ea29e8e37e7385.png" group-title="ARGENTINA",N24TV
 https://streamconex.com:1936/n24tv/n24tv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="1006" tvg-name="Neo TV" tvg-logo="https://i2.paste.pics/085efda10687fd80ddb05de1600f41e0.png" group-title="ARGENTINA", Neo TV
+#EXTINF:-1 tvg-name="Neo TV" tvg-logo="https://i2.paste.pics/085efda10687fd80ddb05de1600f41e0.png" group-title="ARGENTINA",Neo TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-name="Canal 20 Villamaria" tvg-logo="https://i2.paste.pics/3595f1cf2a6659946f9ff0c1d61ef6cc.png" group-title="ARGENTINA", Canal 20 Villamaria
+#EXTINF:-1 tvg-name="Canal 20 Villamaria" tvg-logo="https://i2.paste.pics/3595f1cf2a6659946f9ff0c1d61ef6cc.png" group-title="ARGENTINA",Canal 20 Villamaria
 https://cronos.aldeaglobal.net.ar/hls/canal20.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-name="Canal U" tvg-logo="https://lh3.googleusercontent.com/-bhc1ryCQBss/XjtDRMLA6RI/AAAAAAAAvo8/A5WXhRqhV2EdFzBWINyyhUoqFK1eYWJmQCK8BGAsYHg/s0/2020-02-05.png" group-title="ARGENTINA", Canal U | AR
