@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="CBN SP" tvg-logo="https://th.bing.com/th/id/R.5b7ded8f6a38445c7eb1acbd3f3a6ae4?rik=OYZdTjIulMZNSQ&pid=ImgRaw&r=0" group-title="BRASIL",CBN SP
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 
 #EXTINF:-1 tvg-name="ELDOCE TV" tvg-logo="https://th.bing.com/th/id/R.eb7de9489e421a880878353dc43c5595e?rik=fj%2bvE%2fpw0Egr5Q&riu=http%3a%2f%2fwww.cxtv.com.br%2fimg%2fTvs%2fLogo%2fae6291519390492a54234b40072d8207.png&ehk=AGYWAL3L64b7o%2bTyXg6%2fcLeu%2bC0%2bk6WPNHNh98AXGkc%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1" group-title="ARGENTINA",ELDOCE TV
 http://free.fullspeed.tv/iptv-query?feature=emb_title&streaming-ip=https://www.youtube.com/watch?v=gBbMbqILzXU
