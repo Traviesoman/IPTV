@@ -1,5 +1,9 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-name="Tigo Sports" tvg-logo="" group-title="DEPORTE",Tigo Sports
+https://ed7.zorrohd2.nl/live/ST6f18af4dfb8b268.m3u8
+
 #EXTINF:-1 tvg-name="Ecuavisa" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d0/Ecuavisa-01.png/revision/latest?cb=20171021235852" group-title="ECUADOR",Ecuavisa
 https://us-b4-p-e-ja16.cdn.mdstrm.com/live-stream-dvr/603ea23f928cc5255563012c/publish/media_200.m3u8?aid=60214bbd7267582b2467eff9&uid=l5MBP1XhsBzpeQIjbJvOSaMYYXgStBva&sid=cSkPiwF8S88c80kStuueOJMJIfAwRWEM&pid=wVqo1t9HVTj0hoUggg7Wxi4ryDzfFeum&ref=https%3A%2F%2Fwww.ecuavisa.com%2F&without_cookies=false&listenerid=&dvrOffset=3600&dnt=true&type=dvr&es=us-b4-p-e-ja16.cdn.mdstrm.com&ote=1659613966392&ot=XNWLtLHcgv_xqpRPaT19HQ&proto=https&pz=us&_HLS_skip=YES
 
