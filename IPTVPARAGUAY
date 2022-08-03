@@ -24,16 +24,16 @@ https://d4xunn272arip.cloudfront.net/hls/snt_360.m3u8
 #EXTINF:-1 tvg-name="Regional TV" tvg-logo="https://th.bing.com/th/id/OIP.G2U7I7EgBgm9ev8RE5I_wAHaFM?pid=ImgDet&rs=1" group-title="PARAGUAY",Regional TV
 https://59ce1298bfb98.streamlock.net/mediosenpy/mediosenpy/playlist.m3u8
 
-#EXTINF:-26 tvg-logo="https://i.postimg.cc/yxT9HMn7/visionvillarrica.png" group-title="PARAGUAY", VISIÓN VILLARRICA
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxT9HMn7/visionvillarrica.png" group-title="PARAGUAY", VISIÓN VILLARRICA
 https://video.radiosenpy.net:19360/canal8vision/canal8vision.m3u8
 
-#EXTINF:-26 tvg-logo="" group-title="PARAGUAY",ALMAYA TV
+#EXTINF:-1 tvg-logo="" group-title="PARAGUAY",ALMAYA TV
 https://59ce1298bfb98.streamlock.net/almayatv/almayatv/playlist.m3u8
 
-#EXTINF:-15 tvg-logo="" group-title="PARAGUAY",SENADO TV
+#EXTINF:-1 tvg name="Senado TV" tvg-logo="http://www.senado.gov.py/images/logos-iconos/boton-senadotv.png" group-title="PARAGUAY",SENADO TV
 https://59ce1298bfb98.streamlock.net/tvsenadopy/tvsenadopy/playlist.m3u8
 
-#EXTINF:-29 tvg-logo="https://1.bp.blogspot.com/-Jt9iLTl60OI/YFerCGX_48I/AAAAAAAAAE0/iMHDPAdTFF4uL1-uDqEq8kidNq40CCvwwCPcBGAYYCw/w1200-h630-p-k-no-nu/Emprende%2BTV%2Blogo.png" group-title="PARAGUAY",EMPRENDE TV
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Jt9iLTl60OI/YFerCGX_48I/AAAAAAAAAE0/iMHDPAdTFF4uL1-uDqEq8kidNq40CCvwwCPcBGAYYCw/w1200-h630-p-k-no-nu/Emprende%2BTV%2Blogo.png" group-title="PARAGUAY",EMPRENDE TV
 https://59ce1298bfb98.streamlock.net/emprendetv/emprendetv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="C9N" tvg-logo="https://th.bing.com/th/id/R.b24a26ae2507f109345069eb5a282ec1?rik=KyPTu8uGZts0Ag&pid=ImgRaw&r=0&sres=1&sresct=1" group-title="PARAGUAY",C9N
