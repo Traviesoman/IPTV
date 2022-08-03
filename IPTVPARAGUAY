@@ -24,6 +24,9 @@ https://d4xunn272arip.cloudfront.net/hls/snt_360.m3u8
 #EXTINF:-1 tvg-name="Regional TV" tvg-logo="https://th.bing.com/th/id/OIP.G2U7I7EgBgm9ev8RE5I_wAHaFM?pid=ImgDet&rs=1" group-title="PARAGUAY",Regional TV
 https://59ce1298bfb98.streamlock.net/mediosenpy/mediosenpy/playlist.m3u8
 
+#EXTINF:-1 tvg-name="IP" tvg-logo="https://i.postimg.cc/QtM90PFK/iparg.png" group-title="NOTICIAS",Informacion Periodistica
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=729984.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yxT9HMn7/visionvillarrica.png" group-title="PARAGUAY", VISIÓN VILLARRICA
 https://video.radiosenpy.net:19360/canal8vision/canal8vision.m3u8
 
