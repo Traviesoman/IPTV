@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="PARAGUAY",Venus Radio TV 
+#EXTINF:-1 tvg-name="Venus Media" tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-venus-en-vivo-320x180.jpg" group-title="PARAGUAY",Venus Media
 https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/chunklist_w1962805979.m3u8?k=efa83de3f8c0f98747b277368901e8c4cc7fe3da3b8bd12b2d2f6a882f3dd72f&exp=1659668575
 
 #EXTINF:-1 tvg-name="El Palomar" tvg-logo="https://th.bing.com/th/id/OIP.WvNKs7ZRGSLStvC7E93PvQHaHa?pid=ImgDet&rs=1" group-title="ARGENTINA",El Palomar 
