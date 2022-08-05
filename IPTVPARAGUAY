@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="Latele" tvg-logo="https://th.bing.com/th/id/R.40859a0a55126e4ac8e77424e18f825e?rik=zd%2bYeF1TBf2vUg&riu=http%3a%2f%2fwww.television.com.py%2fwp-content%2fuploads%2f2018%2f01%2fLatele-logo-1024x457.jpg&ehk=VSpH%2bqvWmfy2ewStXBIQGXnkqyzFaip82VYK83Qs7%2bw%3d&risl=&pid=ImgRaw&r=0" group-title="PARAGUAY",Latele
-https://rds3tf.desdeparaguay.net/latele/latele_int_baja/chunklist_w268078316.m3u8?k=e1b571f9667932290f8668ef125967d4048d6f35950b5ff44c10a299826e598b&exp=1659714799
 
 #EXTINF:-1 tvg-name="Venus Media" tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-venus-en-vivo-320x180.jpg" group-title="PARAGUAY",Venus Media
 https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/chunklist_w1962805979.m3u8?k=efa83de3f8c0f98747b277368901e8c4cc7fe3da3b8bd12b2d2f6a882f3dd72f&exp=1659668575
