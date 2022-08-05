@@ -132,10 +132,10 @@ https://59ce1298bfb98.streamlock.net/mediosenpy/mediosenpy/playlist.m3u8
 #EXTINF:-1 tvg-name="IP" tvg-logo="https://i.postimg.cc/QtM90PFK/iparg.png" group-title="NOTICIAS",Informacion Periodistica
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=729984.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxT9HMn7/visionvillarrica.png" group-title="PARAGUAY", VISIÓN VILLARRICA
+#EXTINF:-1 tvg-name="Vision Villarica" tvg-logo="https://i.postimg.cc/yxT9HMn7/visionvillarrica.png" group-title="PARAGUAY", VISIÓN VILLARRICA
 https://video.radiosenpy.net:19360/canal8vision/canal8vision.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="PARAGUAY",ALMAYA TV
+#EXTINF:-1 tvg-name="Almaya TV" tvg-logo="" group-title="PARAGUAY",ALMAYA TV
 https://59ce1298bfb98.streamlock.net/almayatv/almayatv/playlist.m3u8
 
 #EXTINF:-1 tvg name="Senado TV" tvg-logo="http://www.senado.gov.py/images/logos-iconos/boton-senadotv.png" group-title="PARAGUAY",SENADO TV
@@ -361,7 +361,7 @@ http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
 http://m1.webvps.de:25443/MAG0l2pYzuUFa/DEjEvYU3m5/64417
 
 #EXTINF:-1 tvg-name="Paraguay TV" tvg-logo="https://th.bing.com/th/id/OIP.mb8TiDQrwCQkfiaEyTKpFwHaHa?pid=ImgDet&rs=1" group-title="PARAGUAY",PARAGUAY TV
-https://live-ak.vimeocdn.com/exp=1658546500~acl=%2F23351984-2b81-4294-888c-bb8b38663b83%2F%2A~hmac=49a93733072dc66a470719722b906f7165dc39dabc462d3066ebf5a7bb4fd4f4/23351984-2b81-4294-888c-bb8b38663b83/chunklist_b416000.m3u8?max_segments=10
+https://live-ak.vimeocdn.com/exp=1659709782~acl=%2F79bcea1f-712b-4424-98be-b6b218a5f9a3%2F%2A~hmac=bdfff975e671fb66aea3e5c765615a77aaefeb1adc68b0b16171df6df74152af/79bcea1f-712b-4424-98be-b6b218a5f9a3/chunklist_b416000.m3u8?max_segments=10
 
 #EXTINF:-1 tvg-name="Russia Today" tvg-logo="https://th.bing.com/th/id/R.46a86a56befb1ce6d43c3c4bda88f5f8?rik=SodzfQe92TpvbQ&pid=ImgRaw&r=0" group-title="NOTICIAS",Russia Today Español
 https://rt-esp.rttv.com/live/rtesp/playlist_2500Kb.m3u8
