@@ -19,8 +19,11 @@ https://59ce1298bfb98.streamlock.net/obediratv/obediratv/playlist.m3u8
 #EXTINF:-1 tvg-name="Oviedo TV" tvg-logo="https://www.oviedotv.com.py/gallery_gen/2dd785f08812f72f6d51b2c21a0eb0f8.png" group-title="PARAGUAY",Oviedo TV
 https://59ce1298bfb98.streamlock.net/oviedotv/oviedotv/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Educa TV" tvg-logo="https://yt3.ggpht.com/a/AATXAJz3QmoYWd8qB_v0sjmoRFwsM0VXOv-8Et195Q=s900-c-k-c0xffffffff-no-rj-mo" group-title="ECUADOR",Educa TV
+https://cloud7.streamingcnt.net/cnt/educa/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Ecuavisa" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d0/Ecuavisa-01.png/revision/latest?cb=20171021235852" group-title="ECUADOR",Ecuavisa
-https://us-b4-p-e-ja16.cdn.mdstrm.com/live-stream-dvr/603ea23f928cc5255563012c/publish/media_200.m3u8?aid=60214bbd7267582b2467eff9&uid=l5MBP1XhsBzpeQIjbJvOSaMYYXgStBva&sid=cSkPiwF8S88c80kStuueOJMJIfAwRWEM&pid=wVqo1t9HVTj0hoUggg7Wxi4ryDzfFeum&ref=https%3A%2F%2Fwww.ecuavisa.com%2F&without_cookies=false&listenerid=&dvrOffset=3600&dnt=true&type=dvr&es=us-b4-p-e-ja16.cdn.mdstrm.com&ote=1659613966392&ot=XNWLtLHcgv_xqpRPaT19HQ&proto=https&pz=us&_HLS_skip=YES
+https://mdstrm.com/live-stream-playlist/603ea23f928cc5255563012c.m3u8
 
 #EXTINF:-1 tvg-name="Teleamazonas" tvg-logo="https://th.bing.com/th/id/OIP.VrSw1DYsFzVB6ADmf86hBAHaHa?pid=ImgDet&rs=1" group-title="ECUADOR",Teleamazonas
 https://vid.trvdp.com/media/9b2e3ca9de9344fdeebd980ccf9ed4d17a028c2d/hls/9b2e3ca9de9344fdeebd980ccf9ed4d17a028c2d_480.m3u8
@@ -45,6 +48,9 @@ https://envivo.telerama.ec/stream.m3u8
 
 #EXTINF:-1 tvg-name="El Sol TV" tvg-logo="https://th.bing.com/th/id/OIP.Ls5KQPA9x7g5WAtviJ5K7gHaDc?pid=ImgDet&rs=1" group-title="ECUADOR",El Sol TV
 http://streaming5.globalhostla.com/rtplive/elsolrad/playlist.m3u8
+
+#EXTINF:-1 tvg-name="El Sol Network TV" tvg-logo="https://solnetworkgh.files.wordpress.com/2014/10/sol-network.jpg" group-title="ECUADOR",El Sol Network TV
+https://rctvhd.net:8081/elsol105fm/index.m3u8
 
 #EXTINF:-1 tvg-name="Ecuador TV" tvg-logo="https://yt3.ggpht.com/-leq2ZxhLvhc/AAAAAAAAAAI/AAAAAAAAAAA/lgA8SP2JZH4/s900-c-k-no/photo.jpg" group-title="ECUADOR",Ecuador TV
 https://streaming.ecuadortv.ec/hls/key-0a1dbc53-65b9-4207-a796-2ad2afff4666lfuQfxKbLr_mid/index.m3u8
