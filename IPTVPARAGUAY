@@ -1,5 +1,19 @@
 #EXTM3U
 
+
+
+#EXTINF:-1 tvg-name="El Palomar" tvg-logo="https://th.bing.com/th/id/OIP.WvNKs7ZRGSLStvC7E93PvQHaHa?pid=ImgDet&rs=1" group-title="ARGENTINA",El Palomar 
+http://video.streamtvradio.com:8081/uv038/uv038/playlist.m3u8
+
+#EXTINF:-1 tvg-name="El Garage TV" tvg-logo="https://th.bing.com/th/id/OIP.53HhRPgaNKucEVFt8DLcsAHaGO?pid=ImgDet&rs=1" group-title="ARGENTINA",El Garage TV
+http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+
+#EXTINF:-1 tvg-name="Atacama TV" tvg-logo="https://arica.tv/wp-content/uploads/2020/02/aricatv-color_Mesa-de-trabajo-1-1-300x300.png" group-title="CHILE",Atacama TV
+https://v2.tustreaming.cl/atacamatv/index.m3u8
+
+#EXTINF:-1 tvg-name="Arica TV" tvg-logo="https://arica.tv/wp-content/uploads/2020/02/aricatv-color_Mesa-de-trabajo-1-1-300x300.png" group-title="CHILE",Arica TV
+https://5eff35271151c.streamlock.net:1936/8002/8002/playlist.m3u8
+
 #EXTINF:-1 tvg-name="ArabTV" tvg-logo="" group-title="CHILE",ArabTV
 https://livefocamundo.com:8081/arabtv/playlist.m3u8
 
@@ -145,7 +159,7 @@ http://200.115.193.177/live/26hd-720/playlist.m3u8
 https://srv5.zcast.com.br/tvcarioca/tvcarioca/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TV PUBLICA" tvg-logo="https://th.bing.com/th/id/R.61ef1929ee29f6e6e9cfedd7538240bb?rik=AYWctedc4sJ7hA&riu=http%3a%2f%2fi.imgbox.com%2f8ba6r7H9.png&ehk=PAUda9CR4kTov%2fKEslCMhZY3Zx3XPXGrxyIA4kICmuM%3d&risl=&pid=ImgRaw&r=0" group-title="ARGENTINA",TV PUBLICA
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1659376829/ei/XcDnYuniLob2wATLrb-YBA/ip/2803%3A7d80%3Aa004%3A8774%3Ad47c%3A1a06%3Acdb%3A8418/id/D0RWO3wXcVY.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maxh/2160/maudio/1/spc/lT-Khn5cz1bYAh0gwNkzED5GS378GIESQOUPOBv5n54M/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgfZ6uTjKnFZ3CeJ1OqJAdlMLbUANM0Kws35dZqdJjUTkCIHVzefjxqU0SjXLgqmp0FuJfR7QAHBiqxzS4e2eWqETB/file/index.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/TVPublicaArgentina/live
 
 #EXTINF:-1 tvg-name="DiscoveryChannel" tvg-logo="https://th.bing.com/th/id/R.5314f1734242debd1c82d3faa8a70824?rik=qR3pp0JSLVtvdA&pid=ImgRaw&r=0" group-title="PREMIUM",Discovery Channel ES
 http://live.iristv.xyz:8080/marcial/123456/5886
