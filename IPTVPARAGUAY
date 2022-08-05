@@ -1,5 +1,16 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="ArabTV" tvg-logo="" group-title="CHILE",ArabTV
+https://livefocamundo.com:8081/arabtv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Antofagasta TV" tvg-logo="https://th.bing.com/th/id/OIP.WfUOaefNrOdi-KvFciNtdQAAAA?pid=ImgDet&rs=1" group-title="CHILE",Antofagasta TV
+https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Alternativa TV" tvg-logo="" group-title="CHILE",Alternativa TV
+https://srv2.zcast.com.br/carlos2469/carlos2469/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Alegria TV" tvg-logo="https://th.bing.com/th/id/R.b0a4d54ed30132c56e9d88b066195223?rik=nBICGgWDGPG4bA&riu=http%3a%2f%2foklivetv.com%2fwp-content%2fuploads%2fmedia%2f9a4d5f046b045f79a645ea69dac86e50.jpeg&ehk=OpX9%2f2NuX68x5Z6AYA9MGkpLt69yvnHMh6CowFuQ6pM%3d&risl=&pid=ImgRaw&r=0" group-title="CHILE",Alegria TV
+https://593b04c4c5670.streamlock.net/8192/8192/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Dismar" tvg-logo="https://th.bing.com/th/id/OIP.h1Pi1Cv_DRwd-YLTylPl7AHaHY?pid=ImgDet&rs=1" group-title="PARAGUAY",Dismar
 https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8
