@@ -1,5 +1,53 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="TV Pantanl MS" tvg-logo="https://i.ytimg.com/vi/Kg2P0ldTdqs/maxresdefault.jpg" group-title="BRASIL",TV Pantanal MS
+https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TV Parana Turismo" tvg-logo="https://th.bing.com/th/id/R.d8fa7db9c19fea54724c929df359e739?rik=yx7IdlNQjHLLZQ&pid=ImgRaw&r=0" group-title="BRASIL",TV Parana Turismo
+http://200.189.113.201/hls/tve.m3u8
+
+#EXTINF:-1 tvg-name="TV Poços" tvg-logo="https://th.bing.com/th/id/OIP.wOLSlGecpXUd9T7oLPqrJwAAAA?pid=ImgDet&rs=1" group-title="BRASIL",TV Poços
+http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Tv Santa Cruz" tvg-logo="https://logosave.com/images/large/11/TV-SANTA-CRUZ-logo.gif" group-title="BRASIL",Tv Santa Cruz
+https://rtmp.info/tvsantacruz/envivo/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Tv Serra Dourada" tvg-logo="https://th.bing.com/th/id/R.dd94096b767bdfa2af53b4e2d3ae7c4b?rik=tIgVKAk792L20w&pid=ImgRaw&r=0" group-title="BRASIL",Tv Serra Dourada
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Tv Terceiro Anjo" tvg-logo="https://th.bing.com/th/id/R.39625d237512a36d661ac1406c0e0dff?rik=BwzWFFrge1XQQQ&pid=ImgRaw&r=0" group-title="BRASIL",Tv Terceiro Anjo
+https://streamer1.streamhost.org/salive/GMI3anjoh/livestream.m3u8
+
+#EXTINF:-1 tvg-name="Tv Thathi" tvg-logo="https://yt3.ggpht.com/a/AATXAJyp9s2A07fWSX2pYd73wdeIU_jfRDsWWk8nCg=s900-c-k-c0xffffffff-no-rj-mo" group-title="BRASIL",Tv Thathi
+https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Tv UFG" tvg-logo="https://th.bing.com/th/id/R.187424a491b2a4cf0e21c030d7c97c14?rik=1o7SsS5hg52aQQ&pid=ImgRaw&r=0" group-title="BRASIL",Tv UFG
+http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Tv UniSantos" tvg-logo="https://th.bing.com/th/id/OIP.q-WZMaZbhmiMDQNd6Wm-GgAAAA?pid=ImgDet&rs=1" group-title="BRASIL",Tv UniSantos
+http://live.cdn.upx.com/7550/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Tv Verdes Campos" tvg-logo="https://th.bing.com/th/id/OIP.3dFMwqvW0X1KAgc36NVX7wHaHa?pid=ImgDet&rs=1" group-title="BRASIL",Tv Verdes Campos
+https://596639ebdd89b.streamlock.net/8124/8124/playlist.m3u8
+
+#EXTINF:-1 tvg-name="UniTV Porto Alegre" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/793814abc6038d4dea58cdad64ca3255.webp" group-title="BRASIL",UniTV Porto Alegre
+http://unitvaovivo.ufrgs.br:8080/live.ogg
+
+#EXTINF:-1 tvg-name="Yeeaah!" tvg-logo="https://th.bing.com/th/id/R.7e3ebfb4f80c0d7019d8b256661b90c7?rik=8IVMP6wnAPRruw&pid=ImgRaw&r=0" group-title="BRASIL",Yeeaah!
+https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TNT Sports 2" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-2-768x236.png" group-title="BRASIL",TNT Sports 2
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TNT Sports 3" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-2-768x236.png" group-title="BRASIL",TNT Sports 3
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TNT Sports 4" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-2-768x236.png" group-title="BRASIL",TNT Sports 4
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TNT Sports 5" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-2-768x236.png"roup-title="BRASIL",TNT Sports 5
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Motor Sur Media" tvg-logo="" group-title="PARAGUAY",Motor Sur Media
 https://59ce1298bfb98.streamlock.net/motorsur/motorsur/playlist.m3u8
 
