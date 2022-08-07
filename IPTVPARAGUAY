@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="El Histonauta TV" tvg-logo="" group-title="ARGENTINA",El Histonauta TV
+https://stmv1.voxtvhd.com.br/elhistonauta/elhistonauta/playlist.m3u8
+
 #EXTINF:-1 vg-name="Sono Onda TV" tvg-logo="https://i2.paste.pics/8cac932b5b12ee4c5ae8a6ff04da69bc.png" group-title="ECUADOR",Sono Onda TV
 https://mediacpstreamchile.com:1936/sonoonda/sonoonda/playlist.m3u8
 
