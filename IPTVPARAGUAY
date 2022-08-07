@@ -1,6 +1,12 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-name="Red TVE Ventana" tvg-logo="https://i2.paste.pics/a8f3ee3bc77238a55c1e80c89dcd2f8f.png",Red TVE Ventana
+https://s1.tvdatta.com:3707/live/redtvelive.m3u8
+
+#EXTINF:-1 tvg-name="Ecotel TV" tvg-logo="https://lh3.googleusercontent.com/--ZBVFLyVUOE/Xzh9GLUpNHI/AAAAAAAA4dE/jq8UogAyxeoh3Kt-q8-QA7vbEhPr-Gg0gCK8BGAsYHg/s0/2020-08-15.jpg",Ecotel TV
+https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
+
 #EXTINF:-1 tvg-name="TV Pantanl MS" tvg-logo="https://i.ytimg.com/vi/Kg2P0ldTdqs/maxresdefault.jpg" group-title="BRASIL",TV Pantanal MS
 https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u8
 
