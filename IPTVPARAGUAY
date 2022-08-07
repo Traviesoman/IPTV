@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="Red Bull TV HD 2" tvg-logo="https://th.bing.com/th/id/OIP.R7-lJyW2Nrbm2QR1X89hkwHaHa?pid=ImgDet&w=512&h=512&rs=1" group-title="DEPORTE",Red Bull TV HD 2 
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1 tvg-name="Red Bull TV HD" tvg-logo="https://th.bing.com/th/id/OIP.R7-lJyW2Nrbm2QR1X89hkwHaHa?pid=ImgDet&w=512&h=512&rs=1" group-title="DEPORTE",Red Bull TV HD 
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+
 #EXTINF:-1 tvg-name="El Histonauta TV" tvg-logo="" group-title="ARGENTINA",El Histonauta TV
 https://stmv1.voxtvhd.com.br/elhistonauta/elhistonauta/playlist.m3u8
 
