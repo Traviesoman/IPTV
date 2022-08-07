@@ -1,10 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 vg-name="" tvg-logo="" group-title="ECUADOR",Centro Ecuador HD
-http://tvpremiumhd.club/lista-gratuita/040108/on/live.php?id=ott.streann.com/loadbalancer/services/public/channels-secure/57cef28b2cdc6843385b86ce/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Sky News" tvg-logo="" group-title="DEPORTE",Sky News
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
 
 #EXTINF:-1 tvg-name="Red Bull TV HD 2" tvg-logo="https://th.bing.com/th/id/OIP.R7-lJyW2Nrbm2QR1X89hkwHaHa?pid=ImgDet&w=512&h=512&rs=1" group-title="DEPORTE",Red Bull TV HD 2 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
