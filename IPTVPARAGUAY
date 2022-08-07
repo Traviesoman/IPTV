@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 vg-name="Sono Onda TV" tvg-logo="https://i2.paste.pics/8cac932b5b12ee4c5ae8a6ff04da69bc.png",Sono Onda TV
+https://mediacpstreamchile.com:1936/sonoonda/sonoonda/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RecTV" tvg-logo="https://lh3.googleusercontent.com/-0atc2QJMJRg/XzxpCj8FsaI/AAAAAAAA4oo/_LD2fjmoqyAfmD7G8gAusjTDQ__Pg96tACK8BGAsYHg/s0/2020-08-18.jpg", RecTV
+https://video.misistemareseller.com:443/Jonnytv/Jonnytv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Red TVE Ventana" tvg-logo="https://i2.paste.pics/a8f3ee3bc77238a55c1e80c89dcd2f8f.png",Red TVE Ventana
 https://s1.tvdatta.com:3707/live/redtvelive.m3u8
