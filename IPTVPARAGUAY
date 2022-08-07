@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="TVE RS" tvg-logo="https://www.tve.com.br/themes/padrao2019/images/logos/logo.png" group-title="BRASIL",TVE RS opc2
+http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TVE RS" tvg-logo="https://www.tve.com.br/themes/padrao2019/images/logos/logo.png" group-title="BRASIL",TVE RS opc1
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Red Bull TV HD 2" tvg-logo="https://th.bing.com/th/id/OIP.R7-lJyW2Nrbm2QR1X89hkwHaHa?pid=ImgDet&w=512&h=512&rs=1" group-title="DEPORTE",Red Bull TV HD 2 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
