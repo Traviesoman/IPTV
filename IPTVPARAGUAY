@@ -273,13 +273,13 @@ http://m1.webvps.de:25443/MAG0l2pYzuUFa/DEjEvYU3m5/64375
 #EXTINF:-1 tvg-name="Discovery H&H" tvg-logo="https://th.bing.com/th/id/R.2d32db4745607f18056cf959e1001113?rik=A%2f2cr3HLxbXJ%2bA&pid=ImgRaw&r=0" group-title="PREMIUM", DISCOVERY H&H HD (MX)
 http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41083.m3u
 
-#EXTINF:-1 tvg-name="FOXSPORTS" tvg-logo="https://th.bing.com/th/id/R.a3bfd48feb334ed2dfd70a7c48bb5e11?rik=TfxOJ27sok%2bbTg&riu=http%3a%2f%2fwww.studionetworksolutions.com%2fwp-content%2fuploads%2f2014%2f03%2fFOX-Sports-21.jpg&ehk=hA2KRBqvwTZGa%2fV3vxXmOy65GdDfCbsqY%2fIv5hcIOZk%3d&risl=&pid=ImgRaw&r=0" group-title="DEPORTE",FOX SPORTS HD (MX)
+EXTINF:-1 tvg-name="FOXSPORTS" tvg-logo="https://th.bing.com/th/id/R.a3bfd48feb334ed2dfd70a7c48bb5e11?rik=TfxOJ27sok%2bbTg&riu=http%3a%2f%2fwww.studionetworksolutions.com%2fwp-content%2fuploads%2f2014%2f03%2fFOX-Sports-21.jpg&ehk=hA2KRBqvwTZGa%2fV3vxXmOy65GdDfCbsqY%2fIv5hcIOZk%3d&risl=&pid=ImgRaw&r=0" group-title="DEPORTE",FOX SPORTS HD (MX)
 http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41064.m3u
 
 #EXTINF:-1 tvg-name="FOXSPORTS2" tvg-logo="https://3.bp.blogspot.com/-B19vvLrXixY/XGv7otWHlfI/AAAAAAAAAds/_sqwxu_sdXwzUa4flfsnwTQPf3EF3aMQACLcBGAs/s1600/fox_sports2_N.png" group-title="DEPORTE",FOX SPORTS 2 HD (MX)
-http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41063.m3u
+http://209231513648320225.nicerfv.xyz:80/jorge/jorge1234/320225
 
-#EXTINF:-1 tvg-name="FOXSPORTS3" tvg-logo="https://th.bing.com/th/id/R.bebda2531f4c8a85d6d8533ac4357c79?rik=2VWqo4%2fvMU7Skw&riu=http%3a%2f%2fvignette1.wikia.nocookie.net%2flogosfake%2fimages%2f4%2f4b%2fFox_Sports_3.png%2frevision%2flatest%3fcb%3d20141006141554&ehk=iVqAiLOT5SigiIuM%2fyym9qlBlFLJ107nkET5f5ZhRAQ%3d&risl=&pid=ImgRaw&r=0" group-title="DEPORTE",FOX SPORTS 3 HD (MX)
+EXTINF:-1 tvg-name="FOXSPORTS3" tvg-logo="https://th.bing.com/th/id/R.bebda2531f4c8a85d6d8533ac4357c79?rik=2VWqo4%2fvMU7Skw&riu=http%3a%2f%2fvignette1.wikia.nocookie.net%2flogosfake%2fimages%2f4%2f4b%2fFox_Sports_3.png%2frevision%2flatest%3fcb%3d20141006141554&ehk=iVqAiLOT5SigiIuM%2fyym9qlBlFLJ107nkET5f5ZhRAQ%3d&risl=&pid=ImgRaw&r=0" group-title="DEPORTE",FOX SPORTS 3 HD (MX)
 http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41062.m3u
 
 #EXTINF:-1 tvg-name="Unicanal" tvg-logo="https://lh3.googleusercontent.com/-RjyvLZJ0ed4/YH44rJhzBEI/AAAAAAABBxA/BYT7vltKAgsulzaQkdoAg8KadCOWEXHZwCK8BGAsYHg/s512/2021-04-19.jpg" group-title="PARAGUAY",Unicanal
@@ -489,20 +489,14 @@ https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 #EXTINF:-1 tvg-name="Band" tvg-logo="https://th.bing.com/th/id/R.c2ff8dce4f0d458c1ed7a2fe6c917074?rik=XTYmOqWTv8ZdJA&pid=ImgRaw&r=0" group-title="BRASIL",Band
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8
 
-#EXTINF:-1 tvg-name="Bandsports 4k FHD" tvg-logo="https://4.bp.blogspot.com/-xxnQe1WqFN8/Uz2bssvGGjI/AAAAAAAAh8M/XgjA9pr7oAQ/s1600/BandSports+HD_Logotipo.png" group-title="DEPORTE",Band Sports 4K FHD
-http://ccdn.so:80/vsabG/499AKVptc/103525.ts
-
-#EXTINF:-1 tvg-name="Bandsports 4k" tvg-logo="https://4.bp.blogspot.com/-xxnQe1WqFN8/Uz2bssvGGjI/AAAAAAAAh8M/XgjA9pr7oAQ/s1600/BandSports+HD_Logotipo.png" group-title="DEPORTE",Band Sports 4k
-http://ccdn.so:80/vsabG/499AKVptc/71801.ts
-
-#EXTINF:-1 tvg-name="Bandsports FHD" tvg-logo="https://4.bp.blogspot.com/-xxnQe1WqFN8/Uz2bssvGGjI/AAAAAAAAh8M/XgjA9pr7oAQ/s1600/BandSports+HD_Logotipo.png" group-title="DEPORTE",Band Sports FHD
-http://ccdn.so:80/vsabG/499AKVptc/71802.ts
+#EXTINF:-1 tvg-name="Bandsports 4k FHD" tvg-logo="https://4.bp.blogspot.com/-xxnQe1WqFN8/Uz2bssvGGjI/AAAAAAAAh8M/XgjA9pr7oAQ/s1600/BandSports+HD_Logotipo.png" group-title="DEPORTE",Band Sports 4K
+http://209231513648318656.nicerfv.xyz:80/jorge/jorge1234/318656
 
 #EXTINF:-1 tvg-name="Bandsports HD" tvg-logo="https://4.bp.blogspot.com/-xxnQe1WqFN8/Uz2bssvGGjI/AAAAAAAAh8M/XgjA9pr7oAQ/s1600/BandSports+HD_Logotipo.png" group-title="DEPORTE",Band Sports HD
-http://ccdn.so:80/vsabG/499AKVptc/71803.ts
+http://209231513648318657.nicerfv.xyz:80/jorge/jorge1234/318657
 
 #EXTINF:-1 tvg-name="Bandsports" tvg-logo="https://assets.website-files.com/56a8f71796f7e474512210ca/5d69a0952927f621d24a9bfc_Bandsports.png" group-title="DEPORTE",Band Sports
-http://ccdn.so:80/vsabG/499AKVptc/71804.ts
+http://209231513648318658.nicerfv.xyz:80/jorge/jorge1234/318658
 
 #EXTINF:-1 tvg-name="DirecTV Sports" tvg-logo="http://x.playerlatino.live/directvsports.png" group-title="DEPORTE",DirectTV Sports
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
