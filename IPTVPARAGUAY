@@ -1,5 +1,31 @@
 #EXTM3U
 
+
+
+#EXTINF:-1 tvg-name="Telenord Corrientes" tvg-logo="https://www.pianetagenoa1893.net/wp-content/uploads/2019/09/10/37/Telenord.png" group-title="ARGENTINA",Telenord Corrientes
+http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Telpin Tv C2" tvg-logo="https://th.bing.com/th/id/OIP.eNAn70RlhunJKKFSO-aDtQHaHa?pid=ImgDet&rs=1" group-title="ARGENTINA",Telpin Tv C2
+https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Tierra Mia TV" tvg-logo="https://th.bing.com/th/id/OIP.gsBD1BFP25FuWDb62f_OeQAAAA?pid=ImgDet&w=185&h=200&rs=1" group-title="ARGENTINA",Tierra Mia TV
+http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Tv Solidaria" tvg-logo="https://th.bing.com/th/id/OIP.eIqpWwecXnND76HHj-ufjgAAAA?pid=ImgDet&rs=1" group-title="ARGENTINA",Tv Solidaria
+https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
+
+#EXTINF:-1 tvg-name="UNAM Transmedia" tvg-logo="https://lh3.googleusercontent.com/-SGxVbm9A4_I/X1TL8nZWUAI/AAAAAAAA5Ug/qgSnKyGCelYvrOtoaaMEO2DsDmztrpkdQCK8BGAsYHg/s0/2020-09-06.png" group-title="ARGENTINA",UNAM Transmedia
+http://192.100.186.53:8090/hls/live.stream.m3u8
+
+#EXTINF:-1 tvg-name="Unirio TV" tvg-logo="https://lh3.googleusercontent.com/-SGxVbm9A4_I/X1TL8nZWUAI/AAAAAAAA5Ug/qgSnKyGCelYvrOtoaaMEO2DsDmztrpkdQCK8BGAsYHg/s0/2020-09-06.png" group-title="ARGENTINA",Unirio TV
+https://5f700d5b2c46f.streamlock.net/uniriotv/uniriotv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Vorterix" tvg-logo="https://th.bing.com/th/id/OIP.UBH7nzKARilrhvbNDDliMAHaHa?pid=ImgDet&rs=1" group-title="ARGENTINA",Vorterix
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCvCTWHCbBC0b9UIeLeNs8ug/live
+
+#EXTINF:-1 tvg-name="VTV" tvg-logo="https://i0.wp.com/transitobuenosaires.com/wp-content/uploads/2015/02/vtv-logo.jpg?ssl=1" group-title="ARGENTINA",VTV
+https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
+
 #EXTINF:-1 tvg-name="TV Camara" tvg-logo="https://th.bing.com/th/id/OIP.XCbRoW7l5x-xlocNok7XKwHaIp?pid=ImgDet&rs=1" group-title="BRASIL",TV Camara
 http://stream2.camara.leg.br:8134/tv1/manifest.m3u8
 
