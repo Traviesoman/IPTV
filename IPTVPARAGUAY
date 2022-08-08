@@ -1,6 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="San Pedro TV" tvg-logo="https://th.bing.com/th/id/OIP.yP6-51fUcmbws6ptKkcErwHaD2?pid=ImgDet&rs=1" group-title="ARGENTINA",San Pedro TV
+https://iptv.ixfo.com.ar:30443/live/sanpedrotv/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Señal Urbana" tvg-logo="https://cdn-radiotime-logos.tunein.com/s128612g.png" group-title="ARGENTINA",Señal Urbana
+https://fullvideo.enlaweb.com.ar/video95/video95/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TEC TV" tvg-logo="https://th.bing.com/th/id/OIP.2Rs-Sj4PHn_79zv_pQnhxAAAAA?pid=ImgDet&rs=1" group-title="ARGENTINA",TEC TV
+https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
 
 #EXTINF:-1 tvg-name="Telenord Corrientes" tvg-logo="https://www.pianetagenoa1893.net/wp-content/uploads/2019/09/10/37/Telenord.png" group-title="ARGENTINA",Telenord Corrientes
 http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
