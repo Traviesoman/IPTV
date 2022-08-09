@@ -686,8 +686,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d64d0e8a6200096
 EXTINF:-1 tvg-name="Paravision" tvg-logo="https://lh3.googleusercontent.com/-1fUjD2FTrlU/YH4xkxag6PI/AAAAAAABBwE/ESDwMnL4nlsKPWztFXz676S0xTg-ROj6wCK8BGAsYHg/s512/2021-04-19.jpg" group-title="PARAGUAY",Paravision
 http://edge2-ccast-sl.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_SAGEMCOM/PARAVISION_C4.m3u8
 
-EXTINF:-1 tvg-name="Telefuturo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Telefuturo2017.png" group-title="PARAGUAY",Telefuturo
-https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_int_baja/chunklist_w497988769.m3u8?k=46262707bf33ab7ae2db77a36c4856f9b85d55d4556583f7b90830dd892eae59&exp=1658636211
+#EXTINF:-1 tvg-name="Telefuturo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Telefuturo2017.png" group-title="PARAGUAY",Telefuturo
+https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_int_baja/.m3u8
 
 EXTINF:-1 tvg-name="GenTV" tvg-logo="https://www.television.com.py/wp-content/uploads/2020/10/LogoGENtvpy.jpg" group-title="PARAGUAY",GEN
 https://rds3gen.desdeparaguay.net/gentv/gentv_int_baja/chunklist_w1317888328.m3u8?k=7124ea7f6a55367e4c0ac4ed723c1e6303ca2ea3fbe211ed6d0f9c4a3f331de0&exp=1658746403
