@@ -332,10 +332,10 @@ http://live.iristv.xyz:8080/marcial/123456/5860
 #EXTINF:-1 tvg-name="SBT" tvgg-logo="https://th.bing.com/th/id/R.aac172d7b694a9b0453031c450f63d64?rik=kJyRThBz7pDnqA&riu=http%3a%2f%2fvignette3.wikia.nocookie.net%2flogopedia%2fimages%2fe%2fee%2fLogo_SBT_2001.png%2frevision%2flatest%3fcb%3d20150629174647&ehk=Nua0%2bIw1ioG%2bRGTNl1irH%2b1bt10F%2bPHOA0AWYEKIhPk%3d&risl=&pid=ImgRaw&r=0" group-title="BRASIL",SBT BRASIL
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist-480p.m3u8
 
-#EXTINF:-1 tvg-name="CNN CHILE" tvg-logo="https://vignette.wikia.nocookie.net/althistory/images/f/f9/CNN_Chile.png/revision/latest?cb=20131210072704&path-prefix=es" group-title="NOTICIAS",CNN CHILE
+EXTINF:-1 tvg-name="CNN CHILE" tvg-logo="https://vignette.wikia.nocookie.net/althistory/images/f/f9/CNN_Chile.png/revision/latest?cb=20131210072704&path-prefix=es" group-title="NOTICIAS",CNN CHILE
 http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41100.m3u
 
-#EXTINF:-1 tvg-name="CNN EN ESPANOL" tvg-logo="https://th.bing.com/th/id/R.c191b56a3ef6aaf3e613069b71ec5875?rik=hKi8nayVWlMQXg&riu=http%3a%2f%2fwww.maduradas.com%2fwp-content%2fuploads%2f2014%2f02%2fCNN-en-Espa%c3%b1ol-EN-VIVO-800x533.jpg&ehk=fVrniMmwo0NW5K733XgL7qINJ%2bPilwK1jOkpx0Vl%2b%2bA%3d&risl=&pid=ImgRaw&r=0" group-title="NOTICIAS",CNN EN ESPANOL
+EXTINF:-1 tvg-name="CNN EN ESPANOL" tvg-logo="https://th.bing.com/th/id/R.c191b56a3ef6aaf3e613069b71ec5875?rik=hKi8nayVWlMQXg&riu=http%3a%2f%2fwww.maduradas.com%2fwp-content%2fuploads%2f2014%2f02%2fCNN-en-Espa%c3%b1ol-EN-VIVO-800x533.jpg&ehk=fVrniMmwo0NW5K733XgL7qINJ%2bPilwK1jOkpx0Vl%2b%2bA%3d&risl=&pid=ImgRaw&r=0" group-title="NOTICIAS",CNN EN ESPANOL
 http://m1.webvps.de:25443/MAG0l2pYzuUFa/DEjEvYU3m5/64375
 
 #EXTINF:-1 tvg-name="Discovery H&H" tvg-logo="https://th.bing.com/th/id/R.2d32db4745607f18056cf959e1001113?rik=A%2f2cr3HLxbXJ%2bA&pid=ImgRaw&r=0" group-title="PREMIUM", DISCOVERY H&H HD (MX)
