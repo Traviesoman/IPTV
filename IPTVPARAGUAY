@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="CGTN Esp" tvg-logo="https://th.bing.com/th/id/R.b6d6eacb1dc055694b40c5da8f748417?rik=sv%2f8wAF2%2fdkoAA&riu=http%3a%2f%2fvignette4.wikia.nocookie.net%2flogopedia%2fimages%2f6%2f68%2fCgtn_cn_espanol.png%2frevision%2flatest%3fcb%3d20170127161944&ehk=B3JeWxOfITZAIh3tenHhr5eD4EuCJfQznv%2bL%2bflGrME%3d&risl=&pid=ImgRaw&r=0" group-title="NOTICIAS",CGTN Esp
+https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
+
 #EXTINF:-1 tvg-name="Noticias Caracol" tvg-logo="https://th.bing.com/th/id/R.645c8ff973bc2df51e8c1841b2d55b89?rik=mZwhH8lFmyBNLg&riu=http%3a%2f%2fimg2.wikia.nocookie.net%2f__cb20140907175918%2flogopedia%2fimages%2fe%2fe2%2fCaracol-noticias_2.jpg&ehk=7aOwmg%2baVQQjWflGLqWgh%2brUMrDhZNqgb9hVQCFebr8%3d&risl=&pid=ImgRaw&r=0" group-title="NOTICIAS",Noticias Caracol
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1660241476/ei/5PH0Yri9GtubobIPqKSGwAM/ip/2803%3A7d80%3Aa004%3A8774%3A1906%3A3a0e%3Ae25f%3Acbd4/id/Cx5gwduEYo0.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/gcr/py/spc/lT-KhjMBmiAmaxlS8BYTK2b3nwybR7oiKwe343dw21e-/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgY6kYwL06Y4Mi8WxkKuNv1w_qKx0V5KYwDFrEqCCYlrMCIH_ViQDvfbmWzUx15_8DKFnAREEnTYrKSUo1duBpzGFB/file/index.m3u8
 
