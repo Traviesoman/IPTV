@@ -707,7 +707,7 @@ https://rds3gen.desdeparaguay.net/gentv/gentv_int_baja/chunklist_w1317888328.m3u
 
 EXTINF:-1 tvg-name="Noticias Paraguay" tvg-logo="https://npy.com.py/wp-content/uploads/2019/07/cropped-logodos-1.png" group-title="PARAGUAY",NPY HD
 
-EXTINF:-1 tvg-name="Star World" tvg-logo="https://npy.com.py/wp-content/uploads/2019/07/cropped-logodos-1.png" group-title="TAIWAN",Star World
+EXTINF:-1 tvg-name="Star World" tvg-logo="https://www.tvchinese.net/uploads/tv/starworld.jpg" group-title="TAIWAN",Star World
 http://61.219.170.95:18504/http/192.168.1.9:8081/hls/61/803/ch02.m3u8
 
 
