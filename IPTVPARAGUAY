@@ -445,7 +445,7 @@ http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41161.m3u
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658541220/ei/RADbYp6OB_vS1sQPr72imAc/ip/2803%3A7d80%3Aa004%3A8774%3A6d0f%3A44fb%3Af744%3Adf0a/id/_QbRXRnHMVY.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/lT-KhuIKr84WIDYz1aV_3IdbGFZp0tpmk5Qkk6RBDjbB/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAL5B6ck3YE33uugiQ-CMq2ZuvFGLkhJaHmEkPZw0CjbMAiAOCtWa6XQwxgUcmzNMyOZKdi0A_OostLySYSlAiJjmVw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-name="FORMOSA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/4e/FTV_Logo.svg/1024px-FTV_Logo.svg.png" group-title="TAIWAN",FORMOSA TV
-https://4gtvfreemobile-cds.cdn.hinet.net/live/pool/4gtv-4gtv002/4gtv-live-mid/4gtv-4gtv002-avc1_400000=5-mp4a_131000=7-begin=2402377970333333-dur=40000000-seq=60059450.ts?token1=uaOnL-ZhfhCok_ZVCOcHYQ&expires1=1660351358
+https://4gtvfreemobile-mozai.4gtv.tv/yIwJQKubs1EPIXChdietfLpk-mgtUcol-WP-eUMlC5g%3d/stream0.m3u8
 
 #EXTINF:-1 tvg-name="NTD TV" tvg-logo="https://pbs.twimg.com/profile_images/2909695219/4e6ececbe5b24f006e5ceadff84f0a00_400x400.png" group-title="TAIWAN",NTD TV
 https://ntd02.akamaized.net/HD-NY/tracks-v1a1/mono.m3u8
