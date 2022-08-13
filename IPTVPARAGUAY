@@ -713,5 +713,5 @@ EXTINF:-1 tvg-name="Noticias Paraguay" tvg-logo="https://npy.com.py/wp-content/u
 #EXTINF:-1 tvg-name="Star World" tvg-logo="https://www.tvchinese.net/uploads/tv/starworld.jpg" group-title="TAIWAN",Star World
 http://61.219.170.95:18504/http/192.168.1.9:8081/hls/61/803/ch02.m3u8
 
-EXTINF:-1 tvg-name="Tastemade Español" tvg-logo="" group-title="NOTICIAS",Tastemade Español
+#EXTINF:-1 tvg-name="Tastemade Español" tvg-logo="" group-title="NOTICIAS",Tastemade Español
 https://tastemadees16intl-vizio.amagi.tv/playlist.m3u8
