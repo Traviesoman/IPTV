@@ -713,6 +713,6 @@ EXTINF:-1 tvg-name="Noticias Paraguay" tvg-logo="https://npy.com.py/wp-content/u
 #EXTINF:-1 tvg-name="Star World" tvg-logo="https://www.tvchinese.net/uploads/tv/starworld.jpg" group-title="TAIWAN",Star World
 http://61.219.170.95:18504/http/192.168.1.9:8081/hls/61/803/ch02.m3u8
 
-#EXTINF:-1 tvg-name="Latele" tvg-logo="" group-title="PARAGUAY",Latele
+EXTINF:-1 tvg-name="Latele" tvg-logo="" group-title="PARAGUAY",Latele
 https://video-edge-68f0b8.sao01.no-abs.hls.ttvnw.net/v1/segment/CqoF9IvqOdIsMSKqI0KV7IpXqx5vsVkW-6R6lSOJMzvNoX3eiH4MFtDAH0wlXzettepg2fqUuDlZl0IqCFn-4R7R0mkFlTe8wocBpZws1J8gJnm9wAt1hKm4c3J3Or1f6uz7By58Kpi16uh5Y_RmCVFfZWAvhoQkWP6gRqSyhl-v5vqJ9OEpXEM2r9xoiqvKkHirZjUNTNSAZpYRHhuhu9_GksuXqJdDhEgNoQSMRxVhZMnsEGDRe6DFFMjNDXtkWGuof-YgJYHRh8hamqW-FsRbRhfQRhFGz5-nKMk3aSW3TYkS_b1RLc0KYM-8viqQov7fPjsv613vddzOBaNkHJxu0E2Mni252W4wMkwAgStQ5OAIQ57ZHDV1KOS2rU-eflBFSybAfMeUFhDgNq-tDHR57WI1PZqOR1AN2bz0VVGw31ED2Qn6K74s2_XA1obCE3gnb2MUq0BDS92rNNls2HMQzne669dHlm8ZcsfqrLpAziKUFFnanD1eJ3jUPacmgpfqwtJVTxmWeoFBlAcI_m12HHfbgGtD7NNUr6KFIJBp7hjeoEFoEMOB995DIhdB_5Ti39juVixT-4NNHn69yM3aY-GnevFf8xunuE5wSGy2ik1HnaZd3ZeRAez61mCjcTdQeKVVxuNPW73CglJqdGqsD0feK-pC7hWN2hxDkCxtoS5bdRPF8TD6FS09Xc7JjbFMzz4au7DIYYpQePSzuBR5MrGyIBLAMNlgkzBi7o3qCz3luTTgimapEa5OwjpngcpQQe2gin1M3rTenPD5kdfCfHPjKp3oc03p8GQWwTWWAvdZqNAU489LCVYFgzcQLCklzNDPW-iu-t7chzfdoCAorrleG2aYstooZHiTbWsYrDucBJ4xcmrZw7uxse2dxzRXorDIdqbXuViD8RoM8Bs_uuSWok74TihgIAEqCXVzLWVhc3QtMTDrAg.ts
 
