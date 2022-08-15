@@ -708,7 +708,8 @@ https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_int_baja.m3u8
 EXTINF:-1 tvg-name="GenTV" tvg-logo="https://www.television.com.py/wp-content/uploads/2020/10/LogoGENtvpy.jpg" group-title="PARAGUAY",GEN
 https://rds3gen.desdeparaguay.net/gentv/gentv_int_baja/chunklist_w1317888328.m3u8?k=7124ea7f6a55367e4c0ac4ed723c1e6303ca2ea3fbe211ed6d0f9c4a3f331de0&exp=1658746403
 
-EXTINF:-1 tvg-name="Noticias Paraguay" tvg-logo="https://npy.com.py/wp-content/uploads/2019/07/cropped-logodos-1.png" group-title="PARAGUAY",NPY HD
+#EXTINF:-1 tvg-name="Noticias Paraguay" tvg-logo="https://npy.com.py/wp-content/uploads/2019/07/cropped-logodos-1.png" group-title="PARAGUAY",NPY H
+https://rds3gen.desdeparaguay.net/gentv/gentv_int_baja/chunklist_w997567104.m3u8
 
 #EXTINF:-1 tvg-name="Star World" tvg-logo="https://www.tvchinese.net/uploads/tv/starworld.jpg" group-title="TAIWAN",Star World
 http://61.219.170.95:18504/http/192.168.1.9:8081/hls/61/803/ch02.m3u8
