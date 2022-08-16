@@ -439,13 +439,13 @@ http://live.iristv.xyz:8080/marcial/123456/5877
 http://live.iristv.xyz:8080/marcial/123456/5877
 
 #EXTINF:-1 tvg-name="Globo News" tvg-logo="https://www.coolstreaming.us/img/ch/image27522380231.jpg" group-title="BRASIL",BR:Globo News
-http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41162.m3u
+http://tv.nousiptv.com:8080/joaco/joaco/7774
 
 #EXTINF:-1 tvg-name="Globo RJ HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/globorj.png" group-title="BRASIL",Globo RJ HD
-http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41166.m3u
+http://tv.nousiptv.com:8080/joaco/joaco/43624
 
 #EXTINF:-1 tvg-name="Globo SP HD" tvg-logo="https://acordeemny.com.br/wp-content/uploads/2020/02/WhatsApp-da-Globo-SP.jpg" group-title="BRASIL",Globo SP HD
-http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41165.m3u
+http://tv.nousiptv.com:8080/joaco/joaco/43623
 
 #EXTINF:-1 tvg-name="Globosat HD" tvg-logo="https://www.tvyvideo.com/images/stories/TVV/users/rsanta/Globosat_transmitio_el_Mundial_de_Rusia_en_vivo_en_UHD.jpg" group-title="BRASIL",Globosat   HD
 http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41164.m3u
