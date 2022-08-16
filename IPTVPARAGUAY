@@ -330,23 +330,32 @@ https://srv5.zcast.com.br/tvcarioca/tvcarioca/playlist.m3u8
 #EXTINF:-1 tvg-name="TV PUBLICA" tvg-logo="https://th.bing.com/th/id/R.61ef1929ee29f6e6e9cfedd7538240bb?rik=AYWctedc4sJ7hA&riu=http%3a%2f%2fi.imgbox.com%2f8ba6r7H9.png&ehk=PAUda9CR4kTov%2fKEslCMhZY3Zx3XPXGrxyIA4kICmuM%3d&risl=&pid=ImgRaw&r=0" group-title="ARGENTINA",TV PUBLICA
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/TVPublicaArgentina/live
 
-#EXTINF:-1 tvg-name="DiscoveryChannel" tvg-logo="https://th.bing.com/th/id/R.5314f1734242debd1c82d3faa8a70824?rik=qR3pp0JSLVtvdA&pid=ImgRaw&r=0" group-title="PREMIUM",Discovery Channel ES
+#EXTINF:-1 tvg-name="Discovery Channel España" tvg-logo="https://th.bing.com/th/id/R.5314f1734242debd1c82d3faa8a70824?rik=qR3pp0JSLVtvdA&pid=ImgRaw&r=0" group-title="PREMIUM",Discovery Channel España
 http://live.iristv.xyz:8080/marcial/123456/5886
 
-#EXTINF:-1 tvg-name="History HD" tvg-logo="https://th.bing.com/th/id/R.14a1fd434053c9aa41642e02b71bab46?rik=YHnMDAQUlgCpnQ&pid=ImgRaw&r=0" group-title="PREMIUM",HISTORY HD (MX)
+#EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="https://th.bing.com/th/id/R.5314f1734242debd1c82d3faa8a70824?rik=qR3pp0JSLVtvdA&pid=ImgRaw&r=0" group-title="PREMIUM",Discovery Channel
+http://tv.nousiptv.com:8080/joaco/joaco/3251
+
+#EXTINF:-1 tvg-name="Historia España" tvg-logo="https://th.bing.com/th/id/R.14a1fd434053c9aa41642e02b71bab46?rik=YHnMDAQUlgCpnQ&pid=ImgRaw&r=0" group-title="PREMIUM",Historia España
 http://live.iristv.xyz:8080/marcial/123456/5860
+
+#EXTINF:-1 tvg-name="History Channel" tvg-logo="https://th.bing.com/th/id/R.14a1fd434053c9aa41642e02b71bab46?rik=YHnMDAQUlgCpnQ&pid=ImgRaw&r=0" group-title="PREMIUM",History Channel
+http://tv.nousiptv.com:8080/joaco/joaco/3234
+
+#EXTINF:-1 tvg-name="ANIMAL PLANET" tvg-logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/a4609b184b2e592475a5d72b7cecf53b.jpg" group-title="PREMIUM",Animal Planet
+http://tv.nousiptv.com:8080/joaco/joaco/3247
 
 #EXTINF:-1 tvg-name="SBT" tvgg-logo="https://th.bing.com/th/id/R.aac172d7b694a9b0453031c450f63d64?rik=kJyRThBz7pDnqA&riu=http%3a%2f%2fvignette3.wikia.nocookie.net%2flogopedia%2fimages%2fe%2fee%2fLogo_SBT_2001.png%2frevision%2flatest%3fcb%3d20150629174647&ehk=Nua0%2bIw1ioG%2bRGTNl1irH%2b1bt10F%2bPHOA0AWYEKIhPk%3d&risl=&pid=ImgRaw&r=0" group-title="BRASIL",SBT BRASIL
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist-480p.m3u8
 
-EXTINF:-1 tvg-name="CNN CHILE" tvg-logo="https://vignette.wikia.nocookie.net/althistory/images/f/f9/CNN_Chile.png/revision/latest?cb=20131210072704&path-prefix=es" group-title="NOTICIAS",CNN CHILE
-http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41100.m3u
+#EXTINF:-1 tvg-name="CNN CHILE" tvg-logo="https://vignette.wikia.nocookie.net/althistory/images/f/f9/CNN_Chile.png/revision/latest?cb=20131210072704&path-prefix=es" group-title="NOTICIAS",CNN CHILE
+http://tv.nousiptv.com:8080/joaco/joaco/3749
 
-EXTINF:-1 tvg-name="CNN EN ESPANOL" tvg-logo="https://th.bing.com/th/id/R.c191b56a3ef6aaf3e613069b71ec5875?rik=hKi8nayVWlMQXg&riu=http%3a%2f%2fwww.maduradas.com%2fwp-content%2fuploads%2f2014%2f02%2fCNN-en-Espa%c3%b1ol-EN-VIVO-800x533.jpg&ehk=fVrniMmwo0NW5K733XgL7qINJ%2bPilwK1jOkpx0Vl%2b%2bA%3d&risl=&pid=ImgRaw&r=0" group-title="NOTICIAS",CNN EN ESPANOL
-http://m1.webvps.de:25443/MAG0l2pYzuUFa/DEjEvYU3m5/64375
+#EXTINF:-1 tvg-name="CNN EN ESPANOL" tvg-logo="https://th.bing.com/th/id/R.c191b56a3ef6aaf3e613069b71ec5875?rik=hKi8nayVWlMQXg&riu=http%3a%2f%2fwww.maduradas.com%2fwp-content%2fuploads%2f2014%2f02%2fCNN-en-Espa%c3%b1ol-EN-VIVO-800x533.jpg&ehk=fVrniMmwo0NW5K733XgL7qINJ%2bPilwK1jOkpx0Vl%2b%2bA%3d&risl=&pid=ImgRaw&r=0" group-title="NOTICIAS",CNN EN ESPANOL
+http://tv.nousiptv.com:8080/joaco/joaco/4014
 
 #EXTINF:-1 tvg-name="Discovery H&H" tvg-logo="https://th.bing.com/th/id/R.2d32db4745607f18056cf959e1001113?rik=A%2f2cr3HLxbXJ%2bA&pid=ImgRaw&r=0" group-title="PREMIUM", DISCOVERY H&H HD (MX)
-http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41083.m3u
+http://tv.nousiptv.com:8080/joaco/joaco/3083
 
 EXTINF:-1 tvg-name="FOXSPORTS" tvg-logo="https://th.bing.com/th/id/R.a3bfd48feb334ed2dfd70a7c48bb5e11?rik=TfxOJ27sok%2bbTg&riu=http%3a%2f%2fwww.studionetworksolutions.com%2fwp-content%2fuploads%2f2014%2f03%2fFOX-Sports-21.jpg&ehk=hA2KRBqvwTZGa%2fV3vxXmOy65GdDfCbsqY%2fIv5hcIOZk%3d&risl=&pid=ImgRaw&r=0" group-title="DEPORTE",FOX SPORTS HD (MX)
 http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41064.m3u
@@ -375,8 +384,8 @@ https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8?Pla
 #EXTINF:-1 tvg-name="ESPN HD (MX)" tvg-logo="https://th.bing.com/th/id/OIP.8dVZ43qE919z8R0byDiRjQHaHa?pid=ImgDet&w=480&h=480&rs=1" group-title="DEPORTE",ESPN HD (MX)
 hhttp://189.91.128.146:4444/udp/227.10.20.81:1234 
 
-#EXTINF:-1 tvg-name="TYC SPORTS HD (US)" tvg-logo="" group-title="DEPORTE",TYC SPORTS HD (US)
-http://m1.webvps.de:25443/MAG0l2pYzuUFa/DEjEvYU3m5/64469
+#EXTINF:-1 tvg-name="TYC SPORTS HD (US)" tvg-logo="" group-title="DEPORTE",TYC SPORTS ARG
+http://tv.nousiptv.com:8080/joaco/joaco/2961
 
 #EXTINF:-1 tvg-name="DW EN ESPAÑOL" tvg-logo="https://www.ipuntotv.com/IMAGES/DW-espanol.jpg" group-title="NOTICIAS",DW EN ESPAÑOL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8
@@ -400,7 +409,10 @@ http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41073.m3u
 http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41075.m3u
 
 #EXTINF:-1 tvg-name="Telefe" tvg-logo="https://th.bing.com/th/id/OIP.Y2eQzpxsK7j6yTzyXXGZRAAAAA?pid=ImgDet&rs=1" group-title="ARGENTINA",Telefe
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1660241245/ei/_fD0Yr3FDbPA5gScor7AAQ/ip/2803%3A7d80%3Aa004%3A8774%3A1906%3A3a0e%3Ae25f%3Acbd4/id/2NB0oC8aPoo.44/source/yt_live_broadcast/requiressl/yes/hfr/1/maxh/4320/maudio/1/spc/lT-KhmPBFyqi0yxmqrb-kdvBRU6aZn-63BcVRHuFvEvC/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgWrD7gbHuWlveTZtuT6aUnVM1KekHy0gKJRdjjjeRh8QCIFTcmbXVLW9TUCrLzSqKeWQRvtD7Mb9-xD9zvZJtEZyc/file/index.m3u8
+http://tv.nousiptv.com:8080/joaco/joaco/3439
+
+#EXTINF:-1 tvg-name="El Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_de_eltrece_lanzado_en_2016.png" group-title="ARGENTINA",El Trece
+http://tv.nousiptv.com:8080/joaco/joaco/51070
 
 #EXTINF:-1 tvg-name="LN+" tvg-logo="https://www.dossiernet.com.ar/assets/scripts/load.php?src=https://dmdqet87i5rod.cloudfront.net/estoesmedia/606f073500866_lnmaslogo.jpg&w=1200&h=800&zc=1&q=80" group-title="ARGENTINA",LN+
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCba3hpU7EFBSk817y9qZkiA/live
@@ -496,9 +508,10 @@ http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/c5n/live
 
 #EXTINF:-1 tvg-name="CNN BRASIL" tvg-logo="https://th.bing.com/th/id/R.e443d82b77028805612b7c7694a825f9?rik=aVPDLay%2bFFhS8Q&pid=ImgRaw&r=0" group-title="BRASIL",CNN BRASIL
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCvdwhh_fDyWccR42-rReZLw/live
+http://tv.nousiptv.com:8080/joaco/joaco/18553
 
-#EXTINF:-1 tvg-name="Jovem Pan" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/69673434b607b4db5fb14633654a0ced.webp" group-title="BRASIL",Jovem Pan News
+#EXTINF:-1 tvg-name="Jovem Pan" tvg-logo="https://www.cxtv.co
+m.br/img/Tvs/Logo/webp-l/69673434b607b4db5fb14633654a0ced.webp" group-title="BRASIL",Jovem Pan News
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
 
 #EXTINF:-1 tvg-name="RECORD NEWS" tvg-logo="https://play-lh.googleusercontent.com/sqoR2nrFfPyiPls5quv-2PDi1iMf_B89Vpc7O2ZfQ7jrAApRDX6EJOJVHGggQ8B2Z04=w600-h300-pc0xffffff-pd" group-title="BRASIL",Record News
