@@ -1,5 +1,93 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="TNT" tvg-logo="http://fanboynation.com/wp-content/uploads/2015/04/TNT-Logo.jpg" group-title="PREMIUM",TNT
+http://tv.nousiptv.com:8080/joaco/joaco/4010
+
+#EXTINF:-1 tvg-name="A&E" tvg-logo="http://www.mediafire.com/convkey/7d1d/lpcc5t1n8sp5ynczg.jpg" group-title="PREMIUM",A&E
+http://tv.nousiptv.com:8080/joaco/joaco/3246
+
+#EXTINF:-1 tvg-name="PARAMOUNT CHANNEL" tvg-logo="https://images.mi.tv/channels/cl_paramount-channel-hd_m.png" group-title="PREMIUM",PARAMOUNT CHANNEL
+http://tv.nousiptv.com:8080/joaco/joaco/2952
+
+#EXTINF:-1 tvg-name="TNT SERIES" tvg-logo="http://images.mi.tv/channels/gt_tnt-series_m.png" group-title="PREMIUM",TNT SERIES
+http://tv.nousiptv.com:8080/joaco/joaco/3218
+
+#EXTINF:-1 tvg-name="AXN" tvg-logo="http://www.mediafire.com/convkey/df46/a57g9naunoz9unazg.jpg"group-title="PREMIUM",AXN
+http://tv.nousiptv.com:8080/joaco/joaco/3248
+
+#EXTINF:-1 tvg-name="SPACE" tvg-logo="http://www.mediafire.com/convkey/ca09/78ypzdm581locjfzg.jpg" group-title="PREMIUM",SPACE
+http://tv.nousiptv.com:8080/joaco/joaco/3232
+
+#EXTINF:-1 tvg-name="CINECANAL" tvg-logo="http://www.mediafire.com/convkey/6706/gz77e06fxqv0ifezg.jpg" group-title="PREMIUM",CINECANAL
+http://tv.nousiptv.com:8080/joaco/joaco/3250
+
+#EXTINF:-1 tvg-name="CINEMAX" tvg-logo="http://www.mediafire.com/convkey/c00c/qr3b8ugkko838ggzg.jpg" group-title="PREMIUM",CINEMAX
+http://tv.nousiptv.com:8080/joaco/joaco/3084
+
+#EXTINF:-1 tvg-name="DE PELICULA" tvg-logo="http://www.mediafire.com/convkey/1cb2/e9iq0c5sr2003nezg.jpg" group-title="PREMIUM",DE PELICULA
+http://tv.nousiptv.com:8080/joaco/joaco/2997
+
+#EXTINF:-1 tvg-name="DE PELICULA PLUS" tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2018/05/televisa-afiliados-canales-de-pelicula-plus.jpg" group-title="PREMIUM",DE PELICULA PLUS
+http://tv.nousiptv.com:8080/joaco/joaco/3239
+
+#EXTINF:-1 tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1200px-Universal_Channel_Logo_2013.svg.png" group-title="PREMIUM",UNIVERSAL CHANNEL
+http://tv.nousiptv.com:8080/joaco/joaco/3068
+
+#EXTINF:-1 tvg-name="STUDIO UNIVERSAL" tvg-logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png" group-title="PREMIUM",STUDIO UNIVERSAL
+http://tv.nousiptv.com:8080/joaco/joaco/3229
+
+#EXTINF:-1 tvg-name="I-SAT" tvg-logo="http://www.mediafire.com/convkey/1be8/s5csgid3ad6vg3azg.jpg" group-title="PREMIUM",I-SAT
+http://tv.nousiptv.com:8080/joaco/joaco/3074
+
+#EXTINF:-1 tvg-name="CINE - PANICO TV HD" tvg-logo="http://www.ibw.com.ni/wp-content/uploads/2018/03/panico-300x300.jpg" group-title="• CINE",CINE - PANICO TV HD
+http://tv.nousiptv.com:8080/joaco/joaco/7436
+
+#EXTINF:-1 tvg-name="CINE - DHE" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/00/DHE2017.png" group-title="PREMIUM",DHE
+http://tv.nousiptv.com:8080/joaco/joaco/24180
+
+#EXTINF:-1 tvg-name="CINE - MORBID TV" tvg-logo="https://i.pinimg.com/originals/7d/02/1e/7d021e9fa568cccfc0bcf541df7aec66.jpg" group-title="PREMIUM",MORBID TV
+http://tv.nousiptv.com:8080/joaco/joaco/33364
+
+#EXTINF:-1 tvg-name="CINE - SUNDANCE TV" tvg-logo="https://www.andorratelecom.com/at/llistat-canals/canals/15-sundance.png" group-title="PREMIUM",SUNDANCE TV
+http://tv.nousiptv.com:8080/joaco/joaco/4101
+
+#EXTINF:-1 tvg-name="CINE - SYFY" tvg-logo="http://www.pophorror.com/wp-content/uploads/2016/09/syfy_logo_small.jpg" group-title="PREMIUM",SYFY
+http://tv.nousiptv.com:8080/joaco/joaco/3958
+
+#EXTINF:-1 tvg-name="CINE - TBS" tvg-logo="https://logonoid.com/images/tbs-logo.png" group-title="PREMIUM",TBS
+http://tv.nousiptv.com:8080/joaco/joaco/4011
+
+#EXTINF:-1 tvg-name="CINE - TCM" tvg-logo="http://www.mediafire.com/convkey/0211/lyj9dwgwygu3l6qzg.jpg" group-title="PREMIUM",TCM
+http://tv.nousiptv.com:8080/joaco/joaco/3065
+
+
+#EXTINF:-1 tvg-id="SonyEntertainmentTV.mx" tvg-name="CINE - SONY" tvg-logo="http://www.mediafire.com/convkey/aff2/cbeb722so92ybayzg.jpg" group-title="PREMIUM",SONY
+http://tv.nousiptv.com:8080/joaco/joaco/3069
+
+#EXTINF:-1 tvg-id="FX.mx" tvg-name="CINE - FX" tvg-logo="http://www.mediafire.com/convkey/f17c/gavni9iyf1mclumzg.jpg" group-title="PREMIUM",FX
+http://tv.nousiptv.com:8080/joaco/joaco/3201
+
+#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="CINE - WARNER" tvg-logo="http://www.mediafire.com/convkey/1eb6/gbkuhu73ss24b6kzg.jpg" group-title="PREMIUM",WARNER
+http://tv.nousiptv.com:8080/joaco/joaco/3228
+
+#EXTINF:-1 tvg-id="Golden.mx" tvg-name="CINE - GOLDEN" tvg-logo="http://www.mediafire.com/convkey/75d1/s98p9219fz77880zg.jpg" group-title="PREMIUM",GOLDEN
+http://tv.nousiptv.com:8080/joaco/joaco/3236
+
+#EXTINF:-1 tvg-name="HBO" tvg-logo="http://www.mediafire.com/convkey/6b95/ad52fhlxjxot0rbzg.jpg" group-title="PREMIUM",HBO
+http://tv.nousiptv.com:8080/joaco/joaco/3199
+
+#EXTINF:-1 tvg-name="HBO 2" tvg-logo="http://www.mediafire.com/convkey/84f4/6vyp06rkhqfier5zg.jpg" group-title="PREMIUM",HBO 2
+http://tv.nousiptv.com:8080/joaco/joaco/3198
+
+#EXTINF:-1 tvg-name="HBO PLUS" tvg-logo="http://images.mi.tv/channels/ar_hbo-plus-este_m.png" group-title="PREMIUM",HBO PLUS
+http://tv.nousiptv.com:8080/joaco/joaco/4003
+
+#EXTINF:-1 tvg-name="HBO FAMILY" tvg-logo="http://images.mi.tv/channels/mx_hbo-family_m.png" group-title="PREMIUM",HBO FAMILY 
+http://tv.nousiptv.com:8080/joaco/joaco/4017
+
+#EXTINF:-1 tvg-name="HBO SIGNATURE" tvg-logo="http://www.mediafire.com/convkey/2025/bomlvbb964p1p74zg.jpg" group-title="PREMIUM",HBO SIGNATURE
+http://tv.nousiptv.com:8080/joaco/joaco/3197
+
 #EXTINF:-1 tvg-name="CGTN Esp" tvg-logo="https://th.bing.com/th/id/R.b6d6eacb1dc055694b40c5da8f748417?rik=sv%2f8wAF2%2fdkoAA&riu=http%3a%2f%2fvignette4.wikia.nocookie.net%2flogopedia%2fimages%2f6%2f68%2fCgtn_cn_espanol.png%2frevision%2flatest%3fcb%3d20170127161944&ehk=B3JeWxOfITZAIh3tenHhr5eD4EuCJfQznv%2bL%2bflGrME%3d&risl=&pid=ImgRaw&r=0" group-title="NOTICIAS",CGTN Esp
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 
