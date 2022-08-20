@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="C9N" tvg-logo="https://th.bing.com/th/id/R.b24a26ae2507f109345069eb5a282ec1?rik=KyPTu8uGZts0Ag&pid=ImgRaw&r=0&sres=1&sresct=1" group-title="PARAGUAY",C9N
+https://d4xunn272arip.cloudfront.net/hls/c9n_360.m3u8
+
+#EXTINF:-1 tvg-name="Unicanal" tvg-logo="https://lh3.googleusercontent.com/-RjyvLZJ0ed4/YH44rJhzBEI/AAAAAAABBxA/BYT7vltKAgsulzaQkdoAg8KadCOWEXHZwCK8BGAsYHg/s512/2021-04-19.jpg" group-title="PARAGUAY",Unicanal
+http://45.55.127.106/live/unicanal_mid.m3u8
+
+#EXTINF:-1 tvg-name="ABCTV" tvg-logo="https://paraguaype.com/wp-content/uploads/2017/04/AbcTvenvivoonline.AbcTvdesdeParaguay.jpg" group-title="PARAGUAY",ABC TV
+https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
+
+#EXTINF:-1 tvg-name="RPC" tvg-logo="https://th.bing.com/th/id/R.fe0a5edc916e48d30df3d15a1d62ad73?rik=5At91Wo0K4RcZw&pid=ImgRaw&r=0" group-title="PARAGUAY",RPC 13
+https://stream.rpc.com.py/live/trece.m3u8
+
 #EXTINF:-1 tvg-name="TNT" tvg-logo="http://fanboynation.com/wp-content/uploads/2015/04/TNT-Logo.jpg" group-title="PREMIUM",TNT
 http://tv.nousiptv.com:8080/joaco/joaco/4010
 
@@ -400,12 +412,6 @@ https://59ce1298bfb98.streamlock.net/tvsenadopy/tvsenadopy/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Jt9iLTl60OI/YFerCGX_48I/AAAAAAAAAE0/iMHDPAdTFF4uL1-uDqEq8kidNq40CCvwwCPcBGAYYCw/w1200-h630-p-k-no-nu/Emprende%2BTV%2Blogo.png" group-title="PARAGUAY",EMPRENDE TV
 https://59ce1298bfb98.streamlock.net/emprendetv/emprendetv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="C9N" tvg-logo="https://th.bing.com/th/id/R.b24a26ae2507f109345069eb5a282ec1?rik=KyPTu8uGZts0Ag&pid=ImgRaw&r=0&sres=1&sresct=1" group-title="PARAGUAY",C9N
-https://d4xunn272arip.cloudfront.net/hls/c9n_360.m3u8
-
-#EXTINF:-1 tvg-name="ABCTV" tvg-logo="https://paraguaype.com/wp-content/uploads/2017/04/AbcTvenvivoonline.AbcTvdesdeParaguay.jpg" group-title="PARAGUAY",ABC TV
-https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
-
 #EXTINF:-1 tvg-name="RecordNews" tvgg-logo="https://th.bing.com/th/id/R.e2451069c948168bb7d2f679802dc6ce?rik=sL6RHLKbItNVDQ&riu=http%3a%2f%2fvignette4.wikia.nocookie.net%2flogopedia%2fimages%2f9%2f99%2fRecord-news.jpg%2frevision%2flatest%3fcb%3d20120916104700&ehk=FC%2brDs1Ls5R7DsFQZvJJeXBgTUIPSg%2bdtSPs3FmjMfI%3d&risl=&pid=ImgRaw&r=0" group-title="BRASIL",RECORD NEWS
 https://rede-muhler-recordnews-1-br.samsung.wurl.com/manifest/playlist.m3u8
 
@@ -453,9 +459,6 @@ http://tv.nousiptv.com:8080/joaco/joaco/1090741
 
 #EXTINF:-1 tvg-name="FOXSPORTS3" tvg-logo="https://th.bing.com/th/id/R.bebda2531f4c8a85d6d8533ac4357c79?rik=2VWqo4%2fvMU7Skw&riu=http%3a%2f%2fvignette1.wikia.nocookie.net%2flogosfake%2fimages%2f4%2f4b%2fFox_Sports_3.png%2frevision%2flatest%3fcb%3d20141006141554&ehk=iVqAiLOT5SigiIuM%2fyym9qlBlFLJ107nkET5f5ZhRAQ%3d&risl=&pid=ImgRaw&r=0" group-title="DEPORTE",FOX SPORTS 3 HD (MX)
 http://tv.nousiptv.com:8080/joaco/joaco/4008
-
-#EXTINF:-1 tvg-name="Unicanal" tvg-logo="https://lh3.googleusercontent.com/-RjyvLZJ0ed4/YH44rJhzBEI/AAAAAAABBxA/BYT7vltKAgsulzaQkdoAg8KadCOWEXHZwCK8BGAsYHg/s512/2021-04-19.jpg" group-title="PARAGUAY",Unicanal
-http://45.55.127.106/live/unicanal_mid.m3u8
 
 #EXTINF:-1 tvg-name="Farra Play" tvg-logo="https://lh3.googleusercontent.com/-Vmu2Cvi2Rj8/YH42aPZcKeI/AAAAAAABBw0/U3tG7jCKTvQKmyjFA8hrLnL8sp5SdghKgCK8BGAsYHg/s512/2021-04-19.jpg" group-title="PARAGUAY",Farra Play
 http://159.203.148.226/live/farra.m3u8?PlaylistM3UCL
@@ -585,9 +588,6 @@ http://m1.webvps.de:25443/MAG0l2pYzuUFa/DEjEvYU3m5/66049
 
 #EXTINF:-1 tvg-name="DAZN SPORTS 4 HD" group-title="DEPORTE",DAZN SPORTS 4 HD
 http://megatv.me:5890/khaled/12345/89973
-
-#EXTINF:-1 tvg-name="RPC" tvg-logo="https://th.bing.com/th/id/R.fe0a5edc916e48d30df3d15a1d62ad73?rik=5At91Wo0K4RcZw&pid=ImgRaw&r=0" group-title="PARAGUAY",RPC 13
-https://stream.rpc.com.py/live/trece.m3u8
 
 #EXTINF:-1 tvg-name="ARGENTINISIMA" tvg-logo="https://th.bing.com/th/id/R.a7c21d459d03323d5403fdf3b788232d?rik=%2fVcA32ZwskS3Vw&riu=http%3a%2f%2fing-sat.what.hu%2fimages%2flogo-insert%2fsatlogos%2fargentina%2f140-Argentinisima-Satelital.jpg&ehk=yPk%2b6JDER4umFCkczYG8Q5bC06IxXlpfY4JHgsFLo1o%3d&risl=&pid=ImgRaw&r=0" group-title="ARGENTINA",Argentinisima Sat
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
