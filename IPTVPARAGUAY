@@ -69,7 +69,7 @@ http://tv.nousiptv.com:8080/joaco/joaco/3229
 #EXTINF:-1 tvg-name="I-SAT" tvg-logo="http://www.mediafire.com/convkey/1be8/s5csgid3ad6vg3azg.jpg" group-title="PREMIUM",I-SAT
 http://tv.nousiptv.com:8080/joaco/joaco/3074
 
-#EXTINF:-1 tvg-name="CINE - PANICO TV HD" tvg-logo="http://www.ibw.com.ni/wp-content/uploads/2018/03/panico-300x300.jpg" group-title="• CINE",CINE - PANICO TV HD
+#EXTINF:-1 tvg-name="CINE - PANICO TV HD" tvg-logo="http://www.ibw.com.ni/wp-content/uploads/2018/03/panico-300x300.jpg" group-title="PREMIUM",PANICO TV HD
 http://tv.nousiptv.com:8080/joaco/joaco/7436
 
 #EXTINF:-1 tvg-name="CINE - DHE" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/00/DHE2017.png" group-title="PREMIUM",DHE
@@ -628,10 +628,10 @@ https://unlimited6-cl.dps.live/adntv/adntv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Televisa Puebla" tvg-logo="https://th.bing.com/th/id/OIP.Zch-G52rqDqX_brefubfzAHaHa?pid=ImgDet&rs=1" group-title="PREMIUM",Televisa
 http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
 
-#EXTINF:-1 group-title="PREMIUM",HBO LATINO
+EXTINF:-1 group-title="PREMIUM",HBO LATINO
 http://m1.webvps.de:25443/MAG0l2pYzuUFa/DEjEvYU3m5/64417
 
-#EXTINF:-1 tvg-name="Paraguay TV" tvg-logo="https://th.bing.com/th/id/OIP.mb8TiDQrwCQkfiaEyTKpFwHaHa?pid=ImgDet&rs=1" group-title="PARAGUAY",PARAGUAY TV
+EXTINF:-1 tvg-name="Paraguay TV" tvg-logo="https://th.bing.com/th/id/OIP.mb8TiDQrwCQkfiaEyTKpFwHaHa?pid=ImgDet&rs=1" group-title="PARAGUAY",PARAGUAY TV
 https://live-ak.vimeocdn.com/exp=1659709782~acl=%2F79bcea1f-712b-4424-98be-b6b218a5f9a3%2F%2A~hmac=bdfff975e671fb66aea3e5c765615a77aaefeb1adc68b0b16171df6df74152af/79bcea1f-712b-4424-98be-b6b218a5f9a3/chunklist_b416000.m3u8?max_segments=10
 
 #EXTINF:-1 tvg-name="Russia Today" tvg-logo="https://th.bing.com/th/id/R.46a86a56befb1ce6d43c3c4bda88f5f8?rik=SodzfQe92TpvbQ&pid=ImgRaw&r=0" group-title="NOTICIAS",Russia Today Español
