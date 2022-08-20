@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="Ciudad Magazine" tvg-logo="https://th.bing.com/th/id/R.56fa2f4fd6a20d0d9cb7cfe1c87df8d2?rik=cIOyIDUFFD9C4g&pid=ImgRaw&r=0" group-title="ARGENTINA",C9N
+#EXTINF:-1 tvg-name="Ciudad Magazine" tvg-logo="https://th.bing.com/th/id/R.56fa2f4fd6a20d0d9cb7cfe1c87df8d2?rik=cIOyIDUFFD9C4g&pid=ImgRaw&r=0" group-title="ARGENTINA",Ciudad Magazine
 https://g5.mc-hor.transport.edge-access.net/a10/ngrp:magazine_live01-100083_all/magazine_live01-100083_240p.m3u8
 
 #EXTINF:-1 tvg-name="TN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1200px-TN_todo_noticias_logo.svg.png" group-title="ARGENTINA",TN
