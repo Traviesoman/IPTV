@@ -445,7 +445,7 @@ http://tv.nousiptv.com:8080/joaco/joaco/3251
 http://live.iristv.xyz:8080/marcial/123456/5860
 
 #EXTINF:-1 tvg-name="History Channel" tvg-logo="https://th.bing.com/th/id/R.14a1fd434053c9aa41642e02b71bab46?rik=YHnMDAQUlgCpnQ&pid=ImgRaw&r=0" group-title="PREMIUM",History Channel
-http://tv.nousiptv.com:8080/joaco/joaco/3234
+http://tv.masterplaytv.club:28000/live/guillermodissimoz30/guillermodissimoz30/1075.m3u8
 
 #EXTINF:-1 tvg-name="ANIMAL PLANET" tvg-logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/a4609b184b2e592475a5d72b7cecf53b.jpg" group-title="PREMIUM",Animal Planet
 http://tv.nousiptv.com:8080/joaco/joaco/3247
