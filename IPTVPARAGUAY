@@ -24,6 +24,9 @@ http://tv.masterplaytv.club:28000/live/guillermodissimoz30/guillermodissimoz30/6
 #EXTINF:-1 tvg-name="Telefuturo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Telefuturo2017.png" group-title="PARAGUAY",Telefuturo
 http://tv.masterplaytv.club:28000/live/guillermodissimoz30/guillermodissimoz30/1235.m3u8
 
+#EXTINF:-1 tvg-name="Latele" tvg-logo="https://th.bing.com/th/id/OIP.bWfW4HsdYPJzemGZjDmtLwHaDX?pid=ImgDet&rs=1" group-title="PARAGUAY",Latele
+http://tv.masterplaytv.club:28000/live/guillermodissimoz30/guillermodissimoz30/1252.m3u8
+
 #EXTINF:-1 tvg-name="Unicanal" tvg-logo="https://lh3.googleusercontent.com/-RjyvLZJ0ed4/YH44rJhzBEI/AAAAAAABBxA/BYT7vltKAgsulzaQkdoAg8KadCOWEXHZwCK8BGAsYHg/s512/2021-04-19.jpg" group-title="PARAGUAY",Unicanal
 http://45.55.127.106/live/unicanal_mid.m3u8
 
