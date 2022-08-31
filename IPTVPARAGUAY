@@ -15,6 +15,9 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/TV
 #EXTINF:-1 tvg-name="CANAL26" tvg-logo="https://th.bing.com/th/id/R.02bb5a2325c1e88d621f2ceb6dfa4124?rik=UIpRewPcwqSZIA&riu=http%3a%2f%2f2.bp.blogspot.com%2f-WSfdALECnGU%2fVcYmaM7yHTI%2fAAAAAAAAPg4%2fsCwv6OV78zY%2fs1600%2f1i3qjKB.png&ehk=gIPpqhYknPxE370rxd48V2X4%2fL%2b%2fJ8sZJBmCsWALqes%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1" group-title="ARGENTINA",Canal 26
 http://200.115.193.177/live/26hd-720/playlist.m3u8
 
+#EXTINF:-1 tvg-name="CANAL26" tvg-logo="https://th.bing.com/th/id/R.02bb5a2325c1e88d621f2ceb6dfa4124?rik=UIpRewPcwqSZIA&riu=http%3a%2f%2f2.bp.blogspot.com%2f-WSfdALECnGU%2fVcYmaM7yHTI%2fAAAAAAAAPg4%2fsCwv6OV78zY%2fs1600%2f1i3qjKB.png&ehk=gIPpqhYknPxE370rxd48V2X4%2fL%2b%2fJ8sZJBmCsWALqes%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1" group-title="NOTICIAS",Canal 26
+http://200.115.193.177/live/26hd-720/playlist.m3u8
+
 #EXTINF:-1 tvg-name="LN+" tvg-logo="https://www.dossiernet.com.ar/assets/scripts/load.php?src=https://dmdqet87i5rod.cloudfront.net/estoesmedia/606f073500866_lnmaslogo.jpg&w=1200&h=800&zc=1&q=80" group-title="ARGENTINA",LN+
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1661026268/ei/e-sAY_LnNYHywQSRlaroCw/ip/2803%3A7d80%3Aa004%3A8774%3A484%3A3d7%3A667a%3Ae968/id/HYxWurJ3ejE.1/source/yt_live_broadcast/requiressl/yes/tx/24197275/txs/24197275%2C24197276%2C24197277/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhALvJX96N1EtugsF55KSeGlxYaw4G00RFlntATt4pEy8sAiEAg-WU63-UdLUxJ7R01zr2E-hmBXvLDSzr1nm8slYavJs%3D/file/index.m3u8
 
@@ -133,10 +136,10 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1660241476/ei/5
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCEJs1fTF3KszRJGxJY14VrA/live
 
 #EXTINF:-1 tvg-name="Euronews Esp" tvg-logo="https://th.bing.com/th/id/OIP.HB2OjCbL_4yxjd2OgodZDwHaHa?pid=ImgDet&rs=1" group-title="NOTICIAS",Euronews Esp
-https://euronews.alteox.app/hls/es_stream.m3u8
+https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-name="France 24 Esp" tvg-logo="https://th.bing.com/th/id/R.7446e1b04b46796e3ac79a6940af4ce0?rik=1yAnqYLy33eDFw&riu=http%3a%2f%2fmarcelafittipaldi.com.ar%2fwp-content%2fuploads%2f2017%2f09%2fLogo_France24_Esp.jpg&ehk=JnknMmyJnTKJUeRYdKL1UcOZ0F1qx9tWbQiHho0Mk%2fk%3d&risl=&pid=ImgRaw&r=0" group-title="NOTICIAS",France 24 Esp
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1660274372/ei/ZHL1YrrgLJKX4dUPod2f8Ag/ip/2803%3A7d80%3Aa004%3A8774%3Ae9d8%3A6597%3A7ff7%3A17b9/id/XDJPzMznAjU.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/spc/lT-KhmVHM7b4QreSpWXU3JGUIhO529PcnoI0BIdZ1P1m/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgcjFzYqVI4yZGHi4EvoYD8NegYLU2NHgFgYGadW686sgCIQDYnizHnaIvP14XZF8LKMPLwDNrWi9FdSR3sNY3h06UfQ%3D%3D/file/index.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24Espanol/live
 
 #EXTINF:-1 tvg-name="Camara de Diputados" tvg-logo="https://i2.paste.pics/8ac54ede0184c4fd9e872231a6d673b3.png" group-title="CHILE",Camara de Diputados
 https://tls-cl.cdnz.cl/camara/live/playlist.m3u8
