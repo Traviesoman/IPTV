@@ -581,7 +581,7 @@ https://cdn.jmvstream.com/w/IPC-7041/camera.stream/chunklist.m3u8
 #EXTINF:-1 tvg-name="TVBS" tvg-logo="https://th.bing.com/th/id/R.01f31aebe46babd090da196a08017a26?rik=z5ZfBh9w9lEevg&riu=http%3a%2f%2fcn.itver.cc%2fwp-content%2fuploads%2f2015%2f03%2fTVBS-NEWS-670x300.jpg&ehk=oWeoPpQMwo1%2fHb0MUpLQFH38tOqThe2mw%2fRU1TAOba4%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1" group-title="TAIWAN",TVBS
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/TVBSNEWS01/live
 
-#EXTINF:-1 tvg-name="SETN" tvg-logo="https://www.vsn-tv.com/wp-content/uploads/2020/01/SET-Taiwan-thumbnail-logo.jpg" group-title="TAIWAN",SET iNEWS
+#EXTINF:-1 tvg-name="SET iNEWS" tvg-logo="https://yt3.ggpht.com/c53r3k7Lm-kGMCP4ITK8dBUpw0HLPpO_u7lqlUmt8Tgn1ionH3kiMetkIw7FRCptW55fGEmSnA=s176-c-k-c0x00ffffff-no-rj" group-title="TAIWAN",SET iNEWS
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/setmoney159/live
 
 #EXTINF:-1 tvg-name="SETN" tvg-logo="https://yt3.ggpht.com/IN0L7fJI4olbqeuuUGTgIO1cJtb4XbPv6JFSPuUO78XUoKwdfryrLmgaTcafC7FZfjqSuYpasbQ=s176-c-k-c0x00ffffff-no-rj" group-title="TAIWAN",SET+
