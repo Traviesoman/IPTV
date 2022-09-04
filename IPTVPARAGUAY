@@ -4,7 +4,7 @@
 https://g5.mc-hor.transport.edge-access.net/a10/ngrp:magazine_live01-100083_all/magazine_live01-100083_240p.m3u8
 
 #EXTINF:-1 tvg-name="TN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1200px-TN_todo_noticias_logo.svg.png" group-title="ARGENTINA",TN
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1661026027/ei/i-oAY4GPJ4fexwSR0bCwDQ/ip/2803%3A7d80%3Aa004%3A8774%3A484%3A3d7%3A667a%3Ae968/id/wHn1_QVoXGM.12/source/yt_live_broadcast/requiressl/yes/tx/24197275/txs/24197275%2C24197276%2C24197277/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAOwgOjjiNGwoosCgjF7VqFTSgGxVmsp49YHybEeup1CkAiBHDVM8452Hi5ibRJosaXwcD0aNVdMY7xFd4KJ4CQ5XPg%3D%3D/file/index.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/todonoticias/live
 
 #EXTINF:-1 tvg-name="AMERICA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="ARGENTINA",America TV
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
@@ -19,12 +19,14 @@ http://200.115.193.177/live/26hd-720/playlist.m3u8
 http://200.115.193.177/live/26hd-720/playlist.m3u8
 
 #EXTINF:-1 tvg-name="LN+" tvg-logo="https://www.dossiernet.com.ar/assets/scripts/load.php?src=https://dmdqet87i5rod.cloudfront.net/estoesmedia/606f073500866_lnmaslogo.jpg&w=1200&h=800&zc=1&q=80" group-title="ARGENTINA",LN+
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1661026268/ei/e-sAY_LnNYHywQSRlaroCw/ip/2803%3A7d80%3Aa004%3A8774%3A484%3A3d7%3A667a%3Ae968/id/HYxWurJ3ejE.1/source/yt_live_broadcast/requiressl/yes/tx/24197275/txs/24197275%2C24197276%2C24197277/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhALvJX96N1EtugsF55KSeGlxYaw4G00RFlntATt4pEy8sAiEAg-WU63-UdLUxJ7R01zr2E-hmBXvLDSzr1nm8slYavJs%3D/file/index.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/LaNacionMas/live
 
 #EXTINF:-1 tvg-name="C9N" tvg-logo="https://th.bing.com/th/id/R.b24a26ae2507f109345069eb5a282ec1?rik=KyPTu8uGZts0Ag&pid=ImgRaw&r=0&sres=1&sresct=1" group-title="PARAGUAY",C9N
-
 https://d4xunn272arip.cloudfront.net/hls/c9n_360.m3u8
 //tv.masterplaytv.club:28000/live/guillermodissimoz30/guillermodissimoz30/60120.m3u8
+
+#EXTINF:-1 tvg-name="A24" tvg-logo="https://th.bing.com/th/id/R.75178f2a4833cafb1965d59b197e5ef6?rik=OWyDK7u%2bNqVoNw&riu=http%3a%2f%2ftvabierta.weebly.com%2fuploads%2f5%2f1%2f3%2f4%2f51344345%2fa24.png&ehk=pnR4rJ0Fbda0LViOf2QITpQ%2fcwNGLC1Kw0Rug5w93mw%3d&risl=&pid=ImgRaw&r=0" group-title="ARGENTINA",A24
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
 
 #EXTINF:-1 tvg-name="Telefuturo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Telefuturo2017.png" group-title="PARAGUAY",Telefuturo
 http://tv.masterplaytv.club:28000/live/guillermodissimoz30/guillermodissimoz30/1235.m3u8
@@ -408,10 +410,7 @@ https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 
 #EXTINF:-1 tvg-name="ELDOCE TV" tvg-logo="https://th.bing.com/th/id/R.eb7de9489e421a880878353dc43c5595e?rik=fj%2bvE%2fpw0Egr5Q&riu=http%3a%2f%2fwww.cxtv.com.br%2fimg%2fTvs%2fLogo%2fae6291519390492a54234b40072d8207.png&ehk=AGYWAL3L64b7o%2bTyXg6%2fcLeu%2bC0%2bk6WPNHNh98AXGkc%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1" group-title="ARGENTINA",ELDOCE TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1659377218/ei/4sHnYv2hK_Ke1sQPw8Ok8AE/ip/2803%3A7d80%3Aa004%3A8774%3Ad47c%3A1a06%3Acdb%3A8418/id/o5BQxAeICeA.1~24228424/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/lT-KhlyfLG1VL1JFfv8His3_60viXX0EJUWVH4isppIw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAI_dCJMU0eojH5y6ncVI5MrevpQymuEK2Ob_T4wRPeUOAiBGWugnXZA1mCKWXF1VagyFzUc9H-IW6E_Vwr8Z1JbIsQ%3D%3D/file/index.m3u8
-
-#EXTINF:-1 tvg-name="A24" tvg-logo="https://th.bing.com/th/id/R.75178f2a4833cafb1965d59b197e5ef6?rik=OWyDK7u%2bNqVoNw&riu=http%3a%2f%2ftvabierta.weebly.com%2fuploads%2f5%2f1%2f3%2f4%2f51344345%2fa24.png&ehk=pnR4rJ0Fbda0LViOf2QITpQ%2fcwNGLC1Kw0Rug5w93mw%3d&risl=&pid=ImgRaw&r=0" group-title="ARGENTINA",A24
-https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/eldoce/live
 
 #EXTINF:-1 tvg-name="SNT" tvg-logo="https://th.bing.com/th/id/R.c9db81d27f6ee5cd3b06772587c92899?rik=kyyigrDllxUBSg&riu=http%3a%2f%2fwww.concepcionaldia.com%2fwp-content%2fuploads%2f2014%2f09%2fsnt_py-1024x477.png&ehk=xXBFNs3MkJ0hSu3GtJiP%2f9kIJR8Cd2gpHc9X16A7118%3d&risl=&pid=ImgRaw&r=0" group-title="PARAGUAY",SNT
 https://d4xunn272arip.cloudfront.net/hls/snt_360.m3u8
