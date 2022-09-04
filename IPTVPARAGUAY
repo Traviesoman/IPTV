@@ -557,6 +557,15 @@ http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41164.m3u
 #EXTINF:-1 tvg-name="Gloob HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Globo_logotipo_2008.png/revision/latest?cb=20160114163932&path-prefix=es" group-title="BRASIL",GloBO HD
 http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41161.m3u
 
+#EXTINF:-1 tvg-name="TTV" tvg-logo="https://th.bing.com/th/id/OIP.6uPhgGd6KzMtwDsjOoaL3wAAAA?pid=ImgDet&w=300&h=300&rs=1" group-title="TAIWAN",TTV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/ttvnewsview/live
+
+#EXTINF:-1 tvg-name="CTV" tvg-logo="https://th.bing.com/th/id/OIP.pLsD7cXVLZzQ_CQW6On5PQAAAA?pid=ImgDet&rs=1" group-title="TAIWAN",CTV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/twctvnews/live
+
+#EXTINF:-1 tvg-name="EBC CH51" tvg-logo="https://yt.ebc.net.tw/images/asiayoutubeimg_1.jpg" group-title="TAIWAN",ECB CH51
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/newsebc/live
+
 #EXTINF:-1 tvg-name="CTI TV" tvg-logo="https://th.bing.com/th/id/OIP.HkiOsNzmpQd0-pDOM3akKwHaDq?pid=ImgDet&rs=1" group-title="TAIWAN",CTI TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/ctitv/live
 
@@ -572,7 +581,10 @@ https://cdn.jmvstream.com/w/IPC-7041/camera.stream/chunklist.m3u8
 #EXTINF:-1 tvg-name="TVBS" tvg-logo="https://th.bing.com/th/id/R.01f31aebe46babd090da196a08017a26?rik=z5ZfBh9w9lEevg&riu=http%3a%2f%2fcn.itver.cc%2fwp-content%2fuploads%2f2015%2f03%2fTVBS-NEWS-670x300.jpg&ehk=oWeoPpQMwo1%2fHb0MUpLQFH38tOqThe2mw%2fRU1TAOba4%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1" group-title="TAIWAN",TVBS
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/TVBSNEWS01/live
 
-#EXTINF:-1 tvg-name="SETN" tvg-logo="https://www.vsn-tv.com/wp-content/uploads/2020/01/SET-Taiwan-thumbnail-logo.jpg" group-title="TAIWAN",SETN
+#EXTINF:-1 tvg-name="SETN" tvg-logo="https://www.vsn-tv.com/wp-content/uploads/2020/01/SET-Taiwan-thumbnail-logo.jpg" group-title="TAIWAN",SET iNEWS
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/setmoney159/live
+
+#EXTINF:-1 tvg-name="SETN" tvg-logo="https://yt3.ggpht.com/IN0L7fJI4olbqeuuUGTgIO1cJtb4XbPv6JFSPuUO78XUoKwdfryrLmgaTcafC7FZfjqSuYpasbQ=s176-c-k-c0x00ffffff-no-rj" group-title="TAIWAN",SET+
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/%E4%B8%89%E7%AB%8BLIVE%E6%96%B0%E8%81%9E/live
 
 #EXTINF:-1 tvg-name="TAIPEI LIVE CAM" tvg-logo="https://th.bing.com/th/id/R.7c856cd4e3f834d8bd899063579e6cf7?rik=YRS51tkTcfe6Cg&riu=http%3a%2f%2ffile.wikipediam.org%2fwikipedia%2fcommons%2fthumb%2f3%2f3d%2fTaipei_Landscape_(cropped).jpg%2f1200px-Taipei_Landscape_(cropped).jpg&ehk=JBNUcO38v7Hym2aDxX9T39q9rNLNGX6un5xx%2b%2bSnnc8%3d&risl=&pid=ImgRaw&r=0" group-title="TAIWAN",TAIPEI LIVE CAM
