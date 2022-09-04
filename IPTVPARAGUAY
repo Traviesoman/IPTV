@@ -79,6 +79,10 @@ http://tv.nousiptv.com:8080/joaco/joaco/3068
 #EXTINF:-1 tvg-name="STUDIO UNIVERSAL" tvg-logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png" group-title="PREMIUM",STUDIO UNIVERSAL
 http://tv.nousiptv.com:8080/joaco/joaco/3229
 
+
+#EXTINF:-1 tvg-name="SNT" tvg-logo="https://th.bing.com/th/id/R.c9db81d27f6ee5cd3b06772587c92899?rik=kyyigrDllxUBSg&riu=http%3a%2f%2fwww.concepcionaldia.com%2fwp-content%2fuploads%2f2014%2f09%2fsnt_py-1024x477.png&ehk=xXBFNs3MkJ0hSu3GtJiP%2f9kIJR8Cd2gpHc9X16A7118%3d&risl=&pid=ImgRaw&r=0" group-title="PARAGUAY",SNT
+https://d4xunn272arip.cloudfront.net/hls/snt_360.m3u8
+
 #EXTINF:-1 tvg-name="I-SAT" tvg-logo="http://www.mediafire.com/convkey/1be8/s5csgid3ad6vg3azg.jpg" group-title="PREMIUM",I-SAT
 http://tv.nousiptv.com:8080/joaco/joaco/3074
 
@@ -411,9 +415,6 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 
 #EXTINF:-1 tvg-name="ELDOCE TV" tvg-logo="https://th.bing.com/th/id/R.eb7de9489e421a880878353dc43c5595e?rik=fj%2bvE%2fpw0Egr5Q&riu=http%3a%2f%2fwww.cxtv.com.br%2fimg%2fTvs%2fLogo%2fae6291519390492a54234b40072d8207.png&ehk=AGYWAL3L64b7o%2bTyXg6%2fcLeu%2bC0%2bk6WPNHNh98AXGkc%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1" group-title="ARGENTINA",ELDOCE TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/eldoce/live
-
-#EXTINF:-1 tvg-name="SNT" tvg-logo="https://th.bing.com/th/id/R.c9db81d27f6ee5cd3b06772587c92899?rik=kyyigrDllxUBSg&riu=http%3a%2f%2fwww.concepcionaldia.com%2fwp-content%2fuploads%2f2014%2f09%2fsnt_py-1024x477.png&ehk=xXBFNs3MkJ0hSu3GtJiP%2f9kIJR8Cd2gpHc9X16A7118%3d&risl=&pid=ImgRaw&r=0" group-title="PARAGUAY",SNT
-https://d4xunn272arip.cloudfront.net/hls/snt_360.m3u8
 
 #EXTINF:-1 tvg-name="Regional TV" tvg-logo="https://th.bing.com/th/id/OIP.G2U7I7EgBgm9ev8RE5I_wAHaFM?pid=ImgDet&rs=1" group-title="PARAGUAY",Regional TV
 https://59ce1298bfb98.streamlock.net/mediosenpy/mediosenpy/playlist.m3u8
