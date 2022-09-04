@@ -22,7 +22,9 @@ http://200.115.193.177/live/26hd-720/playlist.m3u8
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1661026268/ei/e-sAY_LnNYHywQSRlaroCw/ip/2803%3A7d80%3Aa004%3A8774%3A484%3A3d7%3A667a%3Ae968/id/HYxWurJ3ejE.1/source/yt_live_broadcast/requiressl/yes/tx/24197275/txs/24197275%2C24197276%2C24197277/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhALvJX96N1EtugsF55KSeGlxYaw4G00RFlntATt4pEy8sAiEAg-WU63-UdLUxJ7R01zr2E-hmBXvLDSzr1nm8slYavJs%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-name="C9N" tvg-logo="https://th.bing.com/th/id/R.b24a26ae2507f109345069eb5a282ec1?rik=KyPTu8uGZts0Ag&pid=ImgRaw&r=0&sres=1&sresct=1" group-title="PARAGUAY",C9N
-http://tv.masterplaytv.club:28000/live/guillermodissimoz30/guillermodissimoz30/60120.m3u8
+
+https://d4xunn272arip.cloudfront.net/hls/c9n_360.m3u8
+//tv.masterplaytv.club:28000/live/guillermodissimoz30/guillermodissimoz30/60120.m3u8
 
 #EXTINF:-1 tvg-name="Telefuturo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Telefuturo2017.png" group-title="PARAGUAY",Telefuturo
 http://tv.masterplaytv.club:28000/live/guillermodissimoz30/guillermodissimoz30/1235.m3u8
