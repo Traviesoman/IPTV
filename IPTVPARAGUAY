@@ -353,6 +353,9 @@ https://59ce1298bfb98.streamlock.net/obediratv/obediratv/playlist.m3u8
 #EXTINF:-1 tvg-name="Oviedo TV" tvg-logo="https://www.oviedotv.com.py/gallery_gen/2dd785f08812f72f6d51b2c21a0eb0f8.png" group-title="PARAGUAY",Oviedo TV
 https://59ce1298bfb98.streamlock.net/oviedotv/oviedotv/playlist.m3u8
 
+#EXTINF:-1 tvg-name="ISS LIVE" tvg-logo="https://th.bing.com/th/id/OIP.yZO3dfWbkLn3OAU0yZVy4wHaHa?pid=ImgDet&rs=1" group-title="NOTICIAS",ISS LIVE
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/SpaceVideosHD/live
+
 #EXTINF:-1 tvg-name="Educa TV" tvg-logo="https://yt3.ggpht.com/a/AATXAJz3QmoYWd8qB_v0sjmoRFwsM0VXOv-8Et195Q=s900-c-k-c0xffffffff-no-rj-mo" group-title="ECUADOR",Educa TV
 https://cloud7.streamingcnt.net/cnt/educa/playlist.m3u8
 
