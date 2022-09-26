@@ -29,10 +29,10 @@ https://d4xunn272arip.cloudfront.net/hls/c9n_360.m3u8
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
 
 #EXTINF:-1 tvg-name="Telefuturo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Telefuturo2017.png" group-title="PARAGUAY",Telefuturo
-http://tv.masterplaytv.club:28000/live/guillermodissimoz30/guillermodissimoz30/1235.m3u8
+http://stalkertvlatinopanel.com:8080/play/DEPNBnSv8UnxpfXC4eI0ptK-tl43mAerywOBE7cdePI/ts
 
 #EXTINF:-1 tvg-name="Latele" tvg-logo="https://th.bing.com/th/id/OIP.bWfW4HsdYPJzemGZjDmtLwHaDX?pid=ImgDet&rs=1" group-title="PARAGUAY",Latele
-http://tv.masterplaytv.club:28000/live/guillermodissimoz30/guillermodissimoz30/1252.m3u8
+http://stalkertvlatinopanel.com:8080/play/5WsS8Ql6UsgVyW84m3QVi2KI6AXjmgXeVo5gHXIxpV4/ts
 
 #EXTINF:-1 tvg-name="Unicanal" tvg-logo="https://lh3.googleusercontent.com/-RjyvLZJ0ed4/YH44rJhzBEI/AAAAAAABBxA/BYT7vltKAgsulzaQkdoAg8KadCOWEXHZwCK8BGAsYHg/s512/2021-04-19.jpg" group-title="PARAGUAY",Unicanal
 http://45.55.127.106/live/unicanal_mid.m3u8
@@ -835,7 +835,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b7500077
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d64d0e8a62000964ebe4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a1017b00-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3566ca8c-2173-405a-b3fd-417fe1777274&userId=&serverSideAds=true
 
 EXTINF:-1 tvg-name="Paravision" tvg-logo="https://lh3.googleusercontent.com/-1fUjD2FTrlU/YH4xkxag6PI/AAAAAAABBwE/ESDwMnL4nlsKPWztFXz676S0xTg-ROj6wCK8BGAsYHg/s512/2021-04-19.jpg" group-title="PARAGUAY",Paravision
-http://edge2-ccast-sl.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_SAGEMCOM/PARAVISION_C4.m3u8
+http://stalkertvlatinopanel.com:8080/play/8MWMPLWGS_q_MupQ4eb3nqpkRfZoC1JzBpICHndNZNU/ts
 
 EXTINF:-1 tvg-name="GenTV" tvg-logo="https://www.television.com.py/wp-content/uploads/2020/10/LogoGENtvpy.jpg" group-title="PARAGUAY",GEN
 https://rds3gen.desdeparaguay.net/gentv/gentv_int_baja/chunklist_w1317888328.m3u8?k=7124ea7f6a55367e4c0ac4ed723c1e6303ca2ea3fbe211ed6d0f9c4a3f331de0&exp=1658746403
