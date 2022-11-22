@@ -10,7 +10,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/todon
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
 
 #EXTINF:-1 tvg-name="TV PUBLICA" tvg-logo="https://th.bing.com/th/id/R.61ef1929ee29f6e6e9cfedd7538240bb?rik=AYWctedc4sJ7hA&riu=http%3a%2f%2fi.imgbox.com%2f8ba6r7H9.png&ehk=PAUda9CR4kTov%2fKEslCMhZY3Zx3XPXGrxyIA4kICmuM%3d&risl=&pid=ImgRaw&r=0" group-title="ARGENTINA",TV PUBLICA
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/TVPublicaArgentina/live
+http://tutv.online:2080/Luis/Luis/108989
 
 #EXTINF:-1 tvg-name="CANAL26" tvg-logo="https://th.bing.com/th/id/R.02bb5a2325c1e88d621f2ceb6dfa4124?rik=UIpRewPcwqSZIA&riu=http%3a%2f%2f2.bp.blogspot.com%2f-WSfdALECnGU%2fVcYmaM7yHTI%2fAAAAAAAAPg4%2fsCwv6OV78zY%2fs1600%2f1i3qjKB.png&ehk=gIPpqhYknPxE370rxd48V2X4%2fL%2b%2fJ8sZJBmCsWALqes%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1" group-title="ARGENTINA",Canal 26
 http://200.115.193.177/live/26hd-720/playlist.m3u8
@@ -851,3 +851,12 @@ https://tastemadees16intl-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Directv Sports Fight" tvg-logo="https://th.bing.com/th/id/R.9722101ff303c447218d3ae077b14944?rik=TqUjuq43cCAXxA&pid=ImgRaw&r=0" group-title="DEPORTE" ,Directv Sports Fight (C)(720)
 http://tv.masterplaytv.club:28000/live/guillermodissimoz30/guillermodissimoz30/154277.m3u8
+
+#EXTINF:-1 tvg-name="TIGO PARAGUAY" tvg-logo="http://54.39.156.227:2080/images/7b4e2ae2002877fda21d98010d675024.jpg" group-title="PARAGUAY",TIGO PARAGUAY 2
+http://tutv.online:2080/Luis/Luis/53014
+
+#EXTINF:-1 tvg-name="Tigo Sport 2" tvg-logo="http://54.39.156.227:2080/images/7b4e2ae2002877fda21d98010d675024.jpg" group-title="PARAGUAY",Tigo Sport 2
+http://tutv.online:2080/Luis/Luis/53015
+
+#EXTINF:-1 tvg-name="Tigo Sport Plus" tvg-logo="http://54.39.156.227:2080/images/7b4e2ae2002877fda21d98010d675024.jpg" group-title="PARAGUAY",Tigo Sport Plus
+http://tutv.online:2080/Luis/Luis/53016
