@@ -476,14 +476,14 @@ http://tv.nousiptv.com:8080/joaco/joaco/4014
 #EXTINF:-1 tvg-name="Discovery H&H" tvg-logo="https://th.bing.com/th/id/R.2d32db4745607f18056cf959e1001113?rik=A%2f2cr3HLxbXJ%2bA&pid=ImgRaw&r=0" group-title="PREMIUM", DISCOVERY H&H HD (MX)
 http://tutv.online:2080/Luis/Luis/71709
 
-#EXTINF:-1 tvg-name="FOXSPORTS" tvg-logo="https://th.bing.com/th/id/R.a3bfd48feb334ed2dfd70a7c48bb5e11?rik=TfxOJ27sok%2bbTg&riu=http%3a%2f%2fwww.studionetworksolutions.com%2fwp-content%2fuploads%2f2014%2f03%2fFOX-Sports-21.jpg&ehk=hA2KRBqvwTZGa%2fV3vxXmOy65GdDfCbsqY%2fIv5hcIOZk%3d&risl=&pid=ImgRaw&r=0" group-title="DEPORTE",FOX SPORTS HD (MX)
-http://tv.nousiptv.com:8080/joaco/joaco/1090738
+#EXTINF:-1 tvg-name="FOXSPORTS" tvg-logo="https://th.bing.com/th/id/R.a3bfd48feb334ed2dfd70a7c48bb5e11?rik=TfxOJ27sok%2bbTg&riu=http%3a%2f%2fwww.studionetworksolutions.com%2fwp-content%2fuploads%2f2014%2f03%2fFOX-Sports-21.jpg&ehk=hA2KRBqvwTZGa%2fV3vxXmOy65GdDfCbsqY%2fIv5hcIOZk%3d&risl=&pid=ImgRaw&r=0" group-title="DEPORTE",FOX SPORTS AR
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3038
 
-#EXTINF:-1 tvg-name="FOXSPORTS2" tvg-logo="https://3.bp.blogspot.com/-B19vvLrXixY/XGv7otWHlfI/AAAAAAAAAds/_sqwxu_sdXwzUa4flfsnwTQPf3EF3aMQACLcBGAs/s1600/fox_sports2_N.png" group-title="DEPORTE",FOX SPORTS 2 HD (MX)
-http://tv.nousiptv.com:8080/joaco/joaco/1090741
+#EXTINF:-1 tvg-name="FOXSPORTS2" tvg-logo="https://3.bp.blogspot.com/-B19vvLrXixY/XGv7otWHlfI/AAAAAAAAAds/_sqwxu_sdXwzUa4flfsnwTQPf3EF3aMQACLcBGAs/s1600/fox_sports2_N.png" group-title="DEPORTE",FOX SPORTS 2 AR
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3039
 
-#EXTINF:-1 tvg-name="FOXSPORTS3" tvg-logo="https://th.bing.com/th/id/R.bebda2531f4c8a85d6d8533ac4357c79?rik=2VWqo4%2fvMU7Skw&riu=http%3a%2f%2fvignette1.wikia.nocookie.net%2flogosfake%2fimages%2f4%2f4b%2fFox_Sports_3.png%2frevision%2flatest%3fcb%3d20141006141554&ehk=iVqAiLOT5SigiIuM%2fyym9qlBlFLJ107nkET5f5ZhRAQ%3d&risl=&pid=ImgRaw&r=0" group-title="DEPORTE",FOX SPORTS 3 HD (MX)
-http://tv.nousiptv.com:8080/joaco/joaco/4008
+#EXTINF:-1 tvg-name="FOXSPORTS3" tvg-logo="https://th.bing.com/th/id/R.bebda2531f4c8a85d6d8533ac4357c79?rik=2VWqo4%2fvMU7Skw&riu=http%3a%2f%2fvignette1.wikia.nocookie.net%2flogosfake%2fimages%2f4%2f4b%2fFox_Sports_3.png%2frevision%2flatest%3fcb%3d20141006141554&ehk=iVqAiLOT5SigiIuM%2fyym9qlBlFLJ107nkET5f5ZhRAQ%3d&risl=&pid=ImgRaw&r=0" group-title="DEPORTE",FOX SPORTS 3 AR
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3040
 
 #EXTINF:-1 tvg-name="Farra Play" tvg-logo="https://lh3.googleusercontent.com/-Vmu2Cvi2Rj8/YH42aPZcKeI/AAAAAAABBw0/U3tG7jCKTvQKmyjFA8hrLnL8sp5SdghKgCK8BGAsYHg/s512/2021-04-19.jpg" group-title="PARAGUAY",Farra Play
 http://159.203.148.226/live/farra.m3u8?PlaylistM3UCL
@@ -515,11 +515,11 @@ http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/48807
 #EXTINF:-1 tvg-name="Movistar F1 opc2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Movistar_Formula_1.svg/1921px-Movistar_Formula_1.svg.png" group-title="DEPORTE",Movistar F1 2
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/48918
 
-#EXTINF:-1 tvg-name="ESPN 2 HD (MX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1200px-ESPN2_logo.svg.png" group-title="DEPORTE",ESPN 2 HD (MX)
-http://tv.nousiptv.com:8080/joaco/joaco/3258
+#EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1200px-ESPN2_logo.svg.png" group-title="DEPORTE",ESPN 2 AR
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3035
 
-#EXTINF:-1 tvg-name="ESPN 3 HD (MX)" tvg-logo="https://th.bing.com/th/id/OIP.ZxRyK_PVcyMSI42HJFuN4wHaBh?pid=ImgDet&rs=1" group-title="DEPORTE",ESPN 3 HD (MX)
-http://tv.nousiptv.com:8080/joaco/joaco/3260
+#EXTINF:-1 tvg-name="ESPN 3" tvg-logo="https://th.bing.com/th/id/OIP.ZxRyK_PVcyMSI42HJFuN4wHaBh?pid=ImgDet&rs=1" group-title="DEPORTE",ESPN 3 AR
+http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/3036
 
 #EXTINF:-1 tvg-name="ESPN 3 HD (MX)" tvg-logo="https://th.bing.com/th/id/OIP.ZxRyK_PVcyMSI42HJFuN4wHaBh?pid=ImgDet&rs=1" group-title="DEPORTE",ESPN 3 HD (MX)
 http://powertv365.com:8080/live/Bk8Ms39a8R/FvzIqJX3lL/41075.m3u
