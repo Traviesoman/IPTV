@@ -474,7 +474,7 @@ http://tv.nousiptv.com:8080/joaco/joaco/3749
 http://tv.nousiptv.com:8080/joaco/joaco/4014
 
 #EXTINF:-1 tvg-name="Discovery H&H" tvg-logo="https://th.bing.com/th/id/R.2d32db4745607f18056cf959e1001113?rik=A%2f2cr3HLxbXJ%2bA&pid=ImgRaw&r=0" group-title="PREMIUM", DISCOVERY H&H HD (MX)
-http://tv.nousiptv.com:8080/joaco/joaco/3083
+http://tutv.online:2080/Luis/Luis/71709
 
 #EXTINF:-1 tvg-name="FOXSPORTS" tvg-logo="https://th.bing.com/th/id/R.a3bfd48feb334ed2dfd70a7c48bb5e11?rik=TfxOJ27sok%2bbTg&riu=http%3a%2f%2fwww.studionetworksolutions.com%2fwp-content%2fuploads%2f2014%2f03%2fFOX-Sports-21.jpg&ehk=hA2KRBqvwTZGa%2fV3vxXmOy65GdDfCbsqY%2fIv5hcIOZk%3d&risl=&pid=ImgRaw&r=0" group-title="DEPORTE",FOX SPORTS HD (MX)
 http://tv.nousiptv.com:8080/joaco/joaco/1090738
@@ -624,7 +624,7 @@ http://m1.webvps.de:25443/MAG0l2pYzuUFa/DEjEvYU3m5/66049
 http://megatv.me:5890/khaled/12345/89973
 
 #EXTINF:-1 tvg-name="ARGENTINISIMA" tvg-logo="https://th.bing.com/th/id/R.a7c21d459d03323d5403fdf3b788232d?rik=%2fVcA32ZwskS3Vw&riu=http%3a%2f%2fing-sat.what.hu%2fimages%2flogo-insert%2fsatlogos%2fargentina%2f140-Argentinisima-Satelital.jpg&ehk=yPk%2b6JDER4umFCkczYG8Q5bC06IxXlpfY4JHgsFLo1o%3d&risl=&pid=ImgRaw&r=0" group-title="ARGENTINA",Argentinisima Sat
-http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
+http://tutv.online:2080/Luis/Luis/72770
 
 #EXTINF:-1 tvg-name="C5N" tvg-logo="https://th.bing.com/th/id/OIP.iuUMkA7f0Q6kCLwuYjvO-AHaHc?pid=ImgDet&rs=1" group-title="ARGENTINA",C5N
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/c5n/live
