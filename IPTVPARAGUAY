@@ -18,8 +18,6 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@TVPubl
 #EXTINF:-1 tvg-name="TV PUBLICA 3" tvg-logo="https://th.bing.com/th/id/R.61ef1929ee29f6e6e9cfedd7538240bb?rik=AYWctedc4sJ7hA&riu=http%3a%2f%2fi.imgbox.com%2f8ba6r7H9.png&ehk=PAUda9CR4kTov%2fKEslCMhZY3Zx3XPXGrxyIA4kICmuM%3d&risl=&pid=ImgRaw&r=0" group-title="ARGENTINA",TV PUBLICA 3
 http://mymoontools.xyz:8080//FNmdP2U7ey/FwQBAhSK3ddsrq/109935
 
-
-
 #EXTINF:-1 tvg-name="CANAL26" tvg-logo="https://th.bing.com/th/id/R.02bb5a2325c1e88d621f2ceb6dfa4124?rik=UIpRewPcwqSZIA&riu=http%3a%2f%2f2.bp.blogspot.com%2f-WSfdALECnGU%2fVcYmaM7yHTI%2fAAAAAAAAPg4%2fsCwv6OV78zY%2fs1600%2f1i3qjKB.png&ehk=gIPpqhYknPxE370rxd48V2X4%2fL%2b%2fJ8sZJBmCsWALqes%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1" group-title="ARGENTINA",Canal 26
 http://200.115.193.177/live/26hd-720/playlist.m3u8
 
@@ -30,8 +28,7 @@ http://200.115.193.177/live/26hd-720/playlist.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/LaNacionMas/live
 
 #EXTINF:-1 tvg-name="C9N" tvg-logo="https://th.bing.com/th/id/R.b24a26ae2507f109345069eb5a282ec1?rik=KyPTu8uGZts0Ag&pid=ImgRaw&r=0&sres=1&sresct=1" group-title="PARAGUAY",C9N
-https://d4xunn272arip.cloudfront.net/hls/c9n_360.m3u8
-//tv.masterplaytv.club:28000/live/guillermodissimoz30/guillermodissimoz30/60120.m3u8
+https://d1263956mchuq3.cloudfront.net/hls/c9n_360.m3u8
 
 #EXTINF:-1 tvg-name="A24" tvg-logo="https://th.bing.com/th/id/R.75178f2a4833cafb1965d59b197e5ef6?rik=OWyDK7u%2bNqVoNw&riu=http%3a%2f%2ftvabierta.weebly.com%2fuploads%2f5%2f1%2f3%2f4%2f51344345%2fa24.png&ehk=pnR4rJ0Fbda0LViOf2QITpQ%2fcwNGLC1Kw0Rug5w93mw%3d&risl=&pid=ImgRaw&r=0" group-title="ARGENTINA",A24
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
