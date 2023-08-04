@@ -28,7 +28,7 @@ http://200.115.193.177/live/26hd-720/playlist.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/LaNacionMas/live
 
 #EXTINF:-1 tvg-name="C9N" tvg-logo="https://th.bing.com/th/id/R.b24a26ae2507f109345069eb5a282ec1?rik=KyPTu8uGZts0Ag&pid=ImgRaw&r=0&sres=1&sresct=1" group-title="PARAGUAY",C9N
-https://d1263956mchuq3.cloudfront.net/hls/c9n_360.m3u8
+https://deh05ueq91v6s.cloudfront.net/C9NPY/031fe10f99063bb9e8271716ce50b133.sdp/C9NPY/C9NPY2/chunks.m3u8
 
 #EXTINF:-1 tvg-name="A24" tvg-logo="https://th.bing.com/th/id/R.75178f2a4833cafb1965d59b197e5ef6?rik=OWyDK7u%2bNqVoNw&riu=http%3a%2f%2ftvabierta.weebly.com%2fuploads%2f5%2f1%2f3%2f4%2f51344345%2fa24.png&ehk=pnR4rJ0Fbda0LViOf2QITpQ%2fcwNGLC1Kw0Rug5w93mw%3d&risl=&pid=ImgRaw&r=0" group-title="ARGENTINA",A24
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
