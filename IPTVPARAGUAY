@@ -84,9 +84,8 @@ http://tv.nousiptv.com:8080/joaco/joaco/3068
 #EXTINF:-1 tvg-name="STUDIO UNIVERSAL" tvg-logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png" group-title="PREMIUM",STUDIO UNIVERSAL
 http://tv.nousiptv.com:8080/joaco/joaco/3229
 
-
 #EXTINF:-1 tvg-name="SNT" tvg-logo="https://th.bing.com/th/id/R.c9db81d27f6ee5cd3b06772587c92899?rik=kyyigrDllxUBSg&riu=http%3a%2f%2fwww.concepcionaldia.com%2fwp-content%2fuploads%2f2014%2f09%2fsnt_py-1024x477.png&ehk=xXBFNs3MkJ0hSu3GtJiP%2f9kIJR8Cd2gpHc9X16A7118%3d&risl=&pid=ImgRaw&r=0" group-title="PARAGUAY",SNT
-https://d1263956mchuq3.cloudfront.net/hls/snt_360.m3u8
+https://deh05ueq91v6s.cloudfront.net/SNTPY/0bd4cfaf086c4ac0ce0101172a42ba20.sdp/chunks.m3u8
 
 #EXTINF:-1 tvg-name="I-SAT" tvg-logo="http://www.mediafire.com/convkey/1be8/s5csgid3ad6vg3azg.jpg" group-title="PREMIUM",I-SAT
 http://tv.nousiptv.com:8080/joaco/joaco/3074
